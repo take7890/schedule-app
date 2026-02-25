@@ -288,12 +288,14 @@
       "common": null,
       "yasui": "休",
       "holidays": [
-        "小松"
+        "小松",
+        "島本",
+        "井上"
       ],
       "arakawa": "活動報告作成\nスケジュール送付\n定期清掃検討",
       "komatsu": "休",
-      "shimamoto": null,
-      "inoue": null
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-02-24",
