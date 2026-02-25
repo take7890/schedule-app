@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="スケジュール">
+    <meta name="theme-color" content="#1a73e8">
+    <title>スケジュール表</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a73e8;
+            --primary-dark: #1557b0;
+            --secondary: #34a853;
+            --accent: #ea4335;
+            --yasui: #9c27b0;
+            --holiday-bg: #fff3e0;
+            --holiday-text: #e65100;
+            --bg: #f0f4f8;
+            --card-bg: #ffffff;
+            --text: #202124;
+            --text-light: #5f6368;
+            --border: #e8eaed;
+            --shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+            --radius: 12px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            /* スマホのセーフエリア対応 */
+            padding-bottom: env(safe-area-inset-bottom);
+        }
+
+        /* ヘッダー */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, #0052cc 100%);
+            color: white;
+            padding: 16px 20px;
+            padding-top: calc(16px + env(safe-area-inset-top));
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        header h1 {
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+
+        header .subtitle {
+            font-size: 0.72rem;
+            opacity: 0.8;
+            margin-top: 2px;
+        }
+
+        /* ナビゲーション */
+        .nav-bar {
+            background: white;
+            padding: 10px 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+        }
+
+        .nav-month {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex: 1;
+        }
+
+        .btn-nav {
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .month-label {
+            font-size: 1.1rem;
+            font-weight: 700;
+            min-width: 110px;
+            text-align: center;
+        }
+
+        .btn-today {
+            background: white;
+            border: 2px solid var(--primary);
+            color: var(--primary);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        /* 凡例 */
+        .legend {
+            background: white;
+            padding: 8px 14px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            font-size: 0.72rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .legend-dot {
+            width: 9px;
+            height: 9px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
+        /* タブ */
+        .tab-bar {
+            display: flex;
+            background: white;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 11px;
+            border: none;
+            background: none;
+            font-size: 0.82rem;
+            font-weight: 600;
+            color: var(--text-light);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+        }
+
+        .tab-btn.active {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            margin-bottom: -2px;
+        }
+
+        /* カレンダー */
+        #calendar-view {
+            padding: 10px;
+        }
+
+        .cal-grid {
+            background: white;
+            border-radius: var(--radius);
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            margin-bottom: 12px;
+        }
+
+        .cal-weekdays {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            background: var(--primary);
+            color: white;
+        }
+
+        .cal-weekday {
+            text-align: center;
+            padding: 8px 0;
+            font-size: 0.76rem;
+            font-weight: 600;
+        }
+
+        .cal-weekday.sat {
+            color: #90caf9;
+        }
+
+        .cal-weekday.sun {
+            color: #ef9a9a;
+        }
+
+        .cal-days {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+        }
+
+        .cal-day {
+            border: 1px solid var(--border);
+            min-height: 58px;
+            padding: 3px;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .cal-day:active {
+            background: #e8f0fe;
+        }
+
+        .cal-day.empty {
+            background: #fafafa;
+            cursor: default;
+        }
+
+        .cal-day.today .day-num {
+            background: var(--primary);
+            color: white;
+            border-radius: 50%;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .cal-day.selected {
+            background: #e3f2fd;
+        }
+
+        .day-num {
+            font-size: 0.78rem;
+            font-weight: 600;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .day-num.sat {
+            color: #1565c0;
+        }
+
+        .day-num.sun {
+            color: var(--accent);
+        }
+
+        .cal-day-dots {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2px;
+            margin-top: 2px;
+        }
+
+        .dot {
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
+        .dot-common {
+            background: var(--secondary);
+        }
+
+        .dot-yasui {
+            background: var(--yasui);
+        }
+
+        .dot-holiday {
+            background: var(--holiday-text);
+        }
+
+        /* 詳細パネル */
+        .detail-panel {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            margin-bottom: 12px;
+        }
+
+        .detail-header {
+            background: linear-gradient(135deg, #1a73e8, #0052cc);
+            color: white;
+            padding: 12px 16px;
+        }
+
+        .detail-header .date-big {
+            font-size: 1.15rem;
+            font-weight: 700;
+        }
+
+        .detail-row {
+            display: flex;
+            border-bottom: 1px solid var(--border);
+            padding: 12px 14px;
+            gap: 10px;
+        }
+
+        .detail-row:last-child {
+            border-bottom: none;
+        }
+
+        .detail-label {
+            font-size: 0.74rem;
+            font-weight: 700;
+            min-width: 75px;
+            padding: 3px 8px;
+            border-radius: 12px;
+            height: fit-content;
+            text-align: center;
+        }
+
+        .label-common {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .label-yasui {
+            background: #f3e5f5;
+            color: #6a1b9a;
+        }
+
+        .label-holiday {
+            background: #fff3e0;
+            color: #e65100;
+        }
+
+        .detail-text {
+            font-size: 0.86rem;
+            line-height: 1.65;
+            white-space: pre-wrap;
+            flex: 1;
+        }
+
+        .holiday-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .holiday-chip {
+            background: var(--holiday-bg);
+            color: var(--holiday-text);
+            border: 1px solid #ffcc80;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.82rem;
+            font-weight: 600;
+        }
+
+        .no-data {
+            color: var(--text-light);
+            font-size: 0.85rem;
+            padding: 16px;
+            text-align: center;
+        }
+
+        /* リストビュー */
+        #list-view {
+            padding: 10px;
+            display: none;
+        }
+
+        .list-month-title {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--primary);
+            padding: 6px 4px;
+            border-bottom: 2px solid var(--primary);
+            margin-bottom: 8px;
+        }
+
+        .list-item {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .list-item-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 12px;
+            background: #f8f9fa;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .list-date-badge {
+            background: var(--primary);
+            color: white;
+            border-radius: 8px;
+            padding: 4px 10px;
+            font-size: 0.88rem;
+            font-weight: 700;
+        }
+
+        .list-date-badge.sat {
+            background: #1565c0;
+        }
+
+        .list-date-badge.sun {
+            background: var(--accent);
+        }
+
+        .list-item-body {
+            padding: 10px 12px;
+        }
+
+        .list-section {
+            margin-bottom: 8px;
+        }
+
+        .list-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .list-section-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: var(--text-light);
+            margin-bottom: 2px;
+        }
+
+        .list-section-text {
+            font-size: 0.84rem;
+            line-height: 1.5;
+            white-space: pre-wrap;
+        }
+
+        .list-holiday-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 4px;
+        }
+
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+            color: var(--text-light);
+            gap: 12px;
+        }
+
+        .spinner {
+            width: 24px;
+            height: 24px;
+            border: 3px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .update-info {
+            text-align: center;
+            color: var(--text-light);
+            font-size: 0.7rem;
+            padding: 10px;
+        }
+
+        @media (min-width: 600px) {
+            .cal-day {
+                min-height: 80px;
+            }
+
+            #list-view,
+            #calendar-view {
+                max-width: 700px;
+                margin: 0 auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>📅 スケジュール表</h1>
+        <div class="subtitle" id="updated-at">読み込み中...</div>
+    </header>
+
+    <div class="tab-bar">
+        <button class="tab-btn active" id="tab-cal" onclick="switchTab('cal')">🗓 カレンダー</button>
+        <button class="tab-btn" id="tab-list" onclick="switchTab('list')">📋 リスト</button>
+    </div>
+
+    <div class="nav-bar">
+        <div class="nav-month">
+            <button class="btn-nav" onclick="changeMonth(-1)">‹</button>
+            <div class="month-label" id="month-label">読み込み中</div>
+            <button class="btn-nav" onclick="changeMonth(1)">›</button>
+        </div>
+        <button class="btn-today" onclick="goToday()">今日</button>
+    </div>
+
+    <div class="legend">
+        <span class="legend-item"><span class="legend-dot" style="background:#34a853"></span>共通予定</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#9c27b0"></span>安井さん</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#e65100"></span>休み</span>
+    </div>
+
+    <div id="calendar-view">
+        <div class="loading">
+            <div class="spinner"></div>データを読み込み中...
+        </div>
+    </div>
+    <div id="list-view">
+        <div class="loading">
+            <div class="spinner"></div>データを読み込み中...
+        </div>
+    </div>
+
+    <script>
+        let ALL_DATA = [];
+        let currentYear, currentMonth;
+        let selectedDate = null;
+        let currentTab = 'cal';
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        async function loadData() {
+            try {
+                const res = await fetch('schedule_data.json');
+                const json = await res.json();
+                ALL_DATA = json.schedules;
+                document.getElementById('updated-at').textContent = '最終更新: ' + json.generated;
+                init();
+            } catch (e) {
+                document.getElementById('calendar-view').innerHTML =
+                    '<div class="no-data">⚠️ データ読み込みエラー</div>';
+            }
+        }
+
+        function init() {
+            currentYear = today.getFullYear();
+            currentMonth = today.getMonth() + 1;
+            selectedDate = formatDate(today);
+            render();
+        }
+
+        function formatDate(d) {
+            return d.getFullYear() + '-' +
+                String(d.getMonth() + 1).padStart(2, '0') + '-' +
+                String(d.getDate()).padStart(2, '0');
+        }
+
+        function getByDate(dateStr) {
+            return ALL_DATA.find(d => d.date === dateStr) || null;
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.getElementById('tab-cal').classList.toggle('active', tab === 'cal');
+            document.getElementById('tab-list').classList.toggle('active', tab === 'list');
+            document.getElementById('calendar-view').style.display = tab === 'cal' ? '' : 'none';
+            document.getElementById('list-view').style.display = tab === 'list' ? '' : 'none';
+            render();
+        }
+
+        function changeMonth(delta) {
+            currentMonth += delta;
+            if (currentMonth > 12) { currentMonth = 1; currentYear++; }
+            if (currentMonth < 1) { currentMonth = 12; currentYear--; }
+            render();
+        }
+
+        function goToday() {
+            currentYear = today.getFullYear();
+            currentMonth = today.getMonth() + 1;
+            selectedDate = formatDate(today);
+            render();
+        }
+
+        function render() {
+            document.getElementById('month-label').textContent =
+                currentYear + '年' + currentMonth + '月';
+            if (currentTab === 'cal') renderCalendar();
+            else renderList();
+        }
+
+        function renderCalendar() {
+            const cv = document.getElementById('calendar-view');
+            const firstDay = new Date(currentYear, currentMonth - 1, 1);
+            const lastDay = new Date(currentYear, currentMonth, 0);
+            let startDow = firstDay.getDay();
+
+            let html = '<div class="cal-grid"><div class="cal-weekdays">';
+            ['日', '月', '火', '水', '木', '金', '土'].forEach((d, i) => {
+                const cls = i === 0 ? 'sun' : i === 6 ? 'sat' : '';
+                html += `<div class="cal-weekday ${cls}">${d}</div>`;
+            });
+            html += '</div><div class="cal-days">';
+
+            for (let i = 0; i < startDow; i++) html += '<div class="cal-day empty"></div>';
+
+            for (let d = 1; d <= lastDay.getDate(); d++) {
+                const dateStr = currentYear + '-' + String(currentMonth).padStart(2, '0') + '-' + String(d).padStart(2, '0');
+                const dow = (startDow + d - 1) % 7;
+                const isToday = dateStr === formatDate(today);
+                const isSel = dateStr === selectedDate;
+                const entry = getByDate(dateStr);
+
+                let cls = 'cal-day' + (isToday ? ' today' : '') + (isSel ? ' selected' : '');
+                let numCls = 'day-num' + (dow === 0 ? ' sun' : dow === 6 ? ' sat' : '');
+
+                let dots = '';
+                if (entry) {
+                    if (entry.common) dots += '<span class="dot dot-common"></span>';
+                    if (entry.yasui) dots += '<span class="dot dot-yasui"></span>';
+                    if (entry.holidays?.length > 0) dots += '<span class="dot dot-holiday"></span>';
+                }
+                html += `<div class="${cls}" onclick="selectDate('${dateStr}')">
+      <div class="${numCls}">${d}</div>
+      <div class="cal-day-dots">${dots}</div>
+    </div>`;
+            }
+            html += '</div></div>';
+            html += renderDetail(selectedDate);
+            html += '<div class="update-info">データ更新日: ' + (ALL_DATA.length > 0 ? document.getElementById('updated-at').textContent.replace('最終更新: ', '') : '-') + '</div>';
+            cv.innerHTML = html;
+        }
+
+        function renderDetail(dateStr) {
+            if (!dateStr) return '';
+            const d = getByDate(dateStr);
+            const dateObj = new Date(dateStr);
+            const wd = ['日', '月', '火', '水', '木', '金', '土'][dateObj.getDay()];
+
+            let html = `<div class="detail-panel">
+    <div class="detail-header">
+      <div class="date-big">${dateObj.getMonth() + 1}月${dateObj.getDate()}日 (${wd})</div>
+    </div><div>`;
+
+            if (!d) {
+                html += '<div class="no-data">この日のデータはありません</div>';
+            } else {
+                html += `<div class="detail-row">
+      <span class="detail-label label-common">📌 共通予定</span>
+      <div class="detail-text">${d.common ? esc(d.common) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+                html += `<div class="detail-row">
+      <span class="detail-label label-yasui">👤 安井さん</span>
+      <div class="detail-text">${d.yasui ? esc(d.yasui) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+                const hols = d.holidays || [];
+                html += `<div class="detail-row">
+      <span class="detail-label label-holiday">🏖 休み</span>
+      <div>${hols.length === 0
+                        ? '<span style="color:#aaa;font-size:0.85rem">なし</span>'
+                        : '<div class="holiday-chips">' + hols.map(n => `<span class="holiday-chip">${n}</span>`).join('') + '</div>'
+                    }</div>
+    </div>`;
+            }
+            html += '</div></div>';
+            return html;
+        }
+
+        function selectDate(dateStr) {
+            selectedDate = dateStr;
+            renderCalendar();
+            // スクロールして詳細を見やすくする
+            setTimeout(() => {
+                document.querySelector('.detail-panel')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }, 50);
+        }
+
+        function renderList() {
+            const lv = document.getElementById('list-view');
+            const prefix = currentYear + '-' + String(currentMonth).padStart(2, '0');
+            const monthData = ALL_DATA.filter(d => d.date.startsWith(prefix));
+            const wdays = ['日', '月', '火', '水', '木', '金', '土'];
+
+            if (!monthData.length) { lv.innerHTML = '<div class="no-data">この月のデータはありません</div>'; return; }
+
+            let html = `<div class="list-month-title">${currentYear}年${currentMonth}月</div>`;
+            monthData.forEach(entry => {
+                if (!entry.common && !entry.yasui && (!entry.holidays || entry.holidays.length === 0)) return;
+                const dateObj = new Date(entry.date);
+                const dow = dateObj.getDay();
+                const wd = wdays[dow];
+                let badge = 'list-date-badge' + (dow === 0 ? ' sun' : dow === 6 ? ' sat' : '');
+                const isToday = entry.date === formatDate(today);
+
+                html += `<div class="list-item">
+      <div class="list-item-header">
+        <span class="${badge}">${currentMonth}/${dateObj.getDate()} (${wd})${isToday ? ' 📍' : ''}</span>
+      </div><div class="list-item-body">`;
+                if (entry.common) html += `<div class="list-section"><div class="list-section-label">📌 共通予定</div><div class="list-section-text" style="color:#2e7d32">${esc(entry.common)}</div></div>`;
+                if (entry.yasui) html += `<div class="list-section"><div class="list-section-label">👤 安井さん</div><div class="list-section-text" style="color:#6a1b9a">${esc(entry.yasui)}</div></div>`;
+                if (entry.holidays?.length > 0) {
+                    html += `<div class="list-section"><div class="list-section-label">🏖 休み</div><div class="list-holiday-chips">`;
+                    entry.holidays.forEach(n => { html += `<span class="holiday-chip">${n}</span>`; });
+                    html += '</div></div>';
+                }
+                html += '</div></div>';
+            });
+            lv.innerHTML = html || '<div class="no-data">予定のある日はありません</div>';
+        }
+
+        function esc(str) {
+            if (!str) return '';
+            return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>');
+        }
+
+        loadData();
+    </script>
+</body>
+
+</html>
