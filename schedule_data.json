@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-26 23:47",
+  "generated": "2026-02-27 00:05",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -9,6 +9,12 @@
       "holidays": [
         "荒川",
         "井上"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "海外視察"
+        }
       ],
       "arakawa": "休",
       "komatsu": "就業規則見直し",
@@ -21,6 +27,12 @@
       "common": "各所：害虫生息調査　7：30～",
       "yasui": "ガス閉栓\n迎賓館シール工事\n漏水セミナー①10:30②13:30",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "海外視察"
+        }
+      ],
       "arakawa": "13：00～14：00キャリア",
       "komatsu": "11：00～12：00ｷｬﾘｱ面談\n＠談話室3\n就業規則見直し",
       "shimamoto": null,
@@ -32,6 +44,12 @@
       "common": null,
       "yasui": "アパルトⅢ検針・設定変更\nAJCショップ上修理\nセ棟水栓交換\n漏水セミナー①10:30②13:30",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "海外視察JL044ヒースロー18：30-"
+        }
+      ],
       "arakawa": "10:00にしけい",
       "komatsu": "就業規則見直し",
       "shimamoto": null,
@@ -44,6 +62,12 @@
       "yasui": "休",
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "海外視察　　　　　　　　　　　　　　　-羽田17：20　JAL333羽田18：55-福岡21：05"
+        }
       ],
       "arakawa": "10：00迎賓館雛飾り\nルコ消防訓練相談\n13：30九州電力\n15:00オクゼン",
       "komatsu": "休",
@@ -59,6 +83,12 @@
         "荒川",
         "井上"
       ],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[終日〜] 外出"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "節分準備",
       "shimamoto": null,
@@ -70,6 +100,20 @@
       "common": "アシュランクラブ　　龍國院節分祭",
       "yasui": "調光",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[11:00〜] 西村織物　西村社長"
+        },
+        {
+          "role": "副社長",
+          "text": "[13:00〜15:00] 本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+        },
+        {
+          "role": "副社長",
+          "text": "[16:00〜] 徳永DM、李DM、岡DM"
+        }
+      ],
       "arakawa": "AC対応",
       "komatsu": "アシュランクラブ対応\n節分対応",
       "shimamoto": null,
@@ -82,6 +126,16 @@
       "yasui": "休",
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "大阪　JAL2050　福岡7：00-伊丹8：00/のぞみ33 新大阪15：02京都14：46-博多17：30"
+        },
+        {
+          "role": "社長",
+          "text": "[PM〜] 外出"
+        }
       ],
       "arakawa": "10：30オクゼン坂本",
       "komatsu": "休",
@@ -97,6 +151,12 @@
         "荒川",
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　ANA434　福岡9：00-名古屋10：10 名鉄10：37-金山11：01のぞみ6 博多7：15-名古屋10：34/のぞみ35名古屋14：49-博多18：09"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "休",
       "shimamoto": null,
@@ -110,6 +170,12 @@
       "holidays": [
         "井上"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "神戸ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54-博多15：09 のぞみ21 新神戸12：15-博多14：30　のぞみ29 新神戸14：15-博多16：30"
+        }
+      ],
       "arakawa": "9:00GEH消防点検\n11：00オクゼン河野",
       "komatsu": "就業規則見直し",
       "shimamoto": null,
@@ -121,6 +187,12 @@
       "common": "アパルトⅣ：貯水槽清掃　13：30～",
       "yasui": "休",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東ｽﾃｯﾌﾟｱｯﾌﾟｾﾐﾅｰ　JAL300 福岡7：05-羽田8：35/JAL323 羽田15：10-福岡17：10"
+        }
+      ],
       "arakawa": "9：00浅井さん・市井さん",
       "komatsu": "14：30安全衛生委員会\n15：00福崎さん来社",
       "shimamoto": null,
@@ -135,6 +207,7 @@
         "荒川",
         "井上"
       ],
+      "executives": [],
       "arakawa": "休",
       "komatsu": "就業規則見直し\n安井さんにロングバッテリー",
       "shimamoto": null,
@@ -148,6 +221,12 @@
       "holidays": [
         "井上"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "松山ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3591 福岡9：10-松山9：50/JAL3602 松山14：35-福岡15：25"
+        }
+      ],
       "arakawa": "15：30にしけい",
       "komatsu": "就業規則見直し",
       "shimamoto": null,
@@ -160,6 +239,12 @@
       "yasui": "休",
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "御殿場ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7:05-羽田8:35 こだま713品川9:34-三島10:17/こだま724　三島14:54-品川15:40 JAL327 羽田16：55-福岡19：05"
+        }
       ],
       "arakawa": "橋本さん自転車の件\n10:00 カートバッテリー交換\nEL点検",
       "komatsu": "休",
@@ -175,6 +260,12 @@
         "荒川",
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "名古屋　JAL4390 福岡15：25－小牧16：45"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "休",
       "shimamoto": null,
@@ -189,6 +280,16 @@
         "荒川",
         "井上"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "外出　JAL4383　小牧8：00-福岡9：35"
+        },
+        {
+          "role": "副社長",
+          "text": "[16:30〜] ルコパン試食"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "就業規則見直し",
       "shimamoto": null,
@@ -200,6 +301,12 @@
       "common": "事務棟：B1階通路・書庫等 床定期清掃　9：00～\n配送棟：B1階倉庫・エアピロ室・前室 床定期清掃　13：00～\n配送棟：1階物流室 床定期清掃　17：00～",
       "yasui": "検針\n檜枝さん給湯器交換見積り",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：05-羽田8：35 ひたち7 東京9：53-水戸11：05 / ひたち16 水戸14：27-東京15：42 JAL327 羽田16：55-福岡19：05"
+        }
+      ],
       "arakawa": "勤怠〆",
       "komatsu": "勤怠締め\n活動報告依頼メール\n内線番号展開",
       "shimamoto": null,
@@ -212,6 +319,12 @@
       "yasui": "休",
       "holidays": [
         "井上"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "ひたち12　水戸12：27-東京13：42/JAL323 羽田15：10-福岡17：10　ひたち4　水戸8：10-東京9：38/JAL315　羽田10：55-福岡13：00"
+        }
       ],
       "arakawa": "13：00空閑園芸",
       "komatsu": "就業規則見直し\n15：00　米打合せ",
@@ -226,6 +339,20 @@
       "holidays": [
         "荒川"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "防府ｱｼｭﾗﾝｸﾗﾌﾞ"
+        },
+        {
+          "role": "社長・副社長",
+          "text": "[15:00〜] ヒラヤマ　平山会長"
+        },
+        {
+          "role": "副社長",
+          "text": "[16:30〜] ルコパン試食"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "古賀さんに米の話\n14：00ブロック会議\n翌日の田﨑出水便確認",
       "shimamoto": null,
@@ -239,6 +366,12 @@
       "holidays": [
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "佐世保ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
+      ],
       "arakawa": "14:00九州電力\n16:00クラフティア",
       "komatsu": "休",
       "shimamoto": null,
@@ -250,6 +383,12 @@
       "common": null,
       "yasui": "ショップ雨除け修理",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304　福岡8：30-羽田10：00/JAL325 羽田15：50-福岡17：55"
+        }
+      ],
       "arakawa": "10：00福岡粧材\n13:00福岡粧材\n15:00にしけい下醉尾",
       "komatsu": "スケジュール確認\n⇒シフト依頼メール",
       "shimamoto": null,
@@ -264,6 +403,12 @@
         "荒川",
         "井上"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3563 福岡9：55-徳島11：00/JAL3568 徳島17：30-福岡18：40"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "朝礼レジメ作成",
       "shimamoto": null,
@@ -276,6 +421,36 @@
       "yasui": "休",
       "holidays": [
         "井上"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:00〜] 広報コラム打合せ"
+        },
+        {
+          "role": "社長・副社長",
+          "text": "[10:00〜11:00] ふくろうえん　なかよし発表会"
+        },
+        {
+          "role": "副社長",
+          "text": "[13:00〜] 中山綾子DM面談"
+        },
+        {
+          "role": "副社長",
+          "text": "[14:00〜] ライフプランニング　福崎様"
+        },
+        {
+          "role": "副社長",
+          "text": "[11:30〜] サンセール西原さん・開発　打ち合わせ"
+        },
+        {
+          "role": "副社長",
+          "text": "[14:30〜] 大丸　西園様"
+        },
+        {
+          "role": "副社長",
+          "text": "[15:00〜] 徳永DM、李DM、岡DM"
+        }
       ],
       "arakawa": "なかよし発表会対応\n15:00オクゼン松本",
       "komatsu": "なかよし発表会対応",
@@ -290,6 +465,12 @@
       "holidays": [
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東支店ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：05-羽田8：35"
+        }
+      ],
       "arakawa": "活動報告作成\nスケジュール送付\n定期清掃検討",
       "komatsu": "休",
       "shimamoto": null,
@@ -301,6 +482,12 @@
       "common": "セミナー棟より西側：防火対象物点検　10：00～\nテルマアル：館内一斉消毒作業　18：30～",
       "yasui": "全体朝礼準備\nカートバッテリー発注\n入寮書類",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　やまびこ52 宇都宮12：35-東京13：24/JAL323　羽田15：10-福岡17：10 やまびこ134 宇都宮11：35-東京12：24/JAL321　羽田13：45-福岡15：45"
+        }
+      ],
       "arakawa": "11：30クラフティア花畑\n13:00オクゼン坂本\n社宅更新手続き依頼S川鍋",
       "komatsu": "桑原さんに米発注数の件\n活動報告とりまとめ⇒展開",
       "shimamoto": null,
@@ -312,6 +499,12 @@
       "common": "そば処五萬石：床定期清掃　9：00～\nグリストラップ：五萬石・GEH・サンセール・鳥栖アンテ",
       "yasui": "社宅宅コンロ現調\nワックスがけについて\nPM有休",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[12:00〜] JTB今村様"
+        }
+      ],
       "arakawa": "11：00オクゼン坂本\n13:30空閑園芸",
       "komatsu": "15：00ﾊﾟﾌﾞﾘｯｸ野田さん\n和仁さんメットライフを\nタカクラ様宛に送る",
       "shimamoto": null,
@@ -324,6 +517,12 @@
       "yasui": "9:30 社長宅ワックス現調\nガロンボトル",
       "holidays": [
         "荒川"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "東京　JAL306　福岡9：25-羽田11：00/JAL323　羽田15：10-福岡17：10  JAL327　羽田16：55-福岡19：05"
+        }
       ],
       "arakawa": "休",
       "komatsu": "freee島本さん追加\n3/11（水）配車つける",
@@ -338,6 +537,7 @@
       "holidays": [
         "井上"
       ],
+      "executives": [],
       "arakawa": "AM PBX定期点検",
       "komatsu": "14：30就業規則打合せ\nデニッシュ引取り",
       "shimamoto": null,
@@ -351,6 +551,7 @@
       "holidays": [
         "小松"
       ],
+      "executives": [],
       "arakawa": null,
       "komatsu": "休",
       "shimamoto": "復帰初日",
@@ -365,6 +566,7 @@
         "荒川",
         "小松"
       ],
+      "executives": [],
       "arakawa": "休",
       "komatsu": "休",
       "shimamoto": null,
@@ -379,6 +581,7 @@
         "荒川",
         "井上"
       ],
+      "executives": [],
       "arakawa": "休",
       "komatsu": null,
       "shimamoto": null,
@@ -391,6 +594,12 @@
       "yasui": null,
       "holidays": [
         "島本"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
+        }
       ],
       "arakawa": null,
       "komatsu": "11：00ﾗｸｽﾙ打合せ＠2-1\n14：30　安全衛生委員会\n→避難訓練の件伝える",
@@ -405,6 +614,12 @@
       "holidays": [
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　ANA434 福岡9：00-名古屋10：10　名鉄中部空港 10：37-金山11：01/のぞみ35 名古屋14：49-博多18：09"
+        }
+      ],
       "arakawa": "10:00 ロングカート\nバッテリー交換",
       "komatsu": "休",
       "shimamoto": null,
@@ -418,6 +633,7 @@
       "holidays": [
         "井上"
       ],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -430,6 +646,12 @@
       "yasui": "セミナー棟タイマーセット",
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東支店ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：35 ひたち17東京14：53-水戸16：06"
+        }
       ],
       "arakawa": null,
       "komatsu": "休",
@@ -446,6 +668,12 @@
         "小松",
         "井上"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　 ひたち12 水戸12：27-東京13：42 JAL323 羽田15：10-福岡17：00"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "休",
       "shimamoto": null,
@@ -461,6 +689,12 @@
         "島本",
         "井上"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[終日〜] 外出"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "shimamoto": "休",
@@ -474,6 +708,7 @@
       "holidays": [
         "島本"
       ],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": "休",
@@ -485,6 +720,20 @@
       "common": "アウォード（本社）　ガバナー会議（本社）",
       "yasui": "セミナー準備",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社 アウォード"
+        },
+        {
+          "role": "副社長",
+          "text": "[13:00〜] サンセール入部さん"
+        },
+        {
+          "role": "社長・副社長",
+          "text": "[14:00〜16:00] ガバナー会議"
+        }
+      ],
       "arakawa": null,
       "komatsu": "アウォード前日準備",
       "shimamoto": null,
@@ -496,6 +745,16 @@
       "common": "セミナー（本社セミナー棟にて）8:30～",
       "yasui": "セミナー対応",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社 アウォード"
+        },
+        {
+          "role": "副社長",
+          "text": "[16:00〜] 日本航空　石井様"
+        }
+      ],
       "arakawa": null,
       "komatsu": "8：00出勤GEHへ",
       "shimamoto": null,
@@ -508,6 +767,12 @@
       "yasui": "休",
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社 アウォード"
+        }
       ],
       "arakawa": null,
       "komatsu": "休",
@@ -523,6 +788,12 @@
         "荒川",
         "島本"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "アウォード延泊"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "アシュランクラブ準備",
       "shimamoto": "休",
@@ -535,6 +806,16 @@
       "yasui": "調光",
       "holidays": [
         "井上"
+      ],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[10:30〜] 出水市誕生20周年記念式典"
+        },
+        {
+          "role": "副社長",
+          "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
       ],
       "arakawa": null,
       "komatsu": "アシュランクラブ対応",
@@ -550,6 +831,12 @@
         "小松",
         "島本"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東勉強会　JAL300 福岡7：00-羽田8：35/JAL323 羽田15：10-福岡17：10"
+        }
+      ],
       "arakawa": null,
       "komatsu": "休",
       "shimamoto": "休",
@@ -561,6 +848,12 @@
       "common": null,
       "yasui": "検針",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "防府ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -574,6 +867,12 @@
       "holidays": [
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "神戸ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54－博多15：09"
+        }
+      ],
       "arakawa": "15：30ルコ消防訓練",
       "komatsu": "PM有休",
       "shimamoto": null,
@@ -585,6 +884,12 @@
       "common": "ふくろう園：床定期清掃。18：00～",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3563 福岡9：55-徳島11：00/JAL3568 徳島17：30-福岡18：40"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -596,6 +901,12 @@
       "common": "そば処五萬石：井水採水 9:00～",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304　福岡8：25-羽田10：00/JAL325羽田15：55-福岡17：55"
+        }
+      ],
       "arakawa": null,
       "komatsu": "衛生管理者受験日",
       "shimamoto": null,
@@ -607,6 +918,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "大阪勉強会　JAL2050　福岡7：00-伊丹8：00/JAL2057　伊丹13：40-福岡14：55"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -619,6 +936,12 @@
       "yasui": null,
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡9：00-仙台10：50/JAL4530 仙台16：30-福岡18：45"
+        }
       ],
       "arakawa": null,
       "komatsu": "希望休",
@@ -633,6 +956,12 @@
       "holidays": [
         "小松"
       ],
+      "executives": [
+        {
+          "role": "社長・副社長",
+          "text": "[16:30〜] 財団授与式・交流会"
+        }
+      ],
       "arakawa": null,
       "komatsu": "希望休",
       "shimamoto": null,
@@ -644,6 +973,12 @@
       "common": "事務棟：1～3階床定期清掃 9:00～",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "松山ｱｼｭﾗﾝｸﾗﾌﾞ JAL 3591 福岡9：05-松山9：45/JAL3602 松山14：35-福岡15：25"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -655,6 +990,12 @@
       "common": "事務棟他：空気環境測定 10：00～15：00",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "大阪ｽﾃｯﾌﾟｱｯﾌﾟ　JAL2050 福岡7：00-伊丹8:00/JAL2057 伊丹13：40-福岡14：55"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -666,6 +1007,12 @@
       "common": "エレベーター点検\n　　 9:30～10:30　社長宅",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社勉強会"
+        }
+      ],
       "arakawa": "NV200充電確認",
       "komatsu": null,
       "shimamoto": null,
@@ -677,6 +1024,12 @@
       "common": "外周：不快害虫防除作業 7:00～",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "東京　JAL310　福岡11：00-羽田12：40/JAL325　羽田15:55-福岡17：55"
+        }
+      ],
       "arakawa": "NV200リースアップ",
       "komatsu": null,
       "shimamoto": null,
@@ -689,6 +1042,12 @@
       "yasui": null,
       "holidays": [
         "小松"
+      ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：35　やまびこ55 東京9：40-宇都宮10：28/やまびこ56 宇都宮14：35-東京15：24　JAL327 羽田16：55-福岡19：05"
+        }
       ],
       "arakawa": null,
       "komatsu": "有休",
@@ -703,6 +1062,12 @@
       "holidays": [
         "島本"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "九州広島お花見勉強会"
+        }
+      ],
       "arakawa": "花見対応",
       "komatsu": "お花見勉強会対応",
       "shimamoto": "希望休",
@@ -714,6 +1079,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　JAL 4382　福岡9：10-小牧10：30/のぞみ35 名古屋14：49-博多18：09"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -727,6 +1098,12 @@
       "holidays": [
         "小松"
       ],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:30〜13:00] 外出"
+        }
+      ],
       "arakawa": null,
       "komatsu": "休",
       "shimamoto": null,
@@ -738,6 +1115,12 @@
       "common": null,
       "yasui": "水道局FAX",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
+        }
+      ],
       "arakawa": null,
       "komatsu": "入社式前日確認",
       "shimamoto": null,
@@ -749,6 +1132,7 @@
       "common": "入社式",
       "yasui": "お手入れ準備",
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": "入社式対応\nお手入れ準備＆前日対応",
       "shimamoto": null,
@@ -760,6 +1144,12 @@
       "common": "春・夏のお手入れセミナー",
       "yasui": "調光",
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "春・夏のお手入れセミナー"
+        }
+      ],
       "arakawa": "お手入れ対応",
       "komatsu": "お手入れ対応",
       "shimamoto": null,
@@ -771,6 +1161,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": "お手入れ翌日対応",
       "shimamoto": null,
@@ -784,6 +1175,7 @@
       "holidays": [
         "小松"
       ],
+      "executives": [],
       "arakawa": null,
       "komatsu": "休",
       "shimamoto": null,
@@ -795,6 +1187,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -806,6 +1199,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "富山ｱｼｭﾗﾝｸﾗﾌﾞ　ANA4646 福岡7：20-小松8：45 つるぎ4 小松9：17-富山9：53"
+        }
+      ],
       "arakawa": null,
       "komatsu": "13：00ふくろう園健診",
       "shimamoto": null,
@@ -817,6 +1216,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "和歌山ｱｼｭﾗﾝｸﾗﾌﾞ　JR紀州路快速12：14-大阪13：43　のぞみ 29新大阪14：02-博多16：30"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -828,6 +1233,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -839,6 +1245,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -850,6 +1257,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -861,6 +1269,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：40/JAL325 羽田15：55-福岡17：55"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -872,6 +1286,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -883,6 +1298,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -894,6 +1310,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -905,6 +1322,12 @@
       "common": "アシュランクラブ",
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -916,6 +1339,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -927,6 +1351,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -938,6 +1363,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -949,6 +1375,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:30〜13:00] 外出"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -960,6 +1392,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ JAL4529 福岡8：55-仙台10：45"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -971,6 +1409,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "十和田ｱｼｭﾗﾝｸﾗﾌﾞ　JAL156 三沢16：45-羽田18：15　JAL331羽田18：45-福岡20：40"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -982,6 +1426,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -993,6 +1438,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL 3563 福岡9：55-徳島10：55/うずしお18 徳島14：25-高松15：30　ﾏﾘﾝﾗｲﾅｰ44 高松15：40-岡山16：32 のぞみ37 岡山16：47-博多18：30"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1004,6 +1455,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ JAL304 福岡8：15-羽田9：50/JAL323 羽田15：25-福岡17：20"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1015,6 +1472,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1026,6 +1484,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1037,6 +1496,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1048,6 +1508,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1059,6 +1520,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1070,6 +1532,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1081,6 +1544,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1092,6 +1556,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1103,6 +1568,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1114,6 +1580,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1125,6 +1592,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1136,6 +1604,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:30〜13:00] 外出"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1147,6 +1621,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1158,6 +1633,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1169,6 +1645,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1180,6 +1657,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1191,6 +1669,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1202,6 +1681,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1213,6 +1693,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1224,6 +1705,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1235,6 +1717,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1246,6 +1729,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1257,6 +1741,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1268,6 +1753,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1279,6 +1765,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1290,6 +1777,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1301,6 +1789,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1312,6 +1801,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1323,6 +1813,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1334,6 +1825,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1345,6 +1837,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1356,6 +1849,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1367,6 +1861,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1378,6 +1873,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1389,6 +1885,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1400,6 +1897,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1411,6 +1909,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1422,6 +1921,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1433,6 +1933,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1444,6 +1945,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1455,6 +1957,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1466,6 +1969,7 @@
       "common": "サンセール健康診断",
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1477,6 +1981,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1488,6 +1993,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1499,6 +2005,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1510,6 +2017,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1521,6 +2029,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1532,6 +2041,7 @@
       "common": "本社健康診断",
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1543,6 +2053,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1554,6 +2065,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1565,6 +2077,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1576,6 +2089,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1587,6 +2101,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1598,6 +2113,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1609,6 +2125,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1620,6 +2137,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1631,6 +2149,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1642,6 +2161,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1653,6 +2173,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1664,6 +2185,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1675,6 +2197,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1686,6 +2209,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1697,6 +2221,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1708,6 +2233,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1719,6 +2245,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1730,6 +2257,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1741,6 +2269,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1752,6 +2281,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1763,6 +2293,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1774,6 +2305,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1785,6 +2317,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1796,6 +2329,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1807,6 +2341,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1818,6 +2353,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1829,6 +2365,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1840,6 +2377,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1851,6 +2389,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1862,6 +2401,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1873,6 +2413,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1884,6 +2425,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1895,6 +2437,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1906,6 +2449,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1917,6 +2461,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1928,6 +2473,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1939,6 +2485,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1950,6 +2497,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1961,6 +2509,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1972,6 +2521,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1983,6 +2533,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -1994,6 +2545,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2005,6 +2557,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2016,6 +2569,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2027,6 +2581,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2038,6 +2593,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2049,6 +2605,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2060,6 +2617,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2071,6 +2629,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2082,6 +2641,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2093,6 +2653,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2104,6 +2665,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2115,6 +2677,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2126,6 +2689,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2137,6 +2701,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2148,6 +2713,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2159,6 +2725,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2170,6 +2737,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2181,6 +2749,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2192,6 +2761,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2203,6 +2773,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2214,6 +2785,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2225,6 +2797,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2236,6 +2809,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2247,6 +2821,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2258,6 +2833,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2269,6 +2845,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2280,6 +2857,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2291,6 +2869,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2302,6 +2881,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2313,6 +2893,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2324,6 +2905,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2335,6 +2917,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2346,6 +2929,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2357,6 +2941,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2368,6 +2953,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2379,6 +2965,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2390,6 +2977,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2401,6 +2989,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2412,6 +3001,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2423,6 +3013,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2434,6 +3025,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2445,6 +3037,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2456,6 +3049,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2467,6 +3061,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2478,6 +3073,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2489,6 +3085,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2500,6 +3097,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2511,6 +3109,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2522,6 +3121,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2533,6 +3133,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2544,6 +3145,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2555,6 +3157,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2566,6 +3169,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2577,6 +3181,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2588,6 +3193,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2599,6 +3205,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2610,6 +3217,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2621,6 +3229,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2632,6 +3241,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2643,6 +3253,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2654,6 +3265,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2665,6 +3277,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2676,6 +3289,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2687,6 +3301,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2698,6 +3313,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2709,6 +3325,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2720,6 +3337,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2731,6 +3349,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2742,6 +3361,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2753,6 +3373,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2764,6 +3385,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2775,6 +3397,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2786,6 +3409,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2797,6 +3421,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2808,6 +3433,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2819,6 +3445,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2830,6 +3457,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2841,6 +3469,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2852,6 +3481,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2863,6 +3493,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2874,6 +3505,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2885,6 +3517,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2896,6 +3529,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2907,6 +3541,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2918,6 +3553,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2929,6 +3565,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2940,6 +3577,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2951,6 +3589,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2962,6 +3601,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2973,6 +3613,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2984,6 +3625,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -2995,6 +3637,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3006,6 +3649,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3017,6 +3661,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3028,6 +3673,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3039,6 +3685,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3050,6 +3697,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3061,6 +3709,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3072,6 +3721,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3083,6 +3733,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3094,6 +3745,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3105,6 +3757,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3116,6 +3769,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3127,6 +3781,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3138,6 +3793,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3149,6 +3805,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3160,6 +3817,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3171,6 +3829,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3182,6 +3841,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3193,6 +3853,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3204,6 +3865,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3215,6 +3877,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3226,6 +3889,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3237,6 +3901,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3248,6 +3913,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3259,6 +3925,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3270,6 +3937,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3281,6 +3949,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3292,6 +3961,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3303,6 +3973,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3314,6 +3985,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3325,6 +3997,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3336,6 +4009,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3347,6 +4021,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3358,6 +4033,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3369,6 +4045,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3380,6 +4057,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3391,6 +4069,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3402,6 +4081,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3413,6 +4093,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3424,6 +4105,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3435,6 +4117,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3446,6 +4129,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3457,6 +4141,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3468,6 +4153,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3479,6 +4165,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3490,6 +4177,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3501,6 +4189,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3512,6 +4201,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3523,6 +4213,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3534,6 +4225,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3545,6 +4237,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3556,6 +4249,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3567,6 +4261,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3578,6 +4273,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3589,6 +4285,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3600,6 +4297,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3611,6 +4309,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3622,6 +4321,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3633,6 +4333,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3644,6 +4345,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3655,6 +4357,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3666,6 +4369,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3677,6 +4381,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3688,6 +4393,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3699,6 +4405,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3710,6 +4417,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3721,6 +4429,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3732,6 +4441,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3743,6 +4453,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3754,6 +4465,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
@@ -3765,6 +4477,7 @@
       "common": null,
       "yasui": null,
       "holidays": [],
+      "executives": [],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
