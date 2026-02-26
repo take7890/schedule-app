@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-26 01:06",
+  "generated": "2026-02-26 23:24",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -288,14 +288,12 @@
       "common": null,
       "yasui": "休",
       "holidays": [
-        "小松",
-        "島本",
-        "井上"
+        "小松"
       ],
       "arakawa": "活動報告作成\nスケジュール送付\n定期清掃検討",
       "komatsu": "休",
-      "shimamoto": "休",
-      "inoue": "休"
+      "shimamoto": null,
+      "inoue": null
     },
     {
       "date": "2026-02-24",
@@ -323,12 +321,12 @@
       "date": "2026-02-26",
       "weekday": "木",
       "common": "ルコネッサン：2階 床定期清掃　17：00～",
-      "yasui": "社宅ワックス現調",
+      "yasui": "9:30 社長宅ワックス現調\nガロンボトル",
       "holidays": [
         "荒川"
       ],
       "arakawa": "休",
-      "komatsu": "freee島本さん追加",
+      "komatsu": "freee島本さん追加\n3/11（水）配車つける",
       "shimamoto": null,
       "inoue": null
     },
@@ -336,7 +334,7 @@
       "date": "2026-02-27",
       "weekday": "金",
       "common": "ルコネッサン：1階 床定期清掃　17：00～",
-      "yasui": "水道局FAX",
+      "yasui": "9:30 社長宅ワックス現調\n水道局FAX",
       "holidays": [
         "井上"
       ],
@@ -402,12 +400,12 @@
     {
       "date": "2026-03-04",
       "weekday": "水",
-      "common": null,
+      "common": "ロングカートバッテリー交換 10:00～",
       "yasui": "休",
       "holidays": [
         "小松"
       ],
-      "arakawa": null,
+      "arakawa": "10:00 ロングカート\nバッテリー交換",
       "komatsu": "休",
       "shimamoto": null,
       "inoue": "美術館団体予約あり運転手さんにバスを移動してもらう！"
@@ -429,7 +427,7 @@
       "date": "2026-03-06",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "セミナー棟タイマーセット",
       "holidays": [
         "小松"
       ],
@@ -477,29 +475,29 @@
         "島本"
       ],
       "arakawa": null,
-      "komatsu": "アウォード前日準備",
+      "komatsu": null,
       "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-10",
       "weekday": "火",
-      "common": "アウォード（本社）",
-      "yasui": null,
+      "common": "アウォード（本社）　ガバナー会議（本社）",
+      "yasui": "セミナー準備",
       "holidays": [],
       "arakawa": null,
-      "komatsu": "アウォード対応",
+      "komatsu": "アウォード前日準備",
       "shimamoto": null,
       "inoue": null
     },
     {
       "date": "2026-03-11",
       "weekday": "水",
-      "common": null,
-      "yasui": null,
+      "common": "セミナー（本社セミナー棟にて）8:30～",
+      "yasui": "セミナー対応",
       "holidays": [],
       "arakawa": null,
-      "komatsu": "アウォード対応",
+      "komatsu": "8：00出勤GEHへ",
       "shimamoto": null,
       "inoue": null
     },
