@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-28 16:49",
+  "generated": "2026-03-01 22:35",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -561,7 +561,7 @@
       "date": "2026-03-01",
       "weekday": "日",
       "common": null,
-      "yasui": "14:00 アパルトⅣ-303退寮",
+      "yasui": "14:00 アパルトⅣ-105・303\n退寮",
       "holidays": [
         "荒川",
         "小松"
@@ -576,14 +576,19 @@
       "date": "2026-03-02",
       "weekday": "月",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅣ-105ガス閉栓\nアパルトⅣ清掃\nルコ軽バン荷台\n配送棟カーテン\nアパルトⅣ-106ガス開栓連絡",
       "holidays": [
         "荒川",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "東京　JAL310　福岡11：00-羽田12：40/ JAL325　羽田15：55-福岡17：55"
+        }
+      ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "古賀さんに名刺切れ伝える\n斉藤さんに桑原さん（ｱｼｭﾗﾝｼｰﾄ記念盾贈呈）伝える\n社長に東京・大阪確認\n社長にキッズ確認\nカスハラ就業規則作成\n15：00ｱｳｫｰﾄﾞ打合せ",
       "shimamoto": null,
       "inoue": "休"
     },
@@ -591,7 +596,7 @@
       "date": "2026-03-03",
       "weekday": "火",
       "common": "各所：害虫生息調査及びテルマアルレジオネラ採水作業 7:00～",
-      "yasui": null,
+      "yasui": "ガロンボトル",
       "holidays": [
         "島本"
       ],
@@ -609,7 +614,7 @@
     {
       "date": "2026-03-04",
       "weekday": "水",
-      "common": "ロングカートバッテリー交換 10:00～",
+      "common": "ロングカートバッテリー交換 10:00～\nグリストラップ：五萬石・本社食堂・ルコネッサン③",
       "yasui": "休",
       "holidays": [
         "小松"
@@ -635,7 +640,7 @@
       ],
       "executives": [],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "カスハラ就業規則作成",
       "shimamoto": null,
       "inoue": "休"
     },
@@ -643,7 +648,7 @@
       "date": "2026-03-06",
       "weekday": "金",
       "common": null,
-      "yasui": "セミナー棟タイマーセット",
+      "yasui": null,
       "holidays": [
         "小松"
       ],
@@ -696,7 +701,7 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "カスハラ就業規則作成",
       "shimamoto": "休",
       "inoue": "休"
     },
@@ -709,8 +714,8 @@
         "島本"
       ],
       "executives": [],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "13：30大林Ｆ",
+      "komatsu": "カスハラ就業規則作成",
       "shimamoto": "休",
       "inoue": null
     },
@@ -742,8 +747,8 @@
     {
       "date": "2026-03-11",
       "weekday": "水",
-      "common": "セミナー（本社セミナー棟にて）8:30～",
-      "yasui": "セミナー対応",
+      "common": "セミナー（本社セミナー棟にて）8:30～\nグリストラップ：五萬石",
+      "yasui": "7:00 出勤・セミナー対応",
       "holidays": [],
       "executives": [
         {
@@ -756,7 +761,7 @@
         }
       ],
       "arakawa": null,
-      "komatsu": "8：00出勤GEHへ",
+      "komatsu": "8：00出勤カート対応",
       "shimamoto": null,
       "inoue": null
     },
@@ -846,7 +851,7 @@
       "date": "2026-03-16",
       "weekday": "月",
       "common": null,
-      "yasui": "検針",
+      "yasui": "検針\nアパルトⅣ-106ガス開栓",
       "holidays": [],
       "executives": [
         {
@@ -863,7 +868,7 @@
       "date": "2026-03-17",
       "weekday": "火",
       "common": "事務棟：上水・雑用水給水ポンプ点検（断水なし） 9:00～\nアシュラン様：消防訓練（火元：ルコネッサン） 15：30～",
-      "yasui": "15：30ルコ消防訓練",
+      "yasui": "11:00 アパルトⅣ-106\n入寮\n15：30ルコ消防訓練",
       "holidays": [
         "小松"
       ],
@@ -881,16 +886,18 @@
     {
       "date": "2026-03-18",
       "weekday": "水",
-      "common": "ふくろう園：床定期清掃。18：00～",
+      "common": "ふくろう園：床定期清掃。18：00～\nグリストラップ：本社食堂・ルコネッサン①②③",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3563 福岡9：55-徳島11：00/JAL3568 徳島17：30-福岡18：40"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "shimamoto": null,
       "inoue": null
@@ -900,16 +907,14 @@
       "weekday": "木",
       "common": "そば処五萬石：井水採水 9:00～",
       "yasui": null,
-      "holidays": [
-        "荒川"
-      ],
+      "holidays": [],
       "executives": [
         {
           "role": "副社長",
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304　福岡8：25-羽田10：00/JAL325羽田15：55-福岡17：55"
         }
       ],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": "衛生管理者受験日",
       "shimamoto": null,
       "inoue": null
@@ -935,7 +940,7 @@
       "date": "2026-03-21",
       "weekday": "土",
       "common": null,
-      "yasui": "休",
+      "yasui": "有",
       "holidays": [
         "小松"
       ],
@@ -973,7 +978,7 @@
       "date": "2026-03-23",
       "weekday": "月",
       "common": "事務棟：1～3階床定期清掃 9:00～",
-      "yasui": null,
+      "yasui": "朝礼準備",
       "holidays": [
         "荒川"
       ],
@@ -1008,7 +1013,7 @@
     {
       "date": "2026-03-25",
       "weekday": "水",
-      "common": "エレベーター点検\n　　 9:30～10:30　社長宅",
+      "common": "エレベーター点検\n　　 9:30～10:30　社長宅\nグリストラップ：五萬石・GEH・サンセール",
       "yasui": null,
       "holidays": [],
       "executives": [
@@ -1025,8 +1030,8 @@
     {
       "date": "2026-03-26",
       "weekday": "木",
-      "common": "外周：不快害虫防除作業 7:00～\nNV200リースアップ",
-      "yasui": "NV200リースアップ",
+      "common": "外周：不快害虫防除作業 7:00～",
+      "yasui": null,
       "holidays": [
         "荒川"
       ],
@@ -1066,9 +1071,7 @@
       "weekday": "土",
       "common": "九州地区お花見勉強会",
       "yasui": "休",
-      "holidays": [
-        "島本"
-      ],
+      "holidays": [],
       "executives": [
         {
           "role": "副社長",
@@ -1077,7 +1080,7 @@
       ],
       "arakawa": "花見対応",
       "komatsu": "お花見勉強会対応",
-      "shimamoto": "希望休",
+      "shimamoto": null,
       "inoue": null
     },
     {
@@ -1138,7 +1141,7 @@
     {
       "date": "2026-04-01",
       "weekday": "水",
-      "common": "入社式",
+      "common": "入社式\nグリストラップ：鳥栖アンテ",
       "yasui": "お手入れ準備",
       "holidays": [],
       "executives": [],
@@ -1337,7 +1340,7 @@
       "date": "2026-04-15",
       "weekday": "水",
       "common": "アシュランクラブ",
-      "yasui": "調光",
+      "yasui": null,
       "holidays": [],
       "executives": [
         {
@@ -1354,7 +1357,7 @@
       "date": "2026-04-16",
       "weekday": "木",
       "common": null,
-      "yasui": "検針",
+      "yasui": null,
       "holidays": [],
       "executives": [],
       "arakawa": null,
