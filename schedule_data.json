@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-07 23:17",
+  "generated": "2026-03-12 23:48",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -761,8 +761,8 @@
           "text": "[14:00〜16:00] ガバナー会議"
         }
       ],
-      "arakawa": "13：30アンテ弥生が丘",
-      "komatsu": "アウォード前日準備",
+      "arakawa": "13:30アンテ弥生が丘\n16:00GEHショップ",
+      "komatsu": "アウォード前日準備\n古賀さんに骨粗しょう症",
       "shimamoto": null,
       "inoue": null
     },
@@ -791,8 +791,9 @@
       "date": "2026-03-12",
       "weekday": "木",
       "common": "ルークス車検9：00～17：00",
-      "yasui": "休",
+      "yasui": "休→出\n9：30シルバー人材　ルコ\nアシュランクラブ準備\nガロンボトル",
       "holidays": [
+        "荒川",
         "小松"
       ],
       "executives": [
@@ -801,7 +802,7 @@
           "text": "本社 アウォード"
         }
       ],
-      "arakawa": "9:30シルバー人材　ルコ",
+      "arakawa": "出→休",
       "komatsu": "休",
       "shimamoto": null,
       "inoue": null
@@ -810,7 +811,7 @@
       "date": "2026-03-13",
       "weekday": "金",
       "common": null,
-      "yasui": "アシュランクラブ準備",
+      "yasui": "出→休",
       "holidays": [
         "荒川",
         "島本"
@@ -821,7 +822,7 @@
           "text": "アウォード延泊"
         }
       ],
-      "arakawa": "休",
+      "arakawa": "休→出",
       "komatsu": "アシュランクラブ前日準備",
       "shimamoto": "休",
       "inoue": null
@@ -872,8 +873,8 @@
     {
       "date": "2026-03-16",
       "weekday": "月",
-      "common": null,
-      "yasui": "検針\n13:00 アパルトⅣ-106ガス開栓",
+      "common": "龍國院 電気保安協会 10:00～\nアパⅣ 電気保安協会 11:30～\nアパルトⅠ・Ⅱ：電気保安協会点検 13:30～",
+      "yasui": "アパⅠ・Ⅱ・Ⅳ保安協会鍵渡し\n検針\n13:00 アパルトⅣ-106ガス開栓\n15:00 東急不動産 カワイさん 工事挨拶",
       "holidays": [],
       "executives": [
         {
@@ -881,7 +882,7 @@
           "text": "防府ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
-      "arakawa": null,
+      "arakawa": "15:00 東急不動産 カワイさん 工事挨拶",
       "komatsu": null,
       "shimamoto": null,
       "inoue": null
@@ -902,7 +903,7 @@
         }
       ],
       "arakawa": "15：30ルコ消防訓練",
-      "komatsu": "PM有休",
+      "komatsu": "有休",
       "shimamoto": null,
       "inoue": "休"
     },
@@ -933,7 +934,8 @@
       "common": "そば処五萬石：井水採水 9:00～",
       "yasui": "15:00 アパルトⅣ-106\nガス閉栓",
       "holidays": [
-        "荒川"
+        "荒川",
+        "島本"
       ],
       "executives": [
         {
@@ -941,9 +943,9 @@
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304　福岡8：25-羽田10：00 JAL300　福岡7：00-羽田8：35/JAL325羽田15：55-福岡17：55"
         }
       ],
-      "arakawa": "出→休\n10：00佐賀共栄銀行\n鳥栖支店",
+      "arakawa": "出→休",
       "komatsu": "10：00ﾎｰｸｽ桑原さん\n衛生管理者受験日",
-      "shimamoto": null,
+      "shimamoto": "有休",
       "inoue": null
     },
     {
@@ -1050,7 +1052,7 @@
       "date": "2026-03-25",
       "weekday": "水",
       "common": "エレベーター点検\n　　 9:30～10:30　社長宅\nグリストラップ：五萬石・GEH・サンセール",
-      "yasui": "アパルト準備",
+      "yasui": "アパルト準備\n15:30 清掃班ミーティング",
       "holidays": [],
       "executives": [
         {
@@ -1086,7 +1088,7 @@
           "text": "東京　JAL310　福岡11：00-羽田12：40/JAL325　羽田15:55-福岡17：55"
         }
       ],
-      "arakawa": "休→出",
+      "arakawa": "休→出\n10：00佐賀共栄銀行鳥栖支店",
       "komatsu": "休",
       "shimamoto": null,
       "inoue": null
@@ -1175,7 +1177,7 @@
       "date": "2026-03-31",
       "weekday": "火",
       "common": "本社窓ガラス清掃",
-      "yasui": "お手入れ準備",
+      "yasui": "10:00 アパルトⅣ-203退寮\n15:00 アパルトⅣ\n-105・106入寮\nお手入れ準備",
       "holidays": [
         "荒川",
         "井上"
@@ -1187,8 +1189,8 @@
         }
       ],
       "arakawa": "有休",
-      "komatsu": "入社式前日確認",
-      "shimamoto": null,
+      "komatsu": "14：00PHRF野田さん\n入社式前日確認",
+      "shimamoto": "14：00PHRF野田さん",
       "inoue": "休"
     },
     {
@@ -1198,7 +1200,7 @@
       "yasui": "休",
       "holidays": [],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "11:00 アパルトⅣ-101退寮",
       "komatsu": "入社式対応\nお手入れ準備＆前日対応",
       "shimamoto": null,
       "inoue": null
@@ -1306,7 +1308,7 @@
       "date": "2026-04-08",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅢ　引越し手伝い",
       "holidays": [
         "井上"
       ],
@@ -1414,7 +1416,7 @@
       "date": "2026-04-15",
       "weekday": "水",
       "common": "アシュランクラブ",
-      "yasui": null,
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
@@ -1868,7 +1870,7 @@
     {
       "date": "2026-05-20",
       "weekday": "水",
-      "common": null,
+      "common": "アシュランクラブ",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -1892,7 +1894,7 @@
     {
       "date": "2026-05-22",
       "weekday": "金",
-      "common": null,
+      "common": "PMT",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -1904,7 +1906,7 @@
     {
       "date": "2026-05-23",
       "weekday": "土",
-      "common": null,
+      "common": "PMT",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -2144,7 +2146,7 @@
     {
       "date": "2026-06-12",
       "weekday": "金",
-      "common": null,
+      "common": "アシュランクラブ",
       "yasui": null,
       "holidays": [],
       "executives": [],
