@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12 23:48",
+  "generated": "2026-03-17 08:19",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -882,7 +882,7 @@
           "text": "防府ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
-      "arakawa": "15:00 東急不動産 カワイさん 工事挨拶",
+      "arakawa": "13：30オクゼン木下・坂本\n15:00 東急不動産 カワイさん 工事挨拶",
       "komatsu": null,
       "shimamoto": null,
       "inoue": null
@@ -902,7 +902,7 @@
           "text": "神戸ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54－博多15：09"
         }
       ],
-      "arakawa": "15：30ルコ消防訓練",
+      "arakawa": "10:00オクゼン中嶋\n15：30ルコ消防訓練",
       "komatsu": "有休",
       "shimamoto": null,
       "inoue": "休"
@@ -911,7 +911,7 @@
       "date": "2026-03-18",
       "weekday": "水",
       "common": "ふくろう園：床定期清掃。18：00～\nグリストラップ：本社食堂・ルコネッサン①②③",
-      "yasui": null,
+      "yasui": "13：30にしけい下醉尾",
       "holidays": [
         "荒川",
         "小松",
@@ -1435,7 +1435,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[終日〜] 外出"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
