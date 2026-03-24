@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-20 01:38",
+  "generated": "2026-03-24 10:23",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -1011,7 +1011,7 @@
       "date": "2026-03-23",
       "weekday": "月",
       "common": "事務棟：1～3階床定期清掃 9:00～",
-      "yasui": "朝礼準備\nセ棟勉強会準備\nアパルトⅣガス開栓TEL",
+      "yasui": "朝礼準備\nセ棟勉強会準備\n12-14時オクゼン不動産\nアパルトⅣガス開栓TEL",
       "holidays": [
         "荒川",
         "島本"
@@ -1042,7 +1042,7 @@
           "text": "大阪ｽﾃｯﾌﾟｱｯﾌﾟ　JAL2050 福岡7：00-伊丹8:00/JAL2057 伊丹13：40-福岡14：55"
         }
       ],
-      "arakawa": null,
+      "arakawa": "10:00ｱﾝﾃ弥生が丘・粧材\n15:00オクゼン木下",
       "komatsu": "活動報告とりまとめ\n⇒展開",
       "shimamoto": "休→出",
       "inoue": "休"
@@ -1056,7 +1056,11 @@
       "executives": [
         {
           "role": "副社長",
-          "text": "本社勉強会"
+          "text": "[09:30〜] 西村美智子様"
+        },
+        {
+          "role": "副社長",
+          "text": "[12:00〜14:00] 本社勉強会"
         },
         {
           "role": "副社長",
@@ -1067,7 +1071,7 @@
           "text": "[15:30〜] TVQ　平岡会長、植山専務、橋本様"
         }
       ],
-      "arakawa": null,
+      "arakawa": "アパルトⅠ-101入寮",
       "komatsu": null,
       "shimamoto": null,
       "inoue": null
@@ -1124,9 +1128,13 @@
         {
           "role": "副社長",
           "text": "九州広島お花見勉強会"
+        },
+        {
+          "role": "副社長",
+          "text": "[10:00〜] 吉場様・梅澤様・河上様"
         }
       ],
-      "arakawa": "花見対応",
+      "arakawa": "花見対応\n9:30アパルトⅠ-103入寮\n15:00アパルトⅣ-202入寮",
       "komatsu": "お花見勉強会対応",
       "shimamoto": "休",
       "inoue": null
@@ -1195,7 +1203,7 @@
       "date": "2026-04-01",
       "weekday": "水",
       "common": "入社式\nグリストラップ：鳥栖アンテ",
-      "yasui": "休→出\n11:00 アパルトⅣ-101退寮",
+      "yasui": "休→出\n11:00 アパルトⅣ-101退寮\nアパルトⅠ-104入寮",
       "holidays": [
         "荒川"
       ],
@@ -1262,7 +1270,7 @@
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "アパルトⅡ-103入寮",
       "komatsu": "休",
       "shimamoto": null,
       "inoue": "出→休"
@@ -1271,7 +1279,7 @@
       "date": "2026-04-06",
       "weekday": "月",
       "common": "アパⅣガス検針（鍵渡し）",
-      "yasui": null,
+      "yasui": "アパルトⅡ-106入寮",
       "holidays": [],
       "executives": [
         {
@@ -1645,7 +1653,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[終日〜] 外出"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "shimamoto": null,
