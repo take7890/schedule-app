@@ -14,6 +14,7 @@
       --secondary: #34a853;
       --accent: #ea4335;
       --yasui: #9c27b0;
+      --arakawa: #009688;
       --holiday-bg: #fff3e0;
       --holiday-text: #e65100;
       --exec-shacho: #d32f2f;
@@ -267,6 +268,10 @@
       background: var(--yasui);
     }
 
+    .dot-arakawa {
+      background: var(--arakawa);
+    }
+
     .dot-holiday {
       background: var(--holiday-text);
     }
@@ -338,6 +343,11 @@
     .label-yasui {
       background: #f3e5f5;
       color: #6a1b9a;
+    }
+
+    .label-arakawa {
+      background: #e0f2f1;
+      color: #00796b;
     }
 
     .label-holiday {
@@ -588,6 +598,7 @@
   <div class="legend">
     <span class="legend-item"><span class="legend-dot dot-common"></span>共通予定</span>
     <span class="legend-item"><span class="legend-dot dot-yasui"></span>安井さん</span>
+    <span class="legend-item"><span class="legend-dot dot-arakawa"></span>荒川さん</span>
     <span class="legend-item"><span class="legend-dot dot-exec-shacho"></span>社長</span>
     <span class="legend-item"><span class="legend-dot dot-exec-fuku"></span>副社長</span>
     <span class="legend-item"><span class="legend-dot dot-holiday" style="background:#e65100"></span>休み(荒/小/島/井)</span>
@@ -724,6 +735,7 @@
         if (entry) {
           if (entry.common) dots += '<span class="dot dot-common"></span>';
           if (entry.yasui) dots += '<span class="dot dot-yasui"></span>';
+          if (entry.arakawa) dots += '<span class="dot dot-arakawa"></span>';
           if (entry.executives && entry.executives.some(e => e.role.includes('社長') && e.role !== '副社長'))
             dots += '<span class="dot dot-exec-shacho"></span>';
           if (entry.executives && entry.executives.some(e => e.role.includes('副社長')))
@@ -776,6 +788,12 @@
         html += `<div class="detail-row">
       <span class="detail-label label-yasui">👤 安井さん</span>
       <div class="detail-text">${d.yasui ? escapeHtml(d.yasui) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+
+        // 荒川さん
+        html += `<div class="detail-row">
+      <span class="detail-label label-arakawa">👤 荒川さん</span>
+      <div class="detail-text">${d.arakawa ? escapeHtml(d.arakawa) : '<span style="color:#aaa">なし</span>'}</div>
     </div>`;
 
         // 役員予定
@@ -848,7 +866,7 @@
         if (dow === 0) badgeCls += ' sun';
         else if (dow === 6) badgeCls += ' sat';
 
-        const hasContent = entry.common || entry.yasui || (entry.holidays && entry.holidays.length > 0) || (entry.executives && entry.executives.length > 0);
+        const hasContent = entry.common || entry.yasui || entry.arakawa || (entry.holidays && entry.holidays.length > 0) || (entry.executives && entry.executives.length > 0);
         if (!hasContent) return;
 
         html += `<div class="list-item" onclick="selectAndShowCal('${entry.date}')">
@@ -867,6 +885,12 @@
           html += `<div class="list-section">
         <div class="list-section-label">👤 安井さん</div>
         <div class="list-section-text" style="color:#6a1b9a">${escapeHtml(entry.yasui)}</div>
+      </div>`;
+        }
+        if (entry.arakawa) {
+          html += `<div class="list-section">
+        <div class="list-section-label">👤 荒川さん</div>
+        <div class="list-section-text" style="color:#00796b">${escapeHtml(entry.arakawa)}</div>
       </div>`;
         }
         if (entry.executives && entry.executives.length > 0) {
