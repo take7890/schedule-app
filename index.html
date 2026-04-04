@@ -15,6 +15,11 @@
       --accent: #ea4335;
       --yasui: #9c27b0;
       --arakawa: #009688;
+      --komatsu: #ff9800;
+      --saitou: #e91e63;
+      --yanari: #3f51b5;
+      --shimamoto: #795548;
+      --inoue: #607d8b;
       --holiday-bg: #fff3e0;
       --holiday-text: #e65100;
       --exec-shacho: #d32f2f;
@@ -271,6 +276,11 @@
     .dot-arakawa {
       background: var(--arakawa);
     }
+    .dot-komatsu { background: var(--komatsu); }
+    .dot-saitou { background: var(--saitou); }
+    .dot-yanari { background: var(--yanari); }
+    .dot-shimamoto { background: var(--shimamoto); }
+    .dot-inoue { background: var(--inoue); }
 
     .dot-holiday {
       background: var(--holiday-text);
@@ -349,6 +359,11 @@
       background: #e0f2f1;
       color: #00796b;
     }
+    .label-komatsu { background: #fff8e1; color: #f57f17; }
+    .label-saitou { background: #fce4ec; color: #c2185b; }
+    .label-yanari { background: #e8eaf6; color: #283593; }
+    .label-shimamoto { background: #efebe9; color: #4e342e; }
+    .label-inoue { background: #eceff1; color: #37474f; }
 
     .label-holiday {
       background: #fff3e0;
@@ -599,9 +614,14 @@
     <span class="legend-item"><span class="legend-dot dot-common"></span>共通予定</span>
     <span class="legend-item"><span class="legend-dot dot-yasui"></span>安井さん</span>
     <span class="legend-item"><span class="legend-dot dot-arakawa"></span>荒川さん</span>
+    <span class="legend-item"><span class="legend-dot dot-komatsu"></span>小松さん</span>
+    <span class="legend-item"><span class="legend-dot dot-saitou"></span>齊藤さん</span>
+    <span class="legend-item"><span class="legend-dot dot-yanari"></span>屋成さん</span>
+    <span class="legend-item"><span class="legend-dot dot-shimamoto"></span>島本さん</span>
+    <span class="legend-item"><span class="legend-dot dot-inoue"></span>井上さん</span>
     <span class="legend-item"><span class="legend-dot dot-exec-shacho"></span>社長</span>
     <span class="legend-item"><span class="legend-dot dot-exec-fuku"></span>副社長</span>
-    <span class="legend-item"><span class="legend-dot dot-holiday" style="background:#e65100"></span>休み(荒/小/島/井)</span>
+    <span class="legend-item"><span class="legend-dot dot-holiday" style="background:#e65100"></span>休み</span>
   </div>
 
   <!-- カレンダービュー -->
@@ -736,6 +756,11 @@
           if (entry.common) dots += '<span class="dot dot-common"></span>';
           if (entry.yasui) dots += '<span class="dot dot-yasui"></span>';
           if (entry.arakawa) dots += '<span class="dot dot-arakawa"></span>';
+          if (entry.komatsu) dots += '<span class="dot dot-komatsu"></span>';
+          if (entry.saitou) dots += '<span class="dot dot-saitou"></span>';
+          if (entry.yanari) dots += '<span class="dot dot-yanari"></span>';
+          if (entry.shimamoto) dots += '<span class="dot dot-shimamoto"></span>';
+          if (entry.inoue) dots += '<span class="dot dot-inoue"></span>';
           if (entry.executives && entry.executives.some(e => e.role.includes('社長') && e.role !== '副社長'))
             dots += '<span class="dot dot-exec-shacho"></span>';
           if (entry.executives && entry.executives.some(e => e.role.includes('副社長')))
@@ -794,6 +819,36 @@
         html += `<div class="detail-row">
       <span class="detail-label label-arakawa">👤 荒川さん</span>
       <div class="detail-text">${d.arakawa ? escapeHtml(d.arakawa) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+
+        // 小松さん
+        html += `<div class="detail-row">
+      <span class="detail-label label-komatsu">👤 小松さん</span>
+      <div class="detail-text">${d.komatsu ? escapeHtml(d.komatsu) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+
+        // 齊藤さん
+        html += `<div class="detail-row">
+      <span class="detail-label label-saitou">👤 齊藤さん</span>
+      <div class="detail-text">${d.saitou ? escapeHtml(d.saitou) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+
+        // 屋成さん
+        html += `<div class="detail-row">
+      <span class="detail-label label-yanari">👤 屋成さん</span>
+      <div class="detail-text">${d.yanari ? escapeHtml(d.yanari) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+
+        // 島本さん
+        html += `<div class="detail-row">
+      <span class="detail-label label-shimamoto">👤 島本さん</span>
+      <div class="detail-text">${d.shimamoto ? escapeHtml(d.shimamoto) : '<span style="color:#aaa">なし</span>'}</div>
+    </div>`;
+
+        // 井上さん
+        html += `<div class="detail-row">
+      <span class="detail-label label-inoue">👤 井上さん</span>
+      <div class="detail-text">${d.inoue ? escapeHtml(d.inoue) : '<span style="color:#aaa">なし</span>'}</div>
     </div>`;
 
         // 役員予定
@@ -866,7 +921,7 @@
         if (dow === 0) badgeCls += ' sun';
         else if (dow === 6) badgeCls += ' sat';
 
-        const hasContent = entry.common || entry.yasui || entry.arakawa || (entry.holidays && entry.holidays.length > 0) || (entry.executives && entry.executives.length > 0);
+        const hasContent = entry.common || entry.yasui || entry.arakawa || entry.komatsu || entry.saitou || entry.yanari || entry.shimamoto || entry.inoue || (entry.holidays && entry.holidays.length > 0) || (entry.executives && entry.executives.length > 0);
         if (!hasContent) return;
 
         html += `<div class="list-item" onclick="selectAndShowCal('${entry.date}')">
@@ -891,6 +946,36 @@
           html += `<div class="list-section">
         <div class="list-section-label">👤 荒川さん</div>
         <div class="list-section-text" style="color:#00796b">${escapeHtml(entry.arakawa)}</div>
+      </div>`;
+        }
+        if (entry.komatsu) {
+          html += `<div class="list-section">
+        <div class="list-section-label">👤 小松さん</div>
+        <div class="list-section-text" style="color:#f57f17">${escapeHtml(entry.komatsu)}</div>
+      </div>`;
+        }
+        if (entry.saitou) {
+          html += `<div class="list-section">
+        <div class="list-section-label">👤 齊藤さん</div>
+        <div class="list-section-text" style="color:#c2185b">${escapeHtml(entry.saitou)}</div>
+      </div>`;
+        }
+        if (entry.yanari) {
+          html += `<div class="list-section">
+        <div class="list-section-label">👤 屋成さん</div>
+        <div class="list-section-text" style="color:#283593">${escapeHtml(entry.yanari)}</div>
+      </div>`;
+        }
+        if (entry.shimamoto) {
+          html += `<div class="list-section">
+        <div class="list-section-label">👤 島本さん</div>
+        <div class="list-section-text" style="color:#4e342e">${escapeHtml(entry.shimamoto)}</div>
+      </div>`;
+        }
+        if (entry.inoue) {
+          html += `<div class="list-section">
+        <div class="list-section-label">👤 井上さん</div>
+        <div class="list-section-text" style="color:#37474f">${escapeHtml(entry.inoue)}</div>
       </div>`;
         }
         if (entry.executives && entry.executives.length > 0) {

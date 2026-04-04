@@ -1,13 +1,14 @@
 {
-  "generated": "2026-04-04 13:18",
+  "generated": "2026-04-04 21:02",
   "schedules": [
     {
       "date": "2026-02-01",
       "weekday": "日",
       "common": "龍國院：電動門定期点検　9：00～\n正門・西門：電動門定期点検　11：00～",
-      "yasui": null,
+      "yasui": "セ棟タイマーセット\nセ棟水栓交換\nアパルト清掃",
       "holidays": [
-        "荒川"
+        "荒川",
+        "井上"
       ],
       "executives": [
         {
@@ -16,15 +17,17 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "就業規則見直し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-02",
       "weekday": "月",
       "common": "各所：害虫生息調査　7：30～",
-      "yasui": null,
+      "yasui": "ガス閉栓\n迎賓館シール工事\n漏水セミナー①10:30②13:30",
       "holidays": [],
       "executives": [
         {
@@ -32,8 +35,10 @@
           "text": "海外視察"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "13：00～14：00キャリア",
+      "komatsu": "11：00～12：00ｷｬﾘｱ面談\n＠談話室3\n就業規則見直し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -41,7 +46,7 @@
       "date": "2026-02-03",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅢ検針・設定変更\nAJCショップ上修理\nセ棟水栓交換\n漏水セミナー①10:30②13:30",
       "holidays": [],
       "executives": [
         {
@@ -49,8 +54,10 @@
           "text": "海外視察JL044ヒースロー18：30-"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "10:00にしけい",
+      "komatsu": "就業規則見直し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -58,16 +65,20 @@
       "date": "2026-02-04",
       "weekday": "水",
       "common": "グリストラップ：五萬石・本社食堂・ルコネッサン③",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "海外視察　　　　　　　　　　　　　　　-羽田17：20　JAL333羽田18：55-福岡21：05"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "10：00迎賓館雛飾り\nルコ消防訓練相談\n13：30九州電力\n15:00オクゼン",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -75,9 +86,10 @@
       "date": "2026-02-05",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "AC準備\n鳥栖アンテ水栓修理\nAJCショップ雨除け修理\nアパルトⅢ検針・設定変更",
       "holidays": [
-        "荒川"
+        "荒川",
+        "井上"
       ],
       "executives": [
         {
@@ -86,15 +98,17 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "節分準備",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-06",
       "weekday": "金",
       "common": "アシュランクラブ　　龍國院節分祭",
-      "yasui": null,
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
@@ -110,17 +124,21 @@
           "text": "[16:00〜] 徳永DM、李DM、岡DM"
         }
       ],
-      "arakawa": "節分対応",
-      "komatsu": null,
+      "arakawa": "AC対応",
+      "komatsu": "アシュランクラブ対応\n節分対応",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "節分対応"
     },
     {
       "date": "2026-02-07",
       "weekday": "土",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -131,8 +149,10 @@
           "text": "[PM〜] 外出"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "10：30オクゼン坂本",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -140,16 +160,21 @@
       "date": "2026-02-08",
       "weekday": "日",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "そば処 釜確認・照明スイッチ修理\nルコ消毒液",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　ANA434　福岡9：00-名古屋10：10 名鉄10：37-金山11：01のぞみ6 博多7：15-名古屋10：34/のぞみ35名古屋14：49-博多18：09"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -157,9 +182,9 @@
       "date": "2026-02-09",
       "weekday": "月",
       "common": "配送棟：2階社員食堂 床定期清掃　15：00～",
-      "yasui": null,
+      "yasui": "11：00オクゼン河野\nショップ雨除け修理",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -167,16 +192,18 @@
           "text": "神戸ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54-博多15：09 のぞみ21 新神戸12：15-博多14：30　のぞみ29 新神戸14：15-博多16：30"
         }
       ],
-      "arakawa": "有給",
-      "komatsu": null,
+      "arakawa": "9:00GEH消防点検\n11：00オクゼン河野",
+      "komatsu": "就業規則見直し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "有給"
     },
     {
       "date": "2026-02-10",
       "weekday": "火",
       "common": "アパルトⅣ：貯水槽清掃　13：30～",
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -184,8 +211,10 @@
           "text": "関東ｽﾃｯﾌﾟｱｯﾌﾟｾﾐﾅｰ　JAL300 福岡7：05-羽田8：35/JAL323 羽田15：10-福岡17：10"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "9：00浅井さん・市井さん",
+      "komatsu": "14：30安全衛生委員会\n15：00福崎さん来社",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -193,23 +222,26 @@
       "date": "2026-02-11",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "ふくろう園ベッド修理\nそば処煙突修理",
       "holidays": [
-        "荒川"
+        "荒川",
+        "井上"
       ],
       "executives": [],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "就業規則見直し\n安井さんにロングバッテリー",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-12",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "ふくろう園ベッド修理",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -217,25 +249,31 @@
           "text": "松山ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3591 福岡9：10-松山9：50/JAL3602 松山14：35-福岡15：25"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "15：30にしけい",
+      "komatsu": "就業規則見直し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-13",
       "weekday": "金",
       "common": "エレベーター点検：\n　セミナー棟 13:00～14:30\n　ﾙｺﾈｯｻﾝ 15:00～18:30（先に従業員用）",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "御殿場ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7:05-羽田8:35 こだま713品川9:34-三島10:17/こだま724　三島14:54-品川15:40 JAL327 羽田16：55-福岡19：05"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "橋本さん自転車の件\n10:00 カートバッテリー交換\nEL点検",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -243,16 +281,21 @@
       "date": "2026-02-14",
       "weekday": "土",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "アパルトⅠ・Ⅱ門扉修理",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "名古屋　JAL4390 福岡15：25－小牧16：45"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -260,9 +303,10 @@
       "date": "2026-02-15",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "美術館ブラインド調査\nロングカートバッテリーについて",
       "holidays": [
-        "荒川"
+        "荒川",
+        "井上"
       ],
       "executives": [
         {
@@ -274,16 +318,18 @@
           "text": "[16:30〜] ルコパン試食"
         }
       ],
-      "arakawa": "有給",
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "就業規則見直し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "有給"
     },
     {
       "date": "2026-02-16",
       "weekday": "月",
       "common": "事務棟：B1階通路・書庫等 床定期清掃　9：00～\n配送棟：B1階倉庫・エアピロ室・前室 床定期清掃　13：00～\n配送棟：1階物流室 床定期清掃　17：00～",
-      "yasui": null,
+      "yasui": "検針\n檜枝さん給湯器交換見積り",
       "holidays": [],
       "executives": [
         {
@@ -291,8 +337,10 @@
           "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：05-羽田8：35 ひたち7 東京9：53-水戸11：05 / ひたち16 水戸14：27-東京15：42 JAL327 羽田16：55-福岡19：05"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "勤怠〆",
+      "komatsu": "勤怠締め\n活動報告依頼メール\n内線番号展開",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -300,9 +348,9 @@
       "date": "2026-02-17",
       "weekday": "火",
       "common": "配送棟：B1階倉庫・エアピロ室・前室 床定期清掃　13：00～\n配送棟：1階物流室 床定期清掃　17：00～\nグリストラップ：五萬石・本社食堂・ルコネッサン①②③",
-      "yasui": null,
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -310,17 +358,21 @@
           "text": "ひたち12　水戸12：27-東京13：42/JAL323 羽田15：10-福岡17：10　ひたち4　水戸8：10-東京9：38/JAL315　羽田10：55-福岡13：00"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "13：00空閑園芸",
+      "komatsu": "就業規則見直し\n15：00　米打合せ",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-18",
       "weekday": "水",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "ヴェルビュ春日原 水栓\n10：30-11：30ふくろう園エアコン修理",
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -335,8 +387,10 @@
           "text": "[16:30〜] ルコパン試食"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "古賀さんに米の話\n14：00ブロック会議\n翌日の田﨑出水便確認",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -344,24 +398,28 @@
       "date": "2026-02-19",
       "weekday": "木",
       "common": "テルマアル：機械室内昇温循環ポンプ部品取替作業　13：00前後～",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "セ棟水栓清掃",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "佐世保ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
-      "arakawa": "田﨑に書類+ETC渡す",
-      "komatsu": null,
+      "arakawa": "14:00九州電力\n16:00クラフティア",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "田﨑に書類+ETC渡す"
     },
     {
       "date": "2026-02-20",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "ショップ雨除け修理",
       "holidays": [],
       "executives": [
         {
@@ -369,8 +427,10 @@
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304　福岡8：30-羽田10：00/JAL325 羽田15：50-福岡17：55"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "10：00福岡粧材\n13:00福岡粧材\n15:00にしけい下醉尾",
+      "komatsu": "スケジュール確認\n⇒シフト依頼メール",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -378,9 +438,10 @@
       "date": "2026-02-21",
       "weekday": "土",
       "common": "ルークス車検前点検9：00～17：00",
-      "yasui": null,
+      "yasui": "ガロンボトル\nルークス車検前点検",
       "holidays": [
-        "荒川"
+        "荒川",
+        "井上"
       ],
       "executives": [
         {
@@ -389,17 +450,19 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "朝礼レジメ作成",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-22",
       "weekday": "日",
       "common": "ふくろう園なかよし発表会",
-      "yasui": null,
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -431,25 +494,31 @@
           "text": "[15:00〜] 徳永DM、李DM、岡DM"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "なかよし発表会対応\n15:00オクゼン松本",
+      "komatsu": "なかよし発表会対応",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-23",
       "weekday": "月",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "関東支店ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：05-羽田8：35"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "活動報告作成\nスケジュール送付\n定期清掃検討",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -457,7 +526,7 @@
       "date": "2026-02-24",
       "weekday": "火",
       "common": "セミナー棟より西側：防火対象物点検　10：00～\nテルマアル：館内一斉消毒作業　18：30～",
-      "yasui": null,
+      "yasui": "全体朝礼準備\nカートバッテリー発注\n入寮書類",
       "holidays": [],
       "executives": [
         {
@@ -465,8 +534,10 @@
           "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　やまびこ52 宇都宮12：35-東京13：24/JAL323　羽田15：10-福岡17：10 やまびこ134 宇都宮11：35-東京12：24/JAL321　羽田13：45-福岡15：45"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "11：30クラフティア花畑\n13:00オクゼン坂本\n社宅更新手続き依頼S川鍋",
+      "komatsu": "桑原さんに米発注数の件\n活動報告とりまとめ⇒展開",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -474,7 +545,7 @@
       "date": "2026-02-25",
       "weekday": "水",
       "common": "そば処五萬石：床定期清掃　9：00～\nグリストラップ：五萬石・GEH・サンセール・鳥栖アンテ",
-      "yasui": null,
+      "yasui": "社宅宅コンロ現調\nワックスがけについて\nPM有休",
       "holidays": [],
       "executives": [
         {
@@ -482,8 +553,10 @@
           "text": "[12:00〜] JTB今村様"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "11：00オクゼン坂本\n13:30空閑園芸",
+      "komatsu": "15：00ﾊﾟﾌﾞﾘｯｸ野田さん\n和仁さんメットライフを\nタカクラ様宛に送る",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -491,16 +564,20 @@
       "date": "2026-02-26",
       "weekday": "木",
       "common": "ルコネッサン：2階 床定期清掃　17：00～",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "9:30 社長宅ワックス現調\nガロンボトル",
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "東京　JAL306　福岡9：25-羽田11：00/JAL323　羽田15：10-福岡17：10  JAL327　羽田16：55-福岡19：05"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "freee島本さん追加\n3/11（水）配車つける",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -508,37 +585,48 @@
       "date": "2026-02-27",
       "weekday": "金",
       "common": "ルコネッサン：1階 床定期清掃　17：00～",
-      "yasui": null,
+      "yasui": "9:30 社長宅ワックス現調\n水道局FAX",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "AM PBX定期点検",
+      "komatsu": "14：30就業規則打合せ\nデニッシュ引取り",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-02-28",
       "weekday": "土",
       "common": null,
-      "yasui": "復帰初日",
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松"
+      ],
       "executives": [],
       "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "復帰初日",
       "inoue": null
     },
     {
       "date": "2026-03-01",
       "weekday": "日",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "14:00 アパルトⅣ-105・303\n退寮",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -546,9 +634,10 @@
       "date": "2026-03-02",
       "weekday": "月",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅣ-105ガス閉栓\nアパルトⅣ清掃\nルコ軽バン荷台\n配送棟カーテン\nアパルトⅣ-106ガス開栓連絡",
       "holidays": [
-        "荒川"
+        "荒川",
+        "井上"
       ],
       "executives": [
         {
@@ -557,51 +646,61 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "古賀さんに名刺切れ伝える\n斉藤さんに桑原さん（ｱｼｭﾗﾝｼｰﾄ記念盾贈呈）伝える\n社長に東京・大阪確認\n社長にキッズ確認\nカスハラ就業規則作成\n15：00ｱｳｫｰﾄﾞ打合せ",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-03-03",
       "weekday": "火",
       "common": "各所：害虫生息調査及びテルマアルレジオネラ採水作業 7:00～",
-      "yasui": "休",
-      "holidays": [],
+      "yasui": "ルコ軽バン荷台\n配送棟カーテン\nアパルトⅣ清掃\nガロンボトル",
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "15:00内山緑地",
+      "komatsu": "11：00ﾗｸｽﾙ打合せ＠2-1\n14：30　安全衛生委員会\n→避難訓練の件伝える",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-04",
       "weekday": "水",
       "common": "ロングカートバッテリー交換 10:00～\nグリストラップ：五萬石・本社食堂・ルコネッサン③",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　ANA434 福岡9：00-名古屋10：10　名鉄中部空港 10：37-金山11：01/のぞみ35 名古屋14：49-博多18：09"
         }
       ],
-      "arakawa": "美術館団体予約あり運転手さんにバスを移動してもらう！",
-      "komatsu": null,
+      "arakawa": "10:00 ロングカート\nバッテリー交換\n迎賓館・食堂雛壇片付け",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "美術館団体予約あり運転手さんにバスを移動してもらう！"
     },
     {
       "date": "2026-03-05",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -617,25 +716,31 @@
           "text": "[16:30〜] 博多大丸様"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": null,
+      "komatsu": "カスハラ就業規則作成",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-03-06",
       "weekday": "金",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "アパルト書類準備\nネットイノベーション見積り",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "関東支店ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：35 ひたち17東京14：53-水戸16：06"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "14：00クラフティア",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -643,9 +748,11 @@
       "date": "2026-03-07",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "セ棟タイマーセット\nアパルト準備",
       "holidays": [
-        "荒川"
+        "荒川",
+        "小松",
+        "井上"
       ],
       "executives": [
         {
@@ -654,17 +761,21 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-03-08",
       "weekday": "日",
       "common": null,
-      "yasui": "休",
+      "yasui": "アパルト準備\nルコ軽バン荷台",
       "holidays": [
-        "荒川"
+        "荒川",
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -674,15 +785,19 @@
       ],
       "arakawa": "休",
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-03-09",
       "weekday": "月",
       "common": "テルマアル：レジオネラ再採水作業 7:30～",
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -697,16 +812,18 @@
           "text": "[13:00〜16:00] スパ"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "オクゼン部屋確保の件\n13：30大林Ｆ\n電気代処理",
+      "komatsu": "優さんにラクスル法人確認",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-10",
       "weekday": "火",
       "common": "アウォード（本社）　ガバナー会議（本社）\n本社：電気設備保安点検（発電機ハンドル一式） 13:30～",
-      "yasui": null,
+      "yasui": "保安協会鍵渡し\nセミナー準備・配信\n15:00 清掃班ミーティング",
       "holidays": [],
       "executives": [
         {
@@ -718,8 +835,10 @@
           "text": "[14:00〜16:00] ガバナー会議"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "13:30アンテ弥生が丘\n16:00GEHショップ",
+      "komatsu": "アウォード前日準備\n古賀さんに骨粗しょう症",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -727,7 +846,7 @@
       "date": "2026-03-11",
       "weekday": "水",
       "common": "セミナー（本社セミナー棟にて）8:30～\nグリストラップ：五萬石",
-      "yasui": null,
+      "yasui": "7:00 出勤セミナー準備\n調光",
       "holidays": [],
       "executives": [
         {
@@ -739,8 +858,10 @@
           "text": "[16:00〜] 日本航空　石井様"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "セミナー対応",
+      "komatsu": "8：00出勤カート対応",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -748,16 +869,21 @@
       "date": "2026-03-12",
       "weekday": "木",
       "common": "ルークス車検9：00～17：00",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休→出\n9：30シルバー人材　ルコ\nアシュランクラブ準備\nガロンボトル",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "本社 アウォード"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "出→休",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -765,26 +891,31 @@
       "date": "2026-03-13",
       "weekday": "金",
       "common": null,
-      "yasui": "休",
-      "holidays": [],
+      "yasui": "出→休",
+      "holidays": [
+        "荒川",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "アウォード延泊"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "休→出\n自動車保険見直し\n売買契約書見直し",
+      "komatsu": "アシュランクラブ前日準備",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-14",
       "weekday": "土",
       "common": "アシュランクラブ",
-      "yasui": null,
+      "yasui": "調光",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -796,42 +927,53 @@
           "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "調光室",
+      "komatsu": "アシュランクラブ対応",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-03-15",
       "weekday": "日",
       "common": "ノート点検9：00～17：00",
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "小松",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "関東勉強会　JAL300 福岡7：00-羽田8：35/JAL323 羽田15：10-福岡17：10"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "Ｆｒｅｅ入力\n車両管理整備",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-16",
       "weekday": "月",
       "common": "龍國院 電気保安協会 10:00～\nアパⅣ 電気保安協会 11:30～\nアパルトⅠ・Ⅱ：電気保安協会点検 13:30～",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "アパⅠ・Ⅱ・Ⅳ保安協会鍵渡し\n検針\n13:00 アパルトⅣ-106ガス開栓\n15:00 東急不動産 カワイさん 工事挨拶",
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "防府ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "出→休\n13：30オクゼン木下・坂本\n15:00 東急不動産 カワイさん 工事挨拶",
+      "komatsu": "活動報告依頼メール",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -839,9 +981,10 @@
       "date": "2026-03-17",
       "weekday": "火",
       "common": "事務棟：上水・雑用水給水ポンプ点検（断水なし） 9:00～\nアシュラン様：消防訓練（火元：ルコネッサン） 15：30～",
-      "yasui": null,
+      "yasui": "9:54 大野城駅迎え\n11:00 アパルトⅣ-106\n入寮\nアパルト準備\n15：30ルコ消防訓練",
       "holidays": [
-        "荒川"
+        "小松",
+        "井上"
       ],
       "executives": [
         {
@@ -849,42 +992,54 @@
           "text": "神戸ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54－博多15：09"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "10:00オクゼン中嶋\n15：30ルコ消防訓練",
+      "komatsu": "有休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-03-18",
       "weekday": "水",
       "common": "ふくろう園：床定期清掃。18：00～\nグリストラップ：本社食堂・ルコネッサン①②③",
-      "yasui": "休",
-      "holidays": [],
+      "yasui": "9:00 迎賓館ガス工事\nアルコール\n13：30にしけい下醉尾",
+      "holidays": [
+        "荒川",
+        "小松",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3563 福岡9：55-徳島11：00/JAL3568 徳島17：30-福岡18：40"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "休→出\n泉國邸保険検討\n13：30オクゼン木下・坂本",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-19",
       "weekday": "木",
       "common": "そば処五萬石：井水採水 9:00～",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "15:00 アパルトⅣ-106\nガス閉栓\n13:00 退寮\nアパルト確認\nオクゼン不動産契約書\nガロンボトル",
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304　福岡8：25-羽田10：00 JAL300　福岡7：00-羽田8：35/JAL325羽田15：55-福岡17：55"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "出→休",
+      "komatsu": "10：00ﾎｰｸｽ桑原さん\n衛生管理者受験日",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -894,7 +1049,8 @@
       "common": null,
       "yasui": "休",
       "holidays": [
-        "荒川"
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -902,18 +1058,21 @@
           "text": "大阪勉強会　JAL2050　福岡7：00-伊丹8：00/JAL2057　伊丹13：40-福岡14：55"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "arakawa": "アパルト3室賃貸契約確認\n12:30アパルトⅠ-105入寮\nアパート法人契約確認\n泉國邸保険確認\n駅前不動産連絡",
+      "komatsu": "スケジュール確認\n⇒シフト依頼メール\nお手入れ庸車バス配車",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-03-21",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "有休",
       "holidays": [
-        "荒川"
+        "小松",
+        "井上"
       ],
       "executives": [
         {
@@ -921,52 +1080,65 @@
           "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡9：00-仙台10：50/JAL4530 仙台16：30-福岡18：45"
         }
       ],
-      "arakawa": "出→有休",
-      "komatsu": null,
+      "arakawa": "アパルト火災保険検討\n業務報告書",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "出→有休"
     },
     {
       "date": "2026-03-22",
       "weekday": "日",
       "common": null,
-      "yasui": "出→有休",
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "小松",
+        "島本"
+      ],
       "executives": [
         {
           "role": "社長・副社長",
           "text": "[16:30〜] 財団授与式・交流会"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "お花見勉強会検討",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "出→有休",
       "inoue": null
     },
     {
       "date": "2026-03-23",
       "weekday": "月",
       "common": "事務棟：1～3階床定期清掃 9:00～",
-      "yasui": "出→休",
-      "holidays": [],
+      "yasui": "朝礼準備\nセ棟勉強会準備\n12-14時オクゼン不動産\nアパルトⅣガス開栓TEL",
+      "holidays": [
+        "荒川",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "松山ｱｼｭﾗﾝｸﾗﾌﾞ JAL 3591 福岡9：05-松山9：45/JAL3602 松山14：35-福岡15：25"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "休",
+      "komatsu": "朝礼レジメ作成\nお手入れ庸車バス配車表メール送信",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "出→休",
       "inoue": null
     },
     {
       "date": "2026-03-24",
       "weekday": "火",
       "common": "事務棟他：空気環境測定 10：00～15：00",
-      "yasui": "休→出",
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -974,16 +1146,18 @@
           "text": "大阪ｽﾃｯﾌﾟｱｯﾌﾟ　JAL2050 福岡7：00-伊丹8:00/JAL2057 伊丹13：40-福岡14：55"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "arakawa": "10:00平山土地家屋調査士\n14:00NTT 2-1\n15:00オクゼン木下",
+      "komatsu": "活動報告とりまとめ\n⇒展開",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休→出",
+      "inoue": "休"
     },
     {
       "date": "2026-03-25",
       "weekday": "水",
       "common": "エレベーター点検\n　　 9:30～10:30　社長宅\nグリストラップ：五萬石・GEH・サンセール",
-      "yasui": null,
+      "yasui": "アパルト準備\n10：00アパルトⅠ-101入寮15:30 清掃班ミーティング",
       "holidays": [],
       "executives": [
         {
@@ -1003,8 +1177,10 @@
           "text": "[15:30〜] TVQ　平岡会長、植山専務、橋本様"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "課長会議(議事録)\n福岡粧材契約書類準備\n巨山氏社宅申請書\n小川建設ｸﾙ邸修理の件\nにしけい回線確認\n花見勉強会ｽｹｼﾞｭｰﾙ作成",
+      "komatsu": "西原さんにDVD渡す",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1012,8 +1188,11 @@
       "date": "2026-03-26",
       "weekday": "木",
       "common": "外周：不快害虫防除作業 7:00～",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "大林F予定\nアパルト備品準備",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1024,8 +1203,10 @@
           "text": "[終日〜] 外出"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休→出\n10：00佐賀共栄銀行鳥栖支店\n13：30クラフティア花畑\n龍國院マット移動\n弥生が丘シャンデリア\n花見勉強会周知\n議事録作成\nシフト作成",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1033,16 +1214,21 @@
       "date": "2026-03-27",
       "weekday": "金",
       "common": "エレベーター点検\n　　 7:30～ 8:30　テルマアル\n　　11:00～12:30　美術館\n　　13:00～14:30　アパルトⅠ\n　　14:30～16:30　アパルトⅣ\n外周：不快害虫防除作業 7:00～",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "お花見勉強会準備\nアパルト備品準備\nアパルト入寮書類",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：35　やまびこ55 東京9：40-宇都宮10：28/やまびこ56 宇都宮14：35-東京15：24　JAL327 羽田16：55-福岡19：05"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "有休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1051,7 +1237,9 @@
       "weekday": "土",
       "common": "九州地区お花見勉強会",
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1066,18 +1254,22 @@
           "text": "[14:00〜17:00] 外出"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "花見対応\n9:30APⅠ-103入寮\n15:00APⅣ-202・303入寮",
+      "komatsu": "お花見勉強会対応",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-03-29",
       "weekday": "日",
       "common": null,
-      "yasui": "休",
+      "yasui": "アパルト備品交換",
       "holidays": [
-        "荒川"
+        "荒川",
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -1086,17 +1278,20 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "komatsu": "2023/3～2026/2までの\n申請書用意しておく",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-03-30",
       "weekday": "月",
       "common": "テルマアル：館内消毒作業 18：30～\n本社窓ガラス清掃",
-      "yasui": null,
+      "yasui": "水道局FAX\nアパルトⅠ備品移動\nAM アパルトⅣ-105・106\nガス開栓\n13:00 アパルトⅣ-204入寮\n15:00APⅣ-202入寮",
       "holidays": [
-        "荒川"
+        "小松",
+        "井上"
       ],
       "executives": [
         {
@@ -1104,18 +1299,20 @@
           "text": "東京　JAL302 福岡7：25-羽田9：05　JAL 304 福岡8:15-羽田9：50/JAL321 羽田13：45-福岡13：45-15：35又はJAL323 羽田15：25-福岡17：20"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
+      "arakawa": "8:00窓ガラス清掃\n10：00佐賀銀行春日支店\n13:30テルマアル\nPMオクゼン松本\n議事録展開\nシフト展開",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-03-31",
       "weekday": "火",
       "common": "本社窓ガラス清掃",
-      "yasui": "14：00PHRF野田さん",
+      "yasui": "出→休",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -1123,25 +1320,31 @@
           "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
         }
       ],
-      "arakawa": "休",
-      "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "arakawa": "入社式準備\n10:00 アパルトⅣ-203退寮\n14：00ライフパートナーズ\n14:30 大野城駅アパルトⅣ\n-105・106入寮\nお手入れ準備",
+      "komatsu": "斉藤さんに総務引継ぎ\n14：00PHRF野田さん\n入社式前日確認",
+      "saitou": "14：00PHRF野田さん",
+      "yanari": null,
+      "shimamoto": "14：00PHRF野田さん",
+      "inoue": "休"
     },
     {
       "date": "2026-04-01",
       "weekday": "水",
       "common": "入社式\nグリストラップ：鳥栖アンテ",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休→出\n11:00 アパルトⅣ-101退寮\n14:30 アパルトⅣ-304ガス\n13:00 アパルトⅠ-104入寮\n受付に地然水",
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "[09:20〜15:30] 外出"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "有休",
+      "komatsu": "14：30～カート対応\n入社式対応\nお手入れ準備＆前日対応",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1149,7 +1352,7 @@
       "date": "2026-04-02",
       "weekday": "木",
       "common": "春・夏のお手入れセミナー",
-      "yasui": null,
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
@@ -1161,8 +1364,10 @@
           "text": "[15:00〜] JTB今村様"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "お手入れ対応",
+      "komatsu": "お手入れ対応",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1170,26 +1375,33 @@
       "date": "2026-04-03",
       "weekday": "金",
       "common": null,
-      "yasui": "休",
-      "holidays": [],
+      "yasui": "AM アパルトⅣ-105・106\nガス閉栓\nふくろう園鯉のぼり設置\nガロンボトル\nアパルトⅣ申請書\n大林F予定\n食堂椅子交換",
+      "holidays": [
+        "荒川",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "宇都宮　JAL300 福岡7：00-羽田8：40 やまびこ55 東京9：40-宇都宮10：28/ 宇都宮12：35-東京13：24　ＪＡＬ325羽田32515：55-福岡17：55"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "休",
+      "komatsu": "お手入れ翌日対応",
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-04-04",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "小松",
+        "齊藤",
+        "井上"
       ],
       "executives": [
         {
@@ -1201,18 +1413,22 @@
           "text": "出水　さくら743　新鳥栖9：41-出水10：39　さくら758　出水14：09-新鳥栖15：07"
         }
       ],
-      "arakawa": "休→出",
-      "komatsu": null,
+      "arakawa": null,
+      "komatsu": "休",
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休→出"
     },
     {
       "date": "2026-04-05",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "小松",
+        "屋成",
+        "井上"
       ],
       "executives": [
         {
@@ -1220,16 +1436,18 @@
           "text": "名古屋ｽﾃｯﾌﾟｱｯﾌﾟ 　JAL 4382 福岡9：10-小牧10：30/のぞみ167 名古屋14：41-博多18：03"
         }
       ],
-      "arakawa": "出→休",
-      "komatsu": null,
+      "arakawa": "10:00 アパルトⅡ-103入寮",
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "出→休"
     },
     {
       "date": "2026-04-06",
       "weekday": "月",
       "common": "アパⅣガス検針（鍵渡し）",
-      "yasui": null,
+      "yasui": "10:00 アパルトⅡ-106入寮",
       "holidays": [],
       "executives": [
         {
@@ -1237,8 +1455,10 @@
           "text": "富山ｱｼｭﾗﾝｸﾗﾌﾞ　ANA4646 福岡7：20-小松8：45 つるぎ4 小松9：17-富山9：53/つるぎ37 富山16：37-敦賀17：59 ｻﾝﾀﾞｰﾊﾞｰﾄﾞ3 敦賀18：12-新大阪19：32"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "14：00九州電力",
+      "komatsu": "13：00ふくろう園健診\n異動の件協力会社にレラ",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1246,26 +1466,32 @@
       "date": "2026-04-07",
       "weekday": "火",
       "common": "各所：害虫生息調査　7：30～",
-      "yasui": "休",
-      "holidays": [],
+      "yasui": "ふくろう園鯉のぼり設置",
+      "holidays": [
+        "荒川",
+        "齊藤",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "和歌山ｱｼｭﾗﾝｸﾗﾌﾞ　JR紀州路快速和歌山12：14-大阪13：43　大阪13：47-新大阪13：50 のぞみ 29新大阪14：02-博多16：30"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
-      "shimamoto": null,
+      "arakawa": "休",
+      "komatsu": "次回ACの運営どうなったか\n坂本千晶さんに確認",
+      "saitou": "休",
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-04-08",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅢ　引越し手伝い\nPM アパルトⅣ-304給湯器",
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -1273,20 +1499,24 @@
           "text": "[14:00〜] みずほ証券　笠原様、他1名"
         }
       ],
-      "arakawa": "休→出",
+      "arakawa": "アパルトⅢ　引越し手伝い",
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休→出"
     },
     {
       "date": "2026-04-09",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1295,10 +1525,15 @@
       "weekday": "金",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "小松",
+        "屋成"
+      ],
       "executives": [],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -1306,9 +1541,12 @@
       "date": "2026-04-11",
       "weekday": "土",
       "common": null,
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "屋成",
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -1316,34 +1554,45 @@
           "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：40/JAL325 羽田15：55-福岡17：55"
         }
       ],
-      "arakawa": "出→休",
+      "arakawa": "休",
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "出→休"
     },
     {
       "date": "2026-04-12",
       "weekday": "日",
       "common": null,
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "齊藤",
+        "島本",
+        "井上"
       ],
       "executives": [],
       "arakawa": "休",
-      "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "komatsu": "総務への提出先が変更になるメールを役職者にする",
+      "saitou": "休",
+      "yanari": null,
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-04-13",
       "weekday": "月",
       "common": "迎賓館：井水循環配管洗浄、ろ過機メンテナンス　9:00～\n迎賓館：バックフィルター納品",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "10：00スプリングス青木さん\n衛生管理者選任時報告",
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1351,8 +1600,10 @@
       "date": "2026-04-14",
       "weekday": "火",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "アシュランクラブ準備",
+      "holidays": [
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1360,7 +1611,9 @@
         }
       ],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "休",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1368,7 +1621,7 @@
       "date": "2026-04-15",
       "weekday": "水",
       "common": "アシュランクラブ\nそば処五萬石：床定期清掃（窓ガラス有）　9：00～",
-      "yasui": null,
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
@@ -1377,7 +1630,9 @@
         }
       ],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "セミナー対応\nｻﾎﾟｰﾀｰMTG龍児さん伝言\nセミナー終了後引越し",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1387,24 +1642,32 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "屋成",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-04-17",
       "weekday": "金",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "島本"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
+      "saitou": "休",
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -1412,11 +1675,16 @@
       "weekday": "土",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成",
+        "島本"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -1425,7 +1693,8 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "屋成",
+        "井上"
       ],
       "executives": [
         {
@@ -1437,17 +1706,21 @@
           "text": "[09:30〜15:00] 外出"
         }
       ],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-04-20",
       "weekday": "月",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1456,6 +1729,8 @@
       ],
       "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1463,8 +1738,10 @@
       "date": "2026-04-21",
       "weekday": "火",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1473,6 +1750,8 @@
       ],
       "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1480,9 +1759,10 @@
       "date": "2026-04-22",
       "weekday": "水",
       "common": "そば処五萬石：排水管洗浄　15：00～\n社員食堂：排水管洗浄　17：00～\nルコネッサン：排水管洗浄　18：00～",
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -1490,17 +1770,21 @@
           "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40　ひたち7　東京9：35-水戸11：05/ひたち16　水戸14：27-東京15：42　JAL327　羽田17:00-福岡19：05"
         }
       ],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-04-23",
       "weekday": "木",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1509,6 +1793,8 @@
       ],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -1516,8 +1802,10 @@
       "date": "2026-04-24",
       "weekday": "金",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1526,6 +1814,8 @@
       ],
       "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1538,6 +1828,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1545,15 +1837,18 @@
       "date": "2026-04-26",
       "weekday": "日",
       "common": "ステップアップセミナー",
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "島本",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-04-27",
@@ -1561,7 +1856,7 @@
       "common": "テルマアル：館内消毒作業　18：30～",
       "yasui": null,
       "holidays": [
-        "荒川"
+        "井上"
       ],
       "executives": [
         {
@@ -1569,20 +1864,26 @@
           "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：40 やまびこ55東京9：40-宇都宮10：28/やまびこ56宇都宮14：35-\n東京15：24なすの276宇都宮14：21-東京15：16 JAL327 羽田17:00-福岡19：05"
         }
       ],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-04-28",
       "weekday": "火",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "屋成"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -1590,12 +1891,17 @@
       "date": "2026-04-29",
       "weekday": "水",
       "common": null,
-      "yasui": "休",
-      "holidays": [],
+      "yasui": null,
+      "holidays": [
+        "齊藤",
+        "島本"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
+      "saitou": "休",
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -1607,6 +1913,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1614,7 +1922,7 @@
       "date": "2026-05-01",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -1624,6 +1932,8 @@
       ],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1631,15 +1941,18 @@
       "date": "2026-05-02",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [
-        "荒川"
+        "齊藤",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-05-03",
@@ -1647,48 +1960,64 @@
       "common": null,
       "yasui": "休",
       "holidays": [
-        "荒川"
+        "齊藤",
+        "屋成",
+        "島本",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": "休",
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-05-04",
       "weekday": "月",
       "common": null,
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "屋成",
+        "島本",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-05-05",
       "weekday": "火",
       "common": null,
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "屋成",
+        "島本",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-05-06",
       "weekday": "水",
       "common": null,
-      "yasui": "休",
-      "holidays": [],
+      "yasui": null,
+      "holidays": [
+        "屋成",
+        "島本"
+      ],
       "executives": [
         {
           "role": "副社長",
@@ -1697,18 +2026,22 @@
       ],
       "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-05-07",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1717,10 +2050,14 @@
       "weekday": "金",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1730,49 +2067,64 @@
       "common": "アパⅣガス検針（鍵渡し）",
       "yasui": null,
       "holidays": [
-        "荒川"
+        "屋成",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-05-10",
       "weekday": "日",
       "common": null,
-      "yasui": "休",
+      "yasui": null,
       "holidays": [
-        "荒川"
+        "屋成",
+        "島本",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
-      "inoue": null
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-05-11",
       "weekday": "月",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
+      "saitou": null,
+      "yanari": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
       "date": "2026-05-12",
       "weekday": "火",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1781,10 +2133,14 @@
       "weekday": "水",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1794,24 +2150,32 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "齊藤",
+        "井上"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": null,
       "komatsu": null,
+      "saitou": "休",
+      "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-05-15",
       "weekday": "金",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成",
+        "島本"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
-      "shimamoto": null,
+      "saitou": null,
+      "yanari": "休",
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -1823,6 +2187,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1835,6 +2201,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1847,6 +2215,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1859,6 +2229,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1871,6 +2243,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1883,6 +2257,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1895,6 +2271,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1907,6 +2285,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1919,6 +2299,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1931,6 +2313,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1943,6 +2327,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1955,6 +2341,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1967,6 +2355,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1979,6 +2369,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -1991,6 +2383,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2003,6 +2397,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2015,6 +2411,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2027,6 +2425,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2039,6 +2439,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2051,6 +2453,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2063,6 +2467,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2075,6 +2481,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2087,6 +2495,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2099,6 +2509,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2111,6 +2523,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2123,6 +2537,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2135,6 +2551,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2147,6 +2565,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2159,6 +2579,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2171,6 +2593,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2183,6 +2607,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2195,6 +2621,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2207,6 +2635,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2219,6 +2649,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2231,6 +2663,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2242,7 +2676,9 @@
       "holidays": [],
       "executives": [],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "レジメにキッズの件入れる",
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2255,6 +2691,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2267,6 +2705,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2279,6 +2719,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2291,6 +2733,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2303,6 +2747,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2315,6 +2761,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2327,6 +2775,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2339,6 +2789,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2351,6 +2803,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2363,6 +2817,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2375,6 +2831,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2387,6 +2845,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2399,6 +2859,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2411,6 +2873,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2423,6 +2887,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2435,6 +2901,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2447,6 +2915,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2459,6 +2929,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2471,6 +2943,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2483,6 +2957,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2495,6 +2971,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2507,6 +2985,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2519,6 +2999,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2531,6 +3013,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2543,6 +3027,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2555,6 +3041,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2567,6 +3055,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2579,6 +3069,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2591,6 +3083,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2603,6 +3097,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2615,6 +3111,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2627,6 +3125,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2639,6 +3139,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2651,6 +3153,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2663,6 +3167,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2675,6 +3181,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2687,6 +3195,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2699,6 +3209,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2711,6 +3223,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2723,6 +3237,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2735,6 +3251,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2747,6 +3265,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2759,6 +3279,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2771,6 +3293,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2783,6 +3307,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2795,6 +3321,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2807,6 +3335,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2819,6 +3349,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2831,6 +3363,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2843,6 +3377,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2855,6 +3391,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2867,6 +3405,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2879,6 +3419,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2891,6 +3433,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2903,6 +3447,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2915,6 +3461,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2927,6 +3475,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2939,6 +3489,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2951,6 +3503,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2963,6 +3517,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2975,6 +3531,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2987,6 +3545,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -2999,6 +3559,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3011,6 +3573,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3023,6 +3587,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3035,6 +3601,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3047,6 +3615,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3059,6 +3629,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3071,6 +3643,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3083,6 +3657,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3095,6 +3671,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3107,6 +3685,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3119,6 +3699,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3131,6 +3713,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3143,6 +3727,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3155,6 +3741,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3167,6 +3755,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3179,6 +3769,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3191,6 +3783,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3203,6 +3797,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3215,6 +3811,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3227,6 +3825,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3239,6 +3839,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3251,6 +3853,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3263,6 +3867,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3275,6 +3881,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3287,6 +3895,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3299,6 +3909,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3311,6 +3923,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3323,6 +3937,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3335,6 +3951,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3347,6 +3965,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3359,6 +3979,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3371,6 +3993,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3383,6 +4007,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3395,6 +4021,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3407,6 +4035,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3419,6 +4049,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3431,6 +4063,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3443,6 +4077,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3455,6 +4091,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3467,6 +4105,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3479,6 +4119,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3491,6 +4133,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3503,6 +4147,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3515,6 +4161,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3527,6 +4175,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3539,6 +4189,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3551,6 +4203,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3563,6 +4217,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3575,6 +4231,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3587,6 +4245,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3599,6 +4259,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3611,6 +4273,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3623,6 +4287,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3635,6 +4301,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3647,6 +4315,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3659,6 +4329,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3671,6 +4343,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3683,6 +4357,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3695,6 +4371,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3707,6 +4385,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3719,6 +4399,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3731,6 +4413,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3743,6 +4427,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3755,6 +4441,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3767,6 +4455,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3779,6 +4469,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3791,6 +4483,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3803,6 +4497,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3815,6 +4511,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3827,6 +4525,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3839,6 +4539,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3851,6 +4553,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3863,6 +4567,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3875,6 +4581,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3887,6 +4595,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3899,6 +4609,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3911,6 +4623,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3923,6 +4637,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3935,6 +4651,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3947,6 +4665,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3959,6 +4679,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3971,6 +4693,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3983,6 +4707,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -3995,6 +4721,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4007,6 +4735,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4019,6 +4749,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4031,6 +4763,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4043,6 +4777,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4055,6 +4791,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4067,6 +4805,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4079,6 +4819,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4091,6 +4833,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4103,6 +4847,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4115,6 +4861,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4127,6 +4875,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4139,6 +4889,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4151,6 +4903,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4163,6 +4917,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4175,6 +4931,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4187,6 +4945,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4199,6 +4959,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4211,6 +4973,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4223,6 +4987,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4235,6 +5001,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4247,6 +5015,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4259,6 +5029,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4271,6 +5043,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4283,6 +5057,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4295,6 +5071,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4307,6 +5085,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4319,6 +5099,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4331,6 +5113,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4343,6 +5127,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4355,6 +5141,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4367,6 +5155,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4379,6 +5169,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4391,6 +5183,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4403,6 +5197,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4415,6 +5211,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4427,6 +5225,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4439,6 +5239,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4451,6 +5253,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4463,6 +5267,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4475,6 +5281,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4487,6 +5295,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4499,6 +5309,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4511,6 +5323,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4523,6 +5337,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4535,6 +5351,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4547,6 +5365,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4559,6 +5379,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     },
@@ -4571,6 +5393,8 @@
       "executives": [],
       "arakawa": null,
       "komatsu": null,
+      "saitou": null,
+      "yanari": null,
       "shimamoto": null,
       "inoue": null
     }
