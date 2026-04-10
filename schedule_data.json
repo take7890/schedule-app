@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-04 21:02",
+  "generated": "2026-04-11 08:00",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -1466,7 +1466,7 @@
       "date": "2026-04-07",
       "weekday": "火",
       "common": "各所：害虫生息調査　7：30～",
-      "yasui": "ふくろう園鯉のぼり設置",
+      "yasui": "ふくろう園鯉のぼり設置\nアパルト鏡",
       "holidays": [
         "荒川",
         "齊藤",
@@ -1479,7 +1479,7 @@
         }
       ],
       "arakawa": "休",
-      "komatsu": "次回ACの運営どうなったか\n坂本千晶さんに確認",
+      "komatsu": "次回ACの運営どうなったか\n坂本千晶さんに確認\nコート回収メール",
       "saitou": "休",
       "yanari": null,
       "shimamoto": "休",
@@ -1489,7 +1489,7 @@
       "date": "2026-04-08",
       "weekday": "水",
       "common": null,
-      "yasui": "アパルトⅢ　引越し手伝い\nPM アパルトⅣ-304給湯器",
+      "yasui": "アパルトⅢ　引越し手伝い\nPM アパルトⅣ-304給湯器\n小川建設ちゃんこ家鍵渡し",
       "holidays": [
         "井上"
       ],
@@ -1499,7 +1499,7 @@
           "text": "[14:00〜] みずほ証券　笠原様、他1名"
         }
       ],
-      "arakawa": "アパルトⅢ　引越し手伝い",
+      "arakawa": "9：00アパルトⅢ\n引越し手伝い",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -1511,10 +1511,12 @@
       "weekday": "木",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "小松"
+      ],
       "executives": [],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "10：30平山土地家屋調査士11:00エネクラウド\n15:00オクゼン松本",
+      "komatsu": "有休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -1524,13 +1526,13 @@
       "date": "2026-04-10",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅣ-106\nガス開栓TEL",
       "holidays": [
         "小松",
         "屋成"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "弥生が丘",
       "komatsu": "休",
       "saitou": null,
       "yanari": "休",
@@ -1551,7 +1553,7 @@
       "executives": [
         {
           "role": "副社長",
-          "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：40/JAL325 羽田15：55-福岡17：55"
+          "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：40/JAL325 羽田15：55-福岡17：55JAL323 羽田15：25-福岡17：20"
         }
       ],
       "arakawa": "休",
@@ -1574,7 +1576,7 @@
       ],
       "executives": [],
       "arakawa": "休",
-      "komatsu": "総務への提出先が変更になるメールを役職者にする",
+      "komatsu": null,
       "saitou": "休",
       "yanari": null,
       "shimamoto": "休",
@@ -1583,13 +1585,14 @@
     {
       "date": "2026-04-13",
       "weekday": "月",
-      "common": "迎賓館：井水循環配管洗浄、ろ過機メンテナンス　9:00～\n迎賓館：バックフィルター納品",
+      "common": "迎賓館：井水循環配管洗浄、ろ過機メンテナンス　9:00～\n迎賓館：バックフィルター納品\nルコネッサン厨房定期清掃 16:00～",
       "yasui": "休",
       "holidays": [
+        "荒川",
         "齊藤"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "9:30大野城市\n迎賓館：井水循環配管洗浄、ろ過機メンテナンス昼休憩対応",
       "komatsu": "10：00スプリングス青木さん\n衛生管理者選任時報告",
       "saitou": "休",
       "yanari": null,
@@ -1599,7 +1602,7 @@
     {
       "date": "2026-04-14",
       "weekday": "火",
-      "common": null,
+      "common": "社員食堂厨房定期清掃 16:00～",
       "yasui": "アシュランクラブ準備",
       "holidays": [
         "小松"
@@ -1629,7 +1632,7 @@
           "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
-      "arakawa": null,
+      "arakawa": "AC対応",
       "komatsu": "セミナー対応\nｻﾎﾟｰﾀｰMTG龍児さん伝言\nセミナー終了後引越し",
       "saitou": null,
       "yanari": null,
@@ -1639,14 +1642,14 @@
     {
       "date": "2026-04-16",
       "weekday": "木",
-      "common": null,
-      "yasui": null,
+      "common": "ルコネッサン空調定期清掃 16:00～",
+      "yasui": "検針\nアパルトⅣ-106準備",
       "holidays": [
         "屋成",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "9：00弥生が丘NTT立合い",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -1680,7 +1683,7 @@
         "島本"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "11:00 アパルトⅣ-106入寮",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -1693,6 +1696,7 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成",
         "井上"
       ],
@@ -1706,7 +1710,7 @@
           "text": "[09:30〜15:00] 外出"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -1761,6 +1765,7 @@
       "common": "そば処五萬石：排水管洗浄　15：00～\n社員食堂：排水管洗浄　17：00～\nルコネッサン：排水管洗浄　18：00～",
       "yasui": null,
       "holidays": [
+        "荒川",
         "島本",
         "井上"
       ],
@@ -1770,7 +1775,7 @@
           "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40　ひたち7　東京9：35-水戸11：05/ひたち16　水戸14：27-東京15：42　JAL327　羽田17:00-福岡19：05"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -1783,6 +1788,7 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成"
       ],
       "executives": [
@@ -1791,7 +1797,7 @@
           "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL 3563 福岡9：55-徳島10：55/うずしお18 徳島14：24-高松15：30　ﾏﾘﾝﾗｲﾅｰ44 高松15：40-岡山16：32 のぞみ37 岡山16：47-博多18：30"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -1825,7 +1831,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[10:30〜12:00] JTB今村様"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -1839,11 +1850,12 @@
       "common": "ステップアップセミナー",
       "yasui": null,
       "holidays": [
+        "荒川",
         "島本",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -1893,11 +1905,12 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "齊藤",
         "島本"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -1909,9 +1922,11 @@
       "weekday": "木",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川"
+      ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -1979,12 +1994,13 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成",
         "島本",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -1997,12 +2013,13 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成",
         "島本",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -2015,6 +2032,7 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成",
         "島本"
       ],
@@ -2024,7 +2042,7 @@
           "text": "[09:30〜13:00] 外出"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -2067,11 +2085,12 @@
       "common": "アパⅣガス検針（鍵渡し）",
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -2084,12 +2103,13 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "屋成",
         "島本",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -2099,7 +2119,7 @@
     {
       "date": "2026-05-11",
       "weekday": "月",
-      "common": null,
+      "common": "迎賓館：床ワックス",
       "yasui": "休",
       "holidays": [
         "島本"
@@ -2134,10 +2154,11 @@
       "common": null,
       "yasui": null,
       "holidays": [
+        "荒川",
         "齊藤"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
