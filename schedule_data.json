@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-18 21:41",
+  "generated": "2026-04-20 07:35",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -1755,7 +1755,7 @@
       "date": "2026-04-20",
       "weekday": "月",
       "common": null,
-      "yasui": "鳥栖アンテ看板撤去",
+      "yasui": "10:00 鳥栖アンテ看板撤去\n美術館自動ドア不良",
       "holidays": [
         "齊藤"
       ],
@@ -1765,7 +1765,7 @@
           "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ JAL4529 福岡8：55-仙台10：45　はやぶさ20 仙台14：31-東京16：04"
         }
       ],
-      "arakawa": "11:00エネクラウド",
+      "arakawa": "内山緑地ｵｵﾃﾞﾏﾘ防虫\n馬田造園芝頻度\n11:00エネクラウド",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -1786,7 +1786,7 @@
           "text": "御殿場ｱｼｭﾗﾝｸﾗﾌﾞ　こだま809 品川8：34-三島9：20/こだま824 三島14：54-品川15：40　JAL327 羽田17:00-福岡19：05こだま820 三島13：54-品川14：40　JAL325 羽田15:55-福岡17：55"
         }
       ],
-      "arakawa": null,
+      "arakawa": "PMダスキンⅣ-101清掃",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -1797,7 +1797,7 @@
       "date": "2026-04-22",
       "weekday": "水",
       "common": "そば処五萬石：排水管洗浄　15：00～\n社員食堂：排水管洗浄　17：00～\nルコネッサン：排水管洗浄　18：00～\n迎賓館：エアコン現調　10:00～",
-      "yasui": "迎賓館：エアコン現調　10:00～",
+      "yasui": "10:00～ 迎賓館：\nエアコン現調",
       "holidays": [
         "荒川",
         "島本",
@@ -1937,7 +1937,7 @@
       "date": "2026-04-29",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "10:00 アパルトⅢ\n薗田・脇本退寮",
       "holidays": [
         "荒川",
         "齊藤",
@@ -2159,7 +2159,7 @@
         "島本"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "迎賓館：床ワックス",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -2175,7 +2175,7 @@
         "齊藤"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "迎賓館：床ワックス",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -2186,7 +2186,7 @@
       "date": "2026-05-13",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "迎賓館：床ワックス",
       "holidays": [
         "荒川",
         "齊藤"
@@ -2203,7 +2203,7 @@
       "date": "2026-05-14",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "迎賓館：床ワックス",
       "holidays": [
         "齊藤",
         "井上"
@@ -2587,7 +2587,7 @@
       "date": "2026-06-10",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "6/10-12 アパルトⅣ-106\n小畑さん利用",
       "holidays": [],
       "executives": [],
       "arakawa": null,
