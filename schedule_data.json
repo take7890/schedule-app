@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20 20:24",
+  "generated": "2026-04-24 22:58",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -1797,7 +1797,7 @@
       "date": "2026-04-22",
       "weekday": "水",
       "common": "そば処五萬石：排水管洗浄　15：00～\n社員食堂：排水管洗浄　17：00～\nルコネッサン：排水管洗浄　18：00～\n迎賓館：エアコン現調　10:00～",
-      "yasui": "10:00～ 迎賓館：\nエアコン現調",
+      "yasui": "10:00～ 迎賓館：\nエアコン現調\nAJCショップ雨除け修理",
       "holidays": [
         "荒川",
         "島本",
@@ -1806,7 +1806,7 @@
       "executives": [
         {
           "role": "副社長",
-          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40　ひたち7　東京9：35-水戸11：05/ひたち16　水戸14：27-東京15：42　JAL327　羽田17:00-福岡19：05"
+          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40　ひたち7　東京9：53-水戸11：05/ひたち16　水戸14：27-東京15：42　JAL327　羽田17:00-福岡19：05"
         }
       ],
       "arakawa": "休",
@@ -1820,7 +1820,7 @@
       "date": "2026-04-23",
       "weekday": "木",
       "common": "配送棟：HMAC-2空調機L8異常修理　9：00～",
-      "yasui": "全体朝礼準備",
+      "yasui": "配送棟：HMAC-2空調機修理\n全体朝礼準備\n家電写真",
       "holidays": [
         "荒川",
         "屋成"
@@ -1882,7 +1882,7 @@
       "date": "2026-04-26",
       "weekday": "日",
       "common": "ステップアップセミナー",
-      "yasui": null,
+      "yasui": "ステップアップセミナー対応",
       "holidays": [
         "荒川",
         "島本",
@@ -1926,7 +1926,7 @@
         "屋成"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "14:00クラフティア",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -2026,7 +2026,7 @@
       "date": "2026-05-04",
       "weekday": "月",
       "common": null,
-      "yasui": null,
+      "yasui": "勉強会準備",
       "holidays": [
         "荒川",
         "屋成",
@@ -2044,8 +2044,8 @@
     {
       "date": "2026-05-05",
       "weekday": "火",
-      "common": null,
-      "yasui": null,
+      "common": "九州地区DM勉強会",
+      "yasui": "勉強会対応",
       "holidays": [
         "荒川",
         "屋成",
@@ -2100,7 +2100,7 @@
     {
       "date": "2026-05-08",
       "weekday": "金",
-      "common": null,
+      "common": "ルコネッサン窓ガラス清掃",
       "yasui": null,
       "holidays": [
         "齊藤"
@@ -2153,7 +2153,7 @@
     {
       "date": "2026-05-11",
       "weekday": "月",
-      "common": "迎賓館：床ワックス",
+      "common": "迎賓館：床ワックス（～5/14）\n　 クラフティア事前配線工事（～5/15）",
       "yasui": "休",
       "holidays": [
         "島本"
@@ -2237,7 +2237,7 @@
       "date": "2026-05-16",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "検針",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2264,7 +2264,7 @@
     {
       "date": "2026-05-18",
       "weekday": "月",
-      "common": null,
+      "common": "ｾ棟ｴﾚｰﾍﾞｰﾀｰ点検 11:00～12:00",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -2278,8 +2278,8 @@
     {
       "date": "2026-05-19",
       "weekday": "火",
-      "common": null,
-      "yasui": null,
+      "common": "ルコｴﾚｰﾍﾞｰﾀｰ点検 15:00～19:00",
+      "yasui": "アシュランクラブ準備\nルコEL点検 15:00～",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2293,7 +2293,7 @@
       "date": "2026-05-20",
       "weekday": "水",
       "common": "アシュランクラブ",
-      "yasui": null,
+      "yasui": "調光",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2349,7 +2349,7 @@
       "date": "2026-05-24",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "全体朝礼準備",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2474,7 +2474,7 @@
     {
       "date": "2026-06-02",
       "weekday": "火",
-      "common": null,
+      "common": "DM勉強会",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -2671,7 +2671,7 @@
       "date": "2026-06-16",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "検針",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2783,7 +2783,7 @@
       "date": "2026-06-24",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "全体朝礼準備",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2881,7 +2881,7 @@
       "date": "2026-07-01",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "アシュランクラブ準備",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -2894,8 +2894,8 @@
     {
       "date": "2026-07-02",
       "weekday": "木",
-      "common": null,
-      "yasui": null,
+      "common": "アシュランクラブ",
+      "yasui": "調光",
       "holidays": [],
       "executives": [],
       "arakawa": null,
