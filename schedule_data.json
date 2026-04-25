@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-24 22:58",
+  "generated": "2026-04-25 23:26",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -1869,6 +1869,14 @@
         {
           "role": "副社長",
           "text": "[10:30〜12:00] JTB今村様"
+        },
+        {
+          "role": "副社長",
+          "text": "[13:00〜] スパ"
+        },
+        {
+          "role": "副社長",
+          "text": "[16:00〜] 池松様"
         }
       ],
       "arakawa": null,
@@ -1888,7 +1896,16 @@
         "島本",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:00〜] 広報コラム打合せ"
+        },
+        {
+          "role": "副社長",
+          "text": "[13:00〜] 深川製磁様"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": null,
@@ -1899,7 +1916,7 @@
     {
       "date": "2026-04-27",
       "weekday": "月",
-      "common": "テルマアル：館内消毒作業　18：30～",
+      "common": "テルマアル：館内消毒作業　18：30～\n物流コンベア点検　17：00～",
       "yasui": null,
       "holidays": [
         "井上"
@@ -1925,8 +1942,13 @@
       "holidays": [
         "屋成"
       ],
-      "executives": [],
-      "arakawa": "14:00クラフティア",
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "やまびこ134　宇都宮11：35-東京12：24　JAL327 羽田17：00-福岡19：05"
+        }
+      ],
+      "arakawa": "10:00迎賓館　大林Ｆ\n14:00クラフティア",
       "komatsu": null,
       "saitou": null,
       "yanari": "休",
@@ -1960,7 +1982,7 @@
         "荒川"
       ],
       "executives": [],
-      "arakawa": "休",
+      "arakawa": "休→出\n13：00山元引っ越し",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -1970,7 +1992,7 @@
     {
       "date": "2026-05-01",
       "weekday": "金",
-      "common": null,
+      "common": "各所：室内消毒作業 16：30～",
       "yasui": "休",
       "holidays": [],
       "executives": [
@@ -1989,7 +2011,7 @@
     {
       "date": "2026-05-02",
       "weekday": "土",
-      "common": null,
+      "common": "各所：空調機設備保守点検 9:00～\nセミナー棟他：消防設備点検 9：00～",
       "yasui": "休",
       "holidays": [
         "齊藤",
@@ -2006,7 +2028,7 @@
     {
       "date": "2026-05-03",
       "weekday": "日",
-      "common": null,
+      "common": "各所：一斉メンテナンス作業 9：00～",
       "yasui": "休",
       "holidays": [
         "齊藤",
@@ -2100,13 +2122,13 @@
     {
       "date": "2026-05-08",
       "weekday": "金",
-      "common": "ルコネッサン窓ガラス清掃",
-      "yasui": null,
+      "common": "ルコネッサン窓ガラス清掃8:00-10:30\nそうめん流し採水作業　AM",
+      "yasui": "ｻﾝﾘﾔﾝ大野城Ⅴ1702退去",
       "holidays": [
         "齊藤"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "8:00福岡ビル",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -2185,7 +2207,7 @@
     {
       "date": "2026-05-13",
       "weekday": "水",
-      "common": null,
+      "common": "事務棟→配送棟→セミナー棟→テルマアル→美術館→ルコネッサン：自動ドア保守点検　7：00～\nそば処五萬石→迎賓館→龍國院→アパルトⅣ：自動ドア保守点検　10：00～",
       "yasui": "迎賓館：床ワックス",
       "holidays": [
         "荒川",
@@ -2205,11 +2227,12 @@
       "common": null,
       "yasui": "迎賓館：床ワックス",
       "holidays": [
+        "荒川",
         "齊藤",
         "井上"
       ],
       "executives": [],
-      "arakawa": null,
+      "arakawa": "出→休",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -2219,7 +2242,7 @@
     {
       "date": "2026-05-15",
       "weekday": "金",
-      "common": null,
+      "common": "テルマアル：ろ過設備定期点検 10：00～\nテルマアル：アクアクリーンシステム保守点検 10：00～",
       "yasui": "休",
       "holidays": [
         "屋成",
@@ -2292,7 +2315,7 @@
     {
       "date": "2026-05-20",
       "weekday": "水",
-      "common": "アシュランクラブ",
+      "common": "アシュランクラブ\nそば処五萬石：室内消毒作業　9：00～",
       "yasui": "調光",
       "holidays": [],
       "executives": [],
@@ -2306,7 +2329,7 @@
     {
       "date": "2026-05-21",
       "weekday": "木",
-      "common": null,
+      "common": "龍國院：非常用発電機保守点検 9:30～\n本社：非常用発電機保守点検 11:00～",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -2320,7 +2343,7 @@
     {
       "date": "2026-05-22",
       "weekday": "金",
-      "common": "PMT",
+      "common": "PMT\nテルマアル：ボイラー煤煙濃度測定 9:00～",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -2362,7 +2385,7 @@
     {
       "date": "2026-05-25",
       "weekday": "月",
-      "common": null,
+      "common": "テルマアル：館内消毒作業 18：30～",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -2376,7 +2399,7 @@
     {
       "date": "2026-05-26",
       "weekday": "火",
-      "common": null,
+      "common": "事務棟他：空気環境測定 10:00～",
       "yasui": null,
       "holidays": [],
       "executives": [],
