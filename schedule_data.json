@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25 23:26",
+  "generated": "2026-04-28 10:11",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -1890,7 +1890,7 @@
       "date": "2026-04-26",
       "weekday": "日",
       "common": "ステップアップセミナー",
-      "yasui": "ステップアップセミナー対応",
+      "yasui": "ステップアップセミナー対応\nガロンボトル",
       "holidays": [
         "荒川",
         "島本",
@@ -1903,7 +1903,7 @@
         },
         {
           "role": "副社長",
-          "text": "[13:00〜] 深川製磁様"
+          "text": "[13:30〜] 深川製磁様"
         }
       ],
       "arakawa": "休",
@@ -1917,8 +1917,9 @@
       "date": "2026-04-27",
       "weekday": "月",
       "common": "テルマアル：館内消毒作業　18：30～\n物流コンベア点検　17：00～",
-      "yasui": null,
+      "yasui": "アパルトの件小川建設連絡\nコーユーレンティア連絡",
       "holidays": [
+        "齊藤",
         "井上"
       ],
       "executives": [
@@ -1929,7 +1930,7 @@
       ],
       "arakawa": null,
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": "休"
@@ -1950,7 +1951,7 @@
       ],
       "arakawa": "10:00迎賓館　大林Ｆ\n14:00クラフティア",
       "komatsu": null,
-      "saitou": null,
+      "saitou": "AM春日警察署",
       "yanari": "休",
       "shimamoto": null,
       "inoue": null
@@ -1965,7 +1966,12 @@
         "齊藤",
         "島本"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "神戸ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54－博多15：09"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": "休",
@@ -1977,7 +1983,7 @@
       "date": "2026-04-30",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "10:00 アパルトⅡ-103\n薗田WIFI",
       "holidays": [
         "荒川"
       ],
@@ -2036,7 +2042,12 @@
         "島本",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "奈良 ANA420 福岡7：10-伊丹8：15/のぞみ33 新大阪15：02-博多17：30"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": "休",
@@ -2055,7 +2066,12 @@
         "島本",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "御殿場ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7:00-羽田8:40 こだま 813品川9:34-三島10:20/こだま824　三島14:54-品川15:40\n JAL327 羽田17：00-福岡19：05 こだま831　三島14:55-名古屋16:37"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": null,
@@ -2074,7 +2090,12 @@
         "島本",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　JAL 4382　福岡9：10-小牧10：30/のぞみ35 名古屋14：49-博多18：09のぞみ151 名古屋12：41-博多16：03"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": null,
@@ -2111,7 +2132,12 @@
       "common": null,
       "yasui": "休",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "前泊 JAL322 福岡16：35-羽田18：20　JAL306 福岡9：15-羽田10：55  JAL322 福岡16：35-羽田18：20"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2127,7 +2153,12 @@
       "holidays": [
         "齊藤"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリスJL043羽田9：45-ヒースロー15：50"
+        }
+      ],
       "arakawa": "8:00福岡ビル",
       "komatsu": null,
       "saitou": "休",
@@ -2145,7 +2176,12 @@
         "屋成",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": null,
@@ -2164,7 +2200,12 @@
         "島本",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": null,
@@ -2180,7 +2221,12 @@
       "holidays": [
         "島本"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス"
+        }
+      ],
       "arakawa": "迎賓館：床ワックス",
       "komatsu": null,
       "saitou": null,
@@ -2196,7 +2242,12 @@
       "holidays": [
         "齊藤"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス"
+        }
+      ],
       "arakawa": "迎賓館：床ワックス",
       "komatsu": null,
       "saitou": "休",
@@ -2213,7 +2264,12 @@
         "荒川",
         "齊藤"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス"
+        }
+      ],
       "arakawa": "休",
       "komatsu": null,
       "saitou": "休",
@@ -2231,7 +2287,12 @@
         "齊藤",
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス JL044ヒースロー19：20"
+        }
+      ],
       "arakawa": "出→休",
       "komatsu": null,
       "saitou": "休",
@@ -2248,7 +2309,12 @@
         "屋成",
         "島本"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "オナーズイギリス　　　　　　　　　　－羽田17：20/JAL333 羽田19：15-福岡21：10"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2290,7 +2356,12 @@
       "common": "ｾ棟ｴﾚｰﾍﾞｰﾀｰ点検 11:00～12:00",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "大阪ｱｼｭﾗﾝｸﾗﾌﾞ  ANA420 福岡7：10-伊丹8：15/JAL2057　伊丹13：10-福岡14：25"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2304,7 +2375,12 @@
       "common": "ルコｴﾚｰﾍﾞｰﾀｰ点検 15:00～19:00",
       "yasui": "アシュランクラブ準備\nルコEL点検 15:00～",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ  JAL300 福岡7：00-羽田8：40/JAL323 羽田15：25-福岡17：20 JAL325羽田15：55-福岡17：55"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2318,7 +2394,12 @@
       "common": "アシュランクラブ\nそば処五萬石：室内消毒作業　9：00～",
       "yasui": "調光",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2332,7 +2413,12 @@
       "common": "龍國院：非常用発電機保守点検 9:30～\n本社：非常用発電機保守点検 11:00～",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　 JAL304 福岡8：15-羽田9：50/JAL323 羽田15：25-福岡17：20"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2346,7 +2432,12 @@
       "common": "PMT\nテルマアル：ボイラー煤煙濃度測定 9:00～",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "PMT"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2360,7 +2451,12 @@
       "common": "PMT",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "PMT"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2374,7 +2470,12 @@
       "common": null,
       "yasui": "全体朝礼準備",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ 　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2430,7 +2531,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　 JAL3563 福岡9：55-徳島10：55/うずしお18 徳島14：24-高松15：30　ﾏﾘﾝﾗｲﾅｰ44 高松15：40-岡山16：32 のぞみ37 岡山16：47-博多18：30"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2444,7 +2550,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "松江ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3551 福岡7：15-出雲8：20/未定"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2472,7 +2583,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "御殿場ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：40/JAL327 羽田17：00-福岡19：05"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2486,7 +2602,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長・副社長",
+          "text": "[14:00〜] ガバナー会議"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2500,7 +2621,12 @@
       "common": "DM勉強会",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "DM勉強会"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2542,7 +2668,12 @@
       "common": "サンセール健康診断",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40/JAL325 羽田15：55-福岡17：50"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2570,7 +2701,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2598,7 +2734,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2612,7 +2753,12 @@
       "common": null,
       "yasui": "6/10-12 アパルトⅣ-106\n小畑さん利用",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "大阪ｱｼｭﾗﾝｸﾗﾌﾞ　 ANA420 福岡7：10-伊丹8：15/JAL2057　伊丹13：10-福岡14：25"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2640,7 +2786,12 @@
       "common": "アシュランクラブ",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2654,7 +2805,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "北見勉強会　JAL308 福岡10：05-羽田11：45　JAL567 羽田12：25-女満別14：10"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2668,7 +2824,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "JAL564 女満別14：55-羽田16：55　JAL329 羽田17：55-福岡19：55"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2682,7 +2843,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40　ひたち7　東京9：53-水戸11：05/ひたち16　水戸14：27-東京15：42　JAL327　羽田17:00-福岡19：00"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2696,7 +2862,12 @@
       "common": null,
       "yasui": "検針",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304 福岡8：10-羽田9：50/JAL323 羽田15：25-福岡17：15"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2710,7 +2881,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ後ハワイ視察　ANA434　福岡8：55-名古屋10：10 名鉄10：37-金山11：01/のぞみ410 名古屋14：49-品川16：17　JAL74 羽田21：05-ﾎﾉﾙﾙ9：45"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2724,7 +2900,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "ハワイ視察"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2738,7 +2919,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "ハワイ視察"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2752,7 +2938,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "ハワイ視察"
+        }
+      ],
       "arakawa": null,
       "komatsu": "レジメにキッズの件入れる",
       "saitou": null,
@@ -2766,7 +2957,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "ハワイ視察"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2780,7 +2976,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "ハワイ視察　JAL73　ﾎﾉﾙﾙ12：45-羽田15：55　未定"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -2794,7 +2995,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "軽井沢ｱｼｭﾗﾝｸﾗﾌﾞ"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
