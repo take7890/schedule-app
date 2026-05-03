@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-30 08:17",
+  "generated": "2026-05-04 07:19",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -2059,7 +2059,7 @@
       "date": "2026-05-04",
       "weekday": "月",
       "common": null,
-      "yasui": "勉強会準備",
+      "yasui": "勉強会準備\n福岡粧材荷物確認",
       "holidays": [
         "荒川",
         "屋成",
@@ -2149,7 +2149,7 @@
       "date": "2026-05-08",
       "weekday": "金",
       "common": "ルコネッサン窓ガラス清掃8:00-10:30\nそうめん流し採水作業　AM",
-      "yasui": "ｻﾝﾘﾔﾝ大野城Ⅴ1702退去",
+      "yasui": null,
       "holidays": [
         "齊藤"
       ],
@@ -2159,7 +2159,7 @@
           "text": "オナーズイギリスJL043羽田9：45-ヒースロー15：50"
         }
       ],
-      "arakawa": "8:00福岡ビル",
+      "arakawa": "8:00福岡ビル\n9:30迎賓館　大林Ｆ",
       "komatsu": null,
       "saitou": "休",
       "yanari": null,
@@ -2281,7 +2281,7 @@
       "date": "2026-05-14",
       "weekday": "木",
       "common": null,
-      "yasui": "迎賓館：床ワックス",
+      "yasui": "迎賓館：床ワックス\n16:00 ｻﾝﾘﾔﾝ大野城Ⅴ1702退去",
       "holidays": [
         "荒川",
         "齊藤",
@@ -2341,10 +2341,13 @@
       "weekday": "日",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2374,15 +2377,18 @@
       "weekday": "火",
       "common": "ルコｴﾚｰﾍﾞｰﾀｰ点検 15:00～19:00",
       "yasui": "アシュランクラブ準備\nルコEL点検 15:00～",
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ  JAL300 福岡7：00-羽田8：40/JAL323 羽田15：25-福岡17：20 JAL325羽田15：55-福岡17：55"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2469,15 +2475,18 @@
       "weekday": "日",
       "common": null,
       "yasui": "全体朝礼準備",
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ 　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2529,16 +2538,19 @@
       "date": "2026-05-28",
       "weekday": "木",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "関東支店→サンセール\nオーブンレンジ着",
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　 JAL3563 福岡9：55-徳島10：55/うずしお18 徳島14：24-高松15：30　ﾏﾘﾝﾗｲﾅｰ44 高松15：40-岡山16：32 のぞみ37 岡山16：47-博多18：30"
         }
       ],
-      "arakawa": "関東支店→サンセール\nオーブンレンジ着",
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2601,15 +2613,18 @@
       "weekday": "月",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "社長・副社長",
           "text": "[14:00〜] ガバナー会議"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2628,7 +2643,7 @@
         }
       ],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "×",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2686,10 +2701,13 @@
       "weekday": "土",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2700,15 +2718,18 @@
       "weekday": "日",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2752,15 +2773,18 @@
       "weekday": "水",
       "common": null,
       "yasui": "6/10-12 アパルトⅣ-106\n小畑さん利用",
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "大阪ｱｼｭﾗﾝｸﾗﾌﾞ　 ANA420 福岡7：10-伊丹8：15/JAL2057　伊丹13：10-福岡14：25"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2774,7 +2798,7 @@
       "holidays": [],
       "executives": [],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "×",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2793,7 +2817,7 @@
         }
       ],
       "arakawa": null,
-      "komatsu": null,
+      "komatsu": "×",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -2823,15 +2847,18 @@
       "weekday": "日",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "小松"
+      ],
       "executives": [
         {
           "role": "副社長",
           "text": "JAL564 女満別14：55-羽田16：55　JAL329 羽田17：55-福岡19：55"
         }
       ],
-      "arakawa": null,
-      "komatsu": null,
+      "arakawa": "休",
+      "komatsu": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
