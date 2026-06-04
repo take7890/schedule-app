@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31 22:26",
+  "generated": "2026-06-05 07:30",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -2666,7 +2666,7 @@
           "text": "DM勉強会"
         }
       ],
-      "arakawa": null,
+      "arakawa": "DM勉強会対応",
       "komatsu": "×",
       "saitou": null,
       "yanari": null,
@@ -2677,7 +2677,7 @@
       "date": "2026-06-03",
       "weekday": "水",
       "common": "高圧ケーブル切替　早朝確認\nそば処五萬石：消防設備点検 8:00～\nグリストラップ：五萬石・食堂・ルコ③",
-      "yasui": null,
+      "yasui": "AM アパルトⅣ-106退寮\nそば処 門柱・排水溝\nガロンボトル\n物流カーテンレール修理",
       "holidays": [
         "荒川"
       ],
@@ -2698,10 +2698,15 @@
       "date": "2026-06-04",
       "weekday": "木",
       "common": "アパⅣガス検針（鍵渡し）",
-      "yasui": "休",
+      "yasui": "休\n アパルトⅣ-106退寮",
       "holidays": [],
-      "executives": [],
-      "arakawa": null,
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[終日〜] 長崎"
+        }
+      ],
+      "arakawa": "14:30 迎賓館2F現調　東テク・大林F山口さん\nアパⅣガス検針（鍵渡し）",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -2712,7 +2717,7 @@
       "date": "2026-06-05",
       "weekday": "金",
       "common": "サンセール健康診断\nそうめん流し採水作業　AM",
-      "yasui": null,
+      "yasui": "15:30 ルコ2F温度データ収集",
       "holidays": [],
       "executives": [
         {
@@ -2736,7 +2741,12 @@
         "荒川",
         "小松"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:30〜] スパ"
+        }
+      ],
       "arakawa": "休",
       "komatsu": "休",
       "saitou": null,
@@ -2770,10 +2780,15 @@
       "date": "2026-06-08",
       "weekday": "月",
       "common": null,
-      "yasui": "休",
+      "yasui": "休\n14:00 給茶器メンテナンス",
       "holidays": [],
-      "executives": [],
-      "arakawa": null,
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "大阪 ANA420 福岡7：10-伊丹8：15/のぞみ37 新大阪16:02→博多18:30"
+        }
+      ],
+      "arakawa": "11:00サンリヤン大野城",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -2790,6 +2805,14 @@
         {
           "role": "副社長",
           "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
+        },
+        {
+          "role": "副社長",
+          "text": "[11:00〜] 小川建設　小川社長"
+        },
+        {
+          "role": "副社長",
+          "text": "[13:30〜] スパ"
         }
       ],
       "arakawa": "PBX作業17:30-19:30",
@@ -2827,7 +2850,16 @@
       "common": "本社健康診断",
       "yasui": "アシュランクラブ準備",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:30〜13:00] 外出"
+        },
+        {
+          "role": "副社長",
+          "text": "[14:00〜] 藤本裕子DM・他3名"
+        }
+      ],
       "arakawa": null,
       "komatsu": "×",
       "saitou": null,
@@ -2839,7 +2871,7 @@
       "date": "2026-06-12",
       "weekday": "金",
       "common": "アシュランクラブ",
-      "yasui": "調光",
+      "yasui": "調光\nアパルトⅣ-106退寮",
       "holidays": [],
       "executives": [
         {
@@ -2937,7 +2969,7 @@
       "date": "2026-06-17",
       "weekday": "水",
       "common": "グリストラップ：五萬石・食堂・ルコ①②③・GEH",
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -2974,7 +3006,7 @@
     {
       "date": "2026-06-19",
       "weekday": "金",
-      "common": "アパルトⅣ：消防設備点検。13:00～16:00",
+      "common": "アパルトⅣ：消防設備点検。13:00～16:00\nテルマアル：EV機能維持工事9：00～14：00",
       "yasui": null,
       "holidays": [],
       "executives": [
@@ -2994,7 +3026,7 @@
       "date": "2026-06-20",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -3051,12 +3083,16 @@
       "date": "2026-06-23",
       "weekday": "火",
       "common": "セミナー棟：2階ホワイエ・1階ホール床定期清掃　9：00～\n事務棟：雨水ろ過装置点検　10：00～",
-      "yasui": null,
+      "yasui": "全体朝礼準備",
       "holidays": [],
       "executives": [
         {
           "role": "副社長",
           "text": "軽井沢ｱｼｭﾗﾝｸﾗﾌﾞ"
+        },
+        {
+          "role": "副社長",
+          "text": "[AM〜] 外出"
         }
       ],
       "arakawa": null,
@@ -3070,7 +3106,7 @@
       "date": "2026-06-24",
       "weekday": "水",
       "common": "そば処五萬石：床定期清掃　9:00～\nグリストラップ：五萬石・サンセール",
-      "yasui": "全体朝礼準備",
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": "11:00大熊建設",
@@ -3112,7 +3148,7 @@
       "date": "2026-06-27",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -3169,9 +3205,14 @@
       "date": "2026-06-30",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "副社長",
+          "text": "[09:30〜13:00] 外出"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -3207,7 +3248,7 @@
       "executives": [
         {
           "role": "副社長",
-          "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+          "text": "名古屋ｽﾃｯﾌﾟｱｯﾌﾟ　ANA434　福岡8：55-名古屋10：10　名鉄中部空港 10：37-金山11：01/のぞみ35 名古屋14：49-博多18：09"
         }
       ],
       "arakawa": null,
@@ -3221,7 +3262,7 @@
       "date": "2026-07-03",
       "weekday": "金",
       "common": "つくし青年会議所式典リハ",
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -3287,7 +3328,7 @@
       "date": "2026-07-07",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -3363,7 +3404,7 @@
       "date": "2026-07-11",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -3382,7 +3423,7 @@
       "date": "2026-07-12",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -3509,7 +3550,7 @@
     {
       "date": "2026-07-19",
       "weekday": "日",
-      "common": null,
+      "common": "エレベーター点検\n　9:00～ 14:00　テルマアル",
       "yasui": null,
       "holidays": [],
       "executives": [
