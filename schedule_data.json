@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05 07:30",
+  "generated": "2026-06-14 18:14",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -2721,7 +2721,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40/JAL325 羽田15：55-福岡17：50"
         }
       ],
@@ -2743,8 +2743,12 @@
       ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "[09:30〜] スパ"
+          "role": "社長",
+          "text": "[09:00〜11:00] 外出"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] 池松様"
         }
       ],
       "arakawa": "休",
@@ -2765,7 +2769,7 @@
       ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50"
         }
       ],
@@ -2784,7 +2788,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "大阪 ANA420 福岡7：10-伊丹8：15/のぞみ37 新大阪16:02→博多18:30"
         }
       ],
@@ -2803,16 +2807,28 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
         },
         {
-          "role": "副社長",
-          "text": "[11:00〜] 小川建設　小川社長"
+          "role": "社長",
+          "text": "[09:30〜] サンセール　吉武さん"
         },
         {
-          "role": "副社長",
+          "role": "社長",
+          "text": "[10:00〜] みずほ信託銀行　様"
+        },
+        {
+          "role": "社長",
+          "text": "[13:00〜] 小川建設　小川社長"
+        },
+        {
+          "role": "社長",
           "text": "[13:30〜] スパ"
+        },
+        {
+          "role": "社長",
+          "text": "[16:30〜] ルコパン試食"
         }
       ],
       "arakawa": "PBX作業17:30-19:30",
@@ -2833,8 +2849,16 @@
       ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "大阪ｱｼｭﾗﾝｸﾗﾌﾞ　 ANA420 福岡7：10-伊丹8：15/JAL2057　伊丹13：10-福岡14：25"
+        },
+        {
+          "role": "社長",
+          "text": "[15:30〜] 西村織物様"
+        },
+        {
+          "role": "社長",
+          "text": "[16:30〜] ルコパン試食"
         }
       ],
       "arakawa": "休",
@@ -2848,19 +2872,35 @@
       "date": "2026-06-11",
       "weekday": "木",
       "common": "本社健康診断",
-      "yasui": "アシュランクラブ準備",
+      "yasui": "アシュランクラブ準備\n10：00にしけい\nシステム変更打合せ",
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "[09:30〜13:00] 外出"
         },
         {
-          "role": "副社長",
-          "text": "[14:00〜] 藤本裕子DM・他3名"
+          "role": "社長",
+          "text": "[13:00〜] サンセール　西原さん"
+        },
+        {
+          "role": "社長",
+          "text": "[14:00〜] 藤本裕子DM・他3名、多々良DM・他2名"
+        },
+        {
+          "role": "社長",
+          "text": "[15:30〜] 日光ケミカルズ　若本取締役・福島様"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] プルデンシャル生命　三浦様"
+        },
+        {
+          "role": "社長",
+          "text": "[16:30〜] 大丸　西園様"
         }
       ],
-      "arakawa": null,
+      "arakawa": "10：00にしけい\nシステム変更打合せ\nヤマモモ収穫",
       "komatsu": "×",
       "saitou": null,
       "yanari": null,
@@ -2870,16 +2910,20 @@
     {
       "date": "2026-06-12",
       "weekday": "金",
-      "common": "アシュランクラブ",
-      "yasui": "調光\nアパルトⅣ-106退寮",
+      "common": "アシュランクラブ\n内山緑地 構内芝刈り\n10:00 迎賓館にしけいカメラ",
+      "yasui": "調光\n9:00 アパルトⅣ-106退寮\n10:00 迎賓館にしけいカメラ",
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
+        },
+        {
+          "role": "社長",
+          "text": "[14:30〜] リモート会議"
         }
       ],
-      "arakawa": null,
+      "arakawa": "クラフティア\n迎賓館電気代の件\n13：00出水トラック\nヤマモモ・胡蝶蘭運搬\n13：00大林Ｆ",
       "komatsu": "×",
       "saitou": null,
       "yanari": null,
@@ -2894,7 +2938,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "北見勉強会　JAL308 福岡10：05-羽田11：45　JAL567 羽田12：25-女満別14：10"
         }
       ],
@@ -2909,14 +2953,14 @@
       "date": "2026-06-14",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "食堂インターホン修理\nアパルトⅣ確認",
       "holidays": [
         "荒川",
         "小松"
       ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "JAL564 女満別14：55-羽田16：55　JAL329 羽田17：55-福岡19：55"
         }
       ],
@@ -2931,15 +2975,15 @@
       "date": "2026-06-15",
       "weekday": "月",
       "common": "セミナー棟：石床部 床定期清掃　9：00～12：00",
-      "yasui": null,
+      "yasui": "9：00迎賓館空調機工事",
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300　福岡7：00-羽田8：40　ひたち7　東京9：53-水戸11：05/ひたち16　水戸14：27-東京15：42　JAL327　羽田17:00-福岡19：00"
         }
       ],
-      "arakawa": null,
+      "arakawa": "9：00迎賓館空調機工事\n迎賓館2Ｆ、浴室除草\n13:30クラフティア\n15：00オクゼン",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -2951,10 +2995,12 @@
       "weekday": "火",
       "common": "電動門定期点検：龍國院 9:00～\n　　　　　　　　　　　西門・正門 11:00～",
       "yasui": "検針",
-      "holidays": [],
+      "holidays": [
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ　JAL304 福岡8：10-羽田9：50/JAL323 羽田15：25-福岡17：15"
         }
       ],
@@ -2963,44 +3009,50 @@
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-06-17",
       "weekday": "水",
       "common": "グリストラップ：五萬石・食堂・ルコ①②③・GEH",
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ後ハワイ視察　ANA434　福岡8：55-名古屋10：10 名鉄中部空港10：37-金山11：01/のぞみ410 名古屋14：49-品川16：17　JAL74 羽田21：05-ﾎﾉﾙﾙ9：45"
+          "role": "社長",
+          "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ後ハワイ視察　ANA434　福岡8：55-名古屋10：10 名鉄中部空港10：37-金山11：01/のぞみ410 名古屋14：49-品川16：17のぞみ406 名古屋14：29-品川15：58　JAL74 羽田21：05-ﾎﾉﾙﾙ9：45"
         }
       ],
-      "arakawa": null,
+      "arakawa": "10：00エネクラウド\nにしけい外周カメラ設置",
       "komatsu": null,
-      "saitou": null,
-      "yanari": null,
+      "saitou": "14：00～こども会議",
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "14：00～こども会議"
     },
     {
       "date": "2026-06-18",
       "weekday": "木",
       "common": "龍國院：消防設備点検。14:30～　※現地調整済\n龍國院：消防訓練（仮）14:30～",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "齊藤",
+        "島本"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "ハワイ視察"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3008,18 +3060,21 @@
       "weekday": "金",
       "common": "アパルトⅣ：消防設備点検。13:00～16:00\nテルマアル：EV機能維持工事9：00～14：00",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "島本"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "ハワイ視察"
         }
       ],
       "arakawa": null,
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3027,18 +3082,21 @@
       "weekday": "土",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成",
+        "島本"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "ハワイ視察"
         }
       ],
       "arakawa": null,
       "komatsu": "レジメにキッズの件入れる",
       "saitou": null,
-      "yanari": null,
-      "shimamoto": null,
+      "yanari": "休",
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3046,38 +3104,46 @@
       "weekday": "日",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "屋成",
+        "島本",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "ハワイ視察　　JAL73　ﾎﾉﾙﾙ12：45-"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
-      "shimamoto": null,
-      "inoue": null
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-06-22",
       "weekday": "月",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "ハワイ視察　　　　　　　　　　　　　　　　　-羽田15：55　/　JAL329 羽田17：55-福岡19：55"
         }
       ],
       "arakawa": "つくし青年会議所リハ",
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-06-23",
@@ -3087,11 +3153,11 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "軽井沢ｱｼｭﾗﾝｸﾗﾌﾞ"
         },
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "[AM〜] 外出"
         }
       ],
@@ -3107,13 +3173,15 @@
       "weekday": "水",
       "common": "そば処五萬石：床定期清掃　9:00～\nグリストラップ：五萬石・サンセール",
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [],
       "arakawa": "11:00大熊建設",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3135,12 +3203,14 @@
       "weekday": "金",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -3149,52 +3219,62 @@
       "weekday": "土",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ  JAL3563 福岡9：55-徳島10：55/JAL462 徳島17：40-羽田19：05　ひたち27　東京19：53-水戸21：08 ANA284 徳島15：25-羽田16：55　ひたち23　東京17：53-水戸19：09"
+          "role": "社長",
+          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ  JAL3563 福岡9：55-徳島10：55/JAL462 徳島17：40-羽田19：05　ひたち27　東京19：53-水戸21：08 ANA284 徳島15：25-羽田16：55　JAL320 福岡16：00-羽田17：50　 ひたち25　東京18：53-水戸20：09"
         }
       ],
       "arakawa": null,
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-06-28",
       "weekday": "日",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "齊藤",
+        "島本",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ　ひたち12　水戸12：27-東京13：42　JAL323 羽田15：25-福岡17：15"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
-      "inoue": null
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-06-29",
       "weekday": "月",
       "common": "テルマアル：館内消毒作業　18：30～",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "京都ｱｼｭﾗﾝｸﾗﾌﾞ　ANA420 福岡7：10-伊丹8：15/のぞみ29 京都13：46-博多16：30"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -3206,17 +3286,19 @@
       "weekday": "火",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "[09:30〜13:00] 外出"
         }
       ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -3225,29 +3307,35 @@
       "weekday": "水",
       "common": null,
       "yasui": "アシュランクラブ準備",
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "齊藤",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "神戸ｽﾃｯﾌﾟｱｯﾌﾟ　のぞみ4 博多6：36-新神戸8：51/のぞみ23 新神戸12：54－博多15：09"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-07-02",
       "weekday": "木",
       "common": "アシュランクラブ",
       "yasui": "調光",
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "名古屋ｽﾃｯﾌﾟｱｯﾌﾟ　ANA434　福岡8：55-名古屋10：10　名鉄中部空港 10：37-金山11：01/のぞみ35 名古屋14：49-博多18：09"
         }
       ],
@@ -3255,7 +3343,7 @@
       "komatsu": null,
       "saitou": null,
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3277,12 +3365,14 @@
       "weekday": "土",
       "common": "つくし青年会議所式典",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -3291,35 +3381,42 @@
       "weekday": "日",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "屋成",
+        "島本",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50"
+          "role": "社長",
+          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　JAL4529 福岡8：55-仙台10：45/JAL4530 仙台17：45-福岡19：50　ANA3116 仙台16：05-福岡18：10"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
-      "shimamoto": null,
-      "inoue": null
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-07-06",
       "weekday": "月",
       "common": "アパⅣガス検針（鍵渡し）",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：45 やまびこ55東京9：40-宇都宮10：28/なすの276宇都宮14：21-東京15：16 JAL327 羽田17:00-福岡19：05"
+          "role": "社長",
+          "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ　JAL300 福岡7：00-羽田8：45 やまびこ55東京9：40-宇都宮10：28/なすの276宇都宮14：21-東京15：16 JAL327 羽田17:00-福岡19：00"
         }
       ],
-      "arakawa": null,
+      "arakawa": "祭壇移動→龍國院",
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": null
@@ -3332,7 +3429,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "49日法要"
         }
       ],
@@ -3348,10 +3445,12 @@
       "weekday": "水",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ　のぞみ10 博多8：00-広島9：06/のぞみ17 広島 12：28-13：30"
         }
       ],
@@ -3359,7 +3458,7 @@
       "komatsu": null,
       "saitou": null,
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3367,36 +3466,41 @@
       "weekday": "木",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川",
+        "井上"
+      ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "関東支店ｱｼｭﾗﾝｸﾗﾌﾞ　　JAL300　福岡7：00-羽田8：45/JAL325 羽田15：55-福岡17：50"
+          "role": "社長",
+          "text": "関東支店ｱｼｭﾗﾝｸﾗﾌﾞ　　JAL300　福岡7：00-羽田8：45/JAL325 羽田15：55-福岡17：50 JAL323 羽田15：25-福岡17：10"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-07-10",
       "weekday": "金",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ　ANA434　福岡8：55-名古屋10：05　名鉄中部空港 10：37-金山11：01/ひかり645　名古屋15：19-米原15：47　しらさぎ57 米原15：56-敦賀16：27"
         }
       ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -3405,18 +3509,21 @@
       "weekday": "土",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "島本"
+      ],
       "executives": [
         {
-          "role": "副社長",
-          "text": "小浜ｱｼｭﾗﾝｸﾗﾌﾞ　ｻﾝﾀﾞｰﾊﾞｰﾄﾞ22 敦賀13：14-京都14：09　のぞみ31 京都14：25-17：09"
+          "role": "社長",
+          "text": "小浜ｱｼｭﾗﾝｸﾗﾌﾞ　ｻﾝﾀﾞｰﾊﾞｰﾄﾞ22 敦賀13：14-京都14：09　のぞみ31 京都14：25-博多17：09"
         }
       ],
       "arakawa": null,
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -3424,28 +3531,33 @@
       "weekday": "日",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "島本",
+        "井上"
+      ],
       "executives": [],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
       "yanari": null,
-      "shimamoto": null,
-      "inoue": null
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-07-13",
       "weekday": "月",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "荒川"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "東京前泊　JAL322 福岡16：25-羽田18：25"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "komatsu": null,
       "saitou": null,
       "yanari": null,
@@ -3457,17 +3569,19 @@
       "weekday": "火",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり　JAL043　羽田9：45-ﾋｰｽﾛｰ15：55"
         }
       ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -3476,16 +3590,18 @@
       "weekday": "水",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり"
         }
       ],
       "arakawa": null,
       "komatsu": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": null
@@ -3498,7 +3614,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり"
         }
       ],
@@ -3517,7 +3633,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり"
         }
       ],
@@ -3536,7 +3652,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり"
         }
       ],
@@ -3555,7 +3671,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり　JAL046　ﾊﾟﾘ20：25-"
         }
       ],
@@ -3574,7 +3690,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "予定あり　　　　　　　-羽田17：20　　JAL331　羽田18：45-福岡20：35"
         }
       ],
@@ -3607,7 +3723,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ   JAL304 福岡8：05-羽田9：50/JAL323 羽田15：25-福岡17：10"
         }
       ],
@@ -3626,7 +3742,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "防府ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -3643,7 +3759,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "松江ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3551 福岡7：15-出雲8：25/JAL3554 出雲19：15－福岡20：25"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -3655,7 +3776,7 @@
       "date": "2026-07-25",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "ハウシーズ803退去",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -3687,8 +3808,8 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
-          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ"
+          "role": "社長",
+          "text": "徳島ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3563　福岡9：55-徳島10：55/うずしお18　徳島14：24-高松15：30　ﾏﾘﾝﾗｲﾅｰ44　高松15：40-岡山16：32　のぞみ37　岡山16：47-博多18：30"
         }
       ],
       "arakawa": null,
@@ -3718,7 +3839,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "宮古島　JAL051 福岡7：10-沖縄8：45　JAL557 沖縄10：20-宮古11：10"
+        }
+      ],
       "arakawa": null,
       "komatsu": null,
       "saitou": null,
@@ -3734,8 +3860,8 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
-          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ"
+          "role": "社長",
+          "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　　　　宮古島　JAL556 宮古17：50- 沖縄18：45　JAL062 沖縄19：40-福岡21：25"
         }
       ],
       "arakawa": null,
@@ -3753,7 +3879,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "京都ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -3772,7 +3898,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "リワーディング視察"
         }
       ],
@@ -3791,7 +3917,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "リワーディング視察"
         }
       ],
@@ -3810,7 +3936,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "リワーディング視察"
         }
       ],
@@ -3829,7 +3955,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "宇都宮ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -3848,7 +3974,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "名古屋ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -3881,7 +4007,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "関東ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -3900,7 +4026,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "広島ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -3947,7 +4073,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "本社ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -4036,7 +4162,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "リワーディング視察"
         }
       ],
@@ -4055,7 +4181,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "リワーディング視察"
         }
       ],
@@ -4074,7 +4200,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "リワーディング視察"
         }
       ],
@@ -4093,7 +4219,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
@@ -4126,7 +4252,7 @@
       "holidays": [],
       "executives": [
         {
-          "role": "副社長",
+          "role": "社長",
           "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ"
         }
       ],
