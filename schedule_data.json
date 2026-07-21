@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16 07:09",
+  "generated": "2026-07-21 14:55",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -3735,7 +3735,7 @@
       "date": "2026-07-19",
       "weekday": "日",
       "common": "エレベーター点検\n　9:00～ 14:00　テルマアル",
-      "yasui": null,
+      "yasui": "スパEL点検 9:00～ 14:00",
       "holidays": [
         "荒川",
         "藤田",
@@ -3782,7 +3782,7 @@
     {
       "date": "2026-07-21",
       "weekday": "火",
-      "common": "ちゃんこ五萬石：消防設備点検。14:00～\nふくろう園：床定期清掃。18:00～",
+      "common": "ちゃんこ五萬石：消防設備点検 14:00～\nふくろう園：床定期清掃 18:00～",
       "yasui": "休",
       "holidays": [],
       "executives": [
@@ -3814,7 +3814,7 @@
           "text": "横浜ｱｼｭﾗﾝｸﾗﾌﾞ   JAL304 福岡8：05-羽田9：50/JAL323 羽田15：25-福岡17：10"
         }
       ],
-      "arakawa": null,
+      "arakawa": "15：00相撲部屋",
       "fujita": "休",
       "saitou": "休",
       "yanari": null,
@@ -3825,7 +3825,7 @@
       "date": "2026-07-23",
       "weekday": "木",
       "common": "エレベーター定期点検\n　配送棟・貨物　10:00～11:30\n　配送棟・乗用　12:00～13:00\n　事務棟　　　　　17:00～18:30",
-      "yasui": "エレベーター定期点検\n17:00～18:30",
+      "yasui": "全体朝礼準備\nエレベーター定期点検\n17:00～18:30",
       "holidays": [
         "荒川"
       ],
@@ -3857,7 +3857,7 @@
           "text": "松江ｱｼｭﾗﾝｸﾗﾌﾞ　JAL3551 福岡7：15-出雲8：25/JAL3554 出雲19：15－福岡20：25"
         }
       ],
-      "arakawa": null,
+      "arakawa": "13：00九州電力",
       "fujita": null,
       "saitou": null,
       "yanari": "休",
@@ -3868,7 +3868,7 @@
       "date": "2026-07-25",
       "weekday": "土",
       "common": null,
-      "yasui": "ハウシーズ803退去",
+      "yasui": "ハウシーズ803退去\nビジネスセミナー準備",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -3977,7 +3977,7 @@
           "text": "仙台ｱｼｭﾗﾝｸﾗﾌﾞ　　　　宮古島　JAL556 宮古17：50- 沖縄18：45　JAL062 沖縄19：40-福岡21：25"
         }
       ],
-      "arakawa": null,
+      "arakawa": "9：00にしけい",
       "fujita": "休",
       "saitou": "休",
       "yanari": null,
@@ -4055,7 +4055,7 @@
     {
       "date": "2026-08-03",
       "weekday": "月",
-      "common": null,
+      "common": "9：00-17：00ノートリコール",
       "yasui": null,
       "holidays": [
         "藤田",
@@ -4422,7 +4422,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ JAL300福岡7：00-羽田8：45ひたち7東京9：53-水戸11：05/ひたち16水戸14：27-東京15：42 JAL327羽田17：00-福岡19：00"
+          "text": "水戸ｱｼｭﾗﾝｸﾗﾌﾞ JAL300福岡7：00-羽田8：45ひたち7東京9：53-水戸11：05/ひたち16水戸14：27-東京15：42 JAL327羽田17：00-福岡19：00　ひたち14水戸13：27-東京14：42 JAL325羽田15：55-福岡17：45"
         }
       ],
       "arakawa": null,
@@ -4676,7 +4676,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4695,7 +4695,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4714,7 +4714,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4733,7 +4733,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4752,7 +4752,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4771,7 +4771,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4790,7 +4790,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -4809,7 +4809,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "視察"
+          "text": "オナーズ視察"
         }
       ],
       "arakawa": null,
@@ -5153,7 +5153,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "リワーディング（大阪）"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5167,7 +5172,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "リワーディング（大阪）"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5181,7 +5191,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "リワーディング（大阪）"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5195,7 +5210,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "リワーディング（大阪）"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5447,7 +5467,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "秋・冬お手入れセミナー"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5573,7 +5598,12 @@
       "common": "アパⅣガス検針（鍵渡し）",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "ニューライフ特別研修会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5587,7 +5617,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "ニューライフ特別研修会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5601,7 +5636,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "ニューライフ特別研修会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5615,7 +5655,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "ニューライフ特別研修会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5629,7 +5674,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "ニューライフ特別研修会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5643,7 +5693,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "ニューライフ特別研修会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
