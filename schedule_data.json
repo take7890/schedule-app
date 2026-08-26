@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17 08:10",
+  "generated": "2026-08-27 07:32",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -4458,7 +4458,7 @@
       "date": "2026-08-17",
       "weekday": "月",
       "common": null,
-      "yasui": null,
+      "yasui": "ガロンボトル",
       "holidays": [],
       "executives": [
         {
@@ -4498,7 +4498,7 @@
       "date": "2026-08-19",
       "weekday": "水",
       "common": "テルマアル：浴槽循環配管、雑排水管洗浄作業 9:00～15:00\nグリストラップ：五萬石・本社食堂・ルコネッサン①②③",
-      "yasui": null,
+      "yasui": "スパ2Fライト調査\n（ジンジャー室）",
       "holidays": [
         "荒川"
       ],
@@ -4519,7 +4519,7 @@
       "date": "2026-08-20",
       "weekday": "木",
       "common": "ｾ棟ｴﾚｰﾍﾞｰﾀｰ点検 13:30～15:00\nルコｴﾚｰﾍﾞｰﾀｰ点検 15:00～19:00",
-      "yasui": "ルコEL点検",
+      "yasui": "ルコEL点検\nガロンボトル",
       "holidays": [
         "藤田",
         "屋成",
@@ -4542,7 +4542,7 @@
       "date": "2026-08-21",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "有",
       "holidays": [
         "屋成"
       ],
@@ -4550,6 +4550,10 @@
         {
           "role": "社長",
           "text": "[09:00〜] ニュース写真撮影"
+        },
+        {
+          "role": "社長",
+          "text": "[09:30〜] ルコパン試食"
         },
         {
           "role": "社長",
@@ -4561,15 +4565,27 @@
         },
         {
           "role": "社長",
+          "text": "[13:00〜16:00] スパ"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] 小俣様"
+        },
+        {
+          "role": "社長",
+          "text": "[18:00〜] 福崎様・三角様（アンテにて）"
+        },
+        {
+          "role": "社長",
           "text": "[16:00〜] 藤本DM、村田様"
         }
       ],
-      "arakawa": "10:00ユニマット",
+      "arakawa": "10:00ユニマット\n13:30オクゼン\n16：00ホシザキ",
       "fujita": null,
-      "saitou": "10:00ユニマット",
+      "saitou": null,
       "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "10:00ユニマット"
     },
     {
       "date": "2026-08-22",
@@ -4597,7 +4613,7 @@
       "date": "2026-08-23",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "ガロンボトル",
       "holidays": [
         "荒川",
         "齊藤",
@@ -4607,7 +4623,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "出水？JAL3701福岡7：30-鹿児島8：15/JAL3336鹿児島15：25-福岡16：15"
+          "text": "出水　JAL3701福岡7：30-鹿児島8：15/JAL3336鹿児島15：25-福岡16：15　JAL2410 鹿児島14：40-伊丹15：50"
         }
       ],
       "arakawa": "休",
@@ -4631,7 +4647,7 @@
           "text": "大阪ビジネスセミナー JAL2050 福岡7:50-伊丹8:55/のぞみ27 新大阪13：41-博多16：09"
         }
       ],
-      "arakawa": null,
+      "arakawa": "9:00迎賓館　小川建設\nエアコン1F異臭水漏れ2F異音",
       "fujita": "休",
       "saitou": null,
       "yanari": null,
@@ -4642,10 +4658,27 @@
       "date": "2026-08-25",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "13：00にしけい\nガロンボトル\n15:00 清掃班MT",
       "holidays": [],
-      "executives": [],
-      "arakawa": null,
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[10:15〜] 面接1名"
+        },
+        {
+          "role": "社長",
+          "text": "[11:00〜] 面談（吉村様・近藤様）"
+        },
+        {
+          "role": "社長",
+          "text": "[13:00〜] スパ"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] 博多大丸　村本社長"
+        }
+      ],
+      "arakawa": "AMホシザキ\n吉浦さんB1-1倉庫\n11：00大林Ｆ西森\n13：00にしけい",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -4660,8 +4693,17 @@
       "holidays": [
         "屋成"
       ],
-      "executives": [],
-      "arakawa": null,
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[AM〜] 外出"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] 徳永DM・橋本DM・清水DM・岡DM・李DM"
+        }
+      ],
+      "arakawa": "9：30クラフティア\n11:00ホシザキ",
       "fujita": null,
       "saitou": null,
       "yanari": "休",
@@ -4716,7 +4758,12 @@
         "齊藤",
         "島本"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[15:00〜] 小俣様・橋田様"
+        }
+      ],
       "arakawa": "有",
       "fujita": null,
       "saitou": "休",
@@ -4771,13 +4818,17 @@
     {
       "date": "2026-09-01",
       "weekday": "火",
-      "common": null,
+      "common": "各所：害虫生息調査　7：00～\nテルマアル：レジオネラ採水　7：00～",
       "yasui": "休",
       "holidays": [
         "藤田",
         "井上"
       ],
       "executives": [
+        {
+          "role": "社長",
+          "text": "[11:00〜] 昇格試験"
+        },
         {
           "role": "社長",
           "text": "[PM〜] 外出"
@@ -4829,7 +4880,7 @@
     {
       "date": "2026-09-04",
       "weekday": "金",
-      "common": "アパⅣガス検針（鍵渡し）",
+      "common": "アパⅣガス検針（鍵渡し）\nそうめん流し　採水作業 AM",
       "yasui": "休",
       "holidays": [
         "屋成"
@@ -4897,7 +4948,7 @@
     {
       "date": "2026-09-07",
       "weekday": "月",
-      "common": null,
+      "common": "事務棟：空気環境測定　10：00～",
       "yasui": null,
       "holidays": [
         "藤田",
@@ -4920,7 +4971,7 @@
     {
       "date": "2026-09-08",
       "weekday": "火",
-      "common": null,
+      "common": "そば処五萬石：井水採水　9：00～",
       "yasui": "休",
       "holidays": [],
       "executives": [
@@ -5003,7 +5054,7 @@
     {
       "date": "2026-09-12",
       "weekday": "土",
-      "common": null,
+      "common": "セミナー棟空調清掃 10:00～16:30",
       "yasui": "休",
       "holidays": [
         "屋成",
@@ -5122,8 +5173,8 @@
     {
       "date": "2026-09-18",
       "weekday": "金",
-      "common": null,
-      "yasui": null,
+      "common": "配送棟：空調清掃作業　16～21",
+      "yasui": "空調清掃",
       "holidays": [],
       "executives": [
         {
@@ -5222,7 +5273,7 @@
       "date": "2026-09-24",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "朝礼準備",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5236,7 +5287,7 @@
       "date": "2026-09-25",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "ガロンボトル\n15:00 清掃班MT",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5282,7 +5333,7 @@
     {
       "date": "2026-09-28",
       "weekday": "月",
-      "common": null,
+      "common": "テルマアル：館内一斉消毒作業　18:30～",
       "yasui": null,
       "holidays": [],
       "executives": [
@@ -5323,7 +5374,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "宮崎AC"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5668,7 +5724,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "本社ビジネスセミナー"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
