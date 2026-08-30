@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27 07:32",
+  "generated": "2026-08-31 00:24",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -4775,7 +4775,7 @@
       "date": "2026-08-30",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "ガロンボトル",
       "holidays": [
         "荒川",
         "屋成",
@@ -4798,14 +4798,14 @@
       "date": "2026-08-31",
       "weekday": "月",
       "common": "テルマアル：館内一斉消毒作業 18:30～",
-      "yasui": null,
+      "yasui": "水道メーター問合せ\nルコ1Fラスク室A3エラー",
       "holidays": [
         "荒川"
       ],
       "executives": [
         {
           "role": "社長",
-          "text": "関東支店AC JAL300福岡7：00-羽田8：45/JAL323 羽田15：25-福岡17：10"
+          "text": "関東支店AC JAL300福岡7：00-羽田8：45/JAL323 羽田15：25-福岡17：10　JAL325 羽田15：55-福岡17：45"
         }
       ],
       "arakawa": "休",
@@ -4834,7 +4834,7 @@
           "text": "[PM〜] 外出"
         }
       ],
-      "arakawa": "サンリヤンV売買契約",
+      "arakawa": "サンリヤンV売買契約\n10:30オクゼン\n法務課棚移動",
       "fujita": "休",
       "saitou": null,
       "yanari": null,
@@ -4844,8 +4844,8 @@
     {
       "date": "2026-09-02",
       "weekday": "水",
-      "common": null,
-      "yasui": null,
+      "common": "グリストラップ：五萬石・本社食堂・ルコネッサン③",
+      "yasui": "五萬石冷凍庫取っ手修理",
       "holidays": [
         "齊藤",
         "島本"
@@ -4867,9 +4867,26 @@
       "date": "2026-09-03",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "ガロンボトル",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[AM〜] 外出"
+        },
+        {
+          "role": "社長",
+          "text": "[13:00〜] 堀様"
+        },
+        {
+          "role": "社長",
+          "text": "[14:00〜] スパ"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] 大丸様"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5135,13 +5152,13 @@
     {
       "date": "2026-09-16",
       "weekday": "水",
-      "common": null,
+      "common": "グリストラップ：五萬石・本社食堂・ルコネッサン①②③・GEH",
       "yasui": "検針",
       "holidays": [],
       "executives": [
         {
           "role": "社長",
-          "text": "名古屋AC"
+          "text": "名古屋AC　ANA434 福岡8：50-名古屋10：05　ミュー中部国際空港10：37-名古屋11：06/のぞみ31 名古屋13：49-博多17：09"
         }
       ],
       "arakawa": null,
@@ -5179,7 +5196,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "横浜AC"
+          "text": "横浜AC　JAL304 福岡8：05-羽田9：50/JAL323 羽田15：25-福岡17：15"
         }
       ],
       "arakawa": null,
@@ -5259,7 +5276,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "水戸AC"
+          "text": "水戸AC　JAL300福岡7：00-羽田8：45 ひたち7東京9：53-水戸11：05/ひたち14 水戸13：27-東京14：42 JAL325羽田15：55-福岡17：45"
         }
       ],
       "arakawa": null,
@@ -5320,7 +5337,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "名古屋ﾋﾞｼﾞﾈｽｾﾐﾅｰ"
+          "text": "名古屋ﾋﾞｼﾞﾈｽｾﾐﾅｰ　JAL4382 福岡9：10-小牧10：30/ひかり706 名古屋14:43－三島15：57"
         }
       ],
       "arakawa": null,
@@ -5339,7 +5356,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "御殿場AC"
+          "text": "御殿場AC　ひかり706 三島13：58-品川14：35 JAL323 羽田15：25-福岡17：15"
         }
       ],
       "arakawa": null,
@@ -5371,13 +5388,13 @@
     {
       "date": "2026-09-30",
       "weekday": "水",
-      "common": null,
+      "common": "グリストラップ：五萬石・サンセール",
       "yasui": null,
       "holidays": [],
       "executives": [
         {
           "role": "社長",
-          "text": "宮崎AC"
+          "text": "宮崎AC JAL3623 福岡7：15-宮崎8：00/JAL3630 宮崎14：00-福岡14：55"
         }
       ],
       "arakawa": null,
@@ -5415,7 +5432,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "仙台AC"
+          "text": "仙台AC　JAL4529 福岡8：55-仙台10：45/JAL2210 仙台15：30-伊丹16：50"
         }
       ],
       "arakawa": null,
@@ -5434,7 +5451,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "京都AC"
+          "text": "京都AC　のぞみ25 京都12：46-博多15：30/帰り確認中"
         }
       ],
       "arakawa": null,
@@ -5483,7 +5500,12 @@
       "common": "アパⅣガス検針（鍵渡し）",
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "大坂前日入り　のぞみ8 博多7：36-新神戸9：51"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5557,7 +5579,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "リワーディング（大阪）"
+          "text": "リワーディング（大阪）　のぞみ31 新大阪14：41-博多17：09"
         }
       ],
       "arakawa": null,
@@ -5590,7 +5612,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "関東AC"
+          "text": "関東AC　 JAL300福岡7：00-羽田8：45/JAL323 羽田15：25-福岡17：10"
         }
       ],
       "arakawa": null,
@@ -5609,7 +5631,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "お伊勢さん"
+          "text": "お伊勢さん　ANA420 福岡7：10-伊丹8：15"
         }
       ],
       "arakawa": null,
@@ -5628,7 +5650,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "お伊勢さん"
+          "text": "お伊勢さん　のぞみ29  名古屋13：10-博多16：30"
         }
       ],
       "arakawa": null,
@@ -5661,7 +5683,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "水戸AC"
+          "text": "水戸AC　JAL300福岡7：00-羽田8：40 ひたち7東京9：53-水戸11：05/ひたち14 水戸13：27-東京14：42 JAL325羽田15：55-福岡17：50"
         }
       ],
       "arakawa": null,
@@ -5776,7 +5798,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "能登勉強会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5790,7 +5817,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "能登勉強会"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
