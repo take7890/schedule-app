@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31 00:24",
+  "generated": "2026-09-04 23:52",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -4867,9 +4867,13 @@
       "date": "2026-09-03",
       "weekday": "木",
       "common": null,
-      "yasui": "ガロンボトル",
+      "yasui": "アルコール",
       "holidays": [],
       "executives": [
+        {
+          "role": "社長",
+          "text": "JAL2051 伊丹7：15-福岡8：25"
+        },
         {
           "role": "社長",
           "text": "[AM〜] 外出"
@@ -4887,7 +4891,7 @@
           "text": "[16:00〜] 大丸様"
         }
       ],
-      "arakawa": null,
+      "arakawa": "10:00エネクラウド\n11：30プレハブ冷凍庫点検",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -4919,7 +4923,7 @@
       "date": "2026-09-05",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "セ棟・散水板交換",
       "holidays": [
         "荒川",
         "屋成",
@@ -4966,7 +4970,7 @@
       "date": "2026-09-07",
       "weekday": "月",
       "common": "事務棟：空気環境測定　10：00～",
-      "yasui": null,
+      "yasui": "10:00スパ2Fトイレ修理",
       "holidays": [
         "藤田",
         "齊藤",
@@ -4997,7 +5001,7 @@
           "text": "オナーズ視察"
         }
       ],
-      "arakawa": null,
+      "arakawa": "15：30食堂食洗器点検",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -5007,7 +5011,7 @@
     {
       "date": "2026-09-09",
       "weekday": "水",
-      "common": null,
+      "common": "エレベーター点検\n　7:30～ 9:00　テルマアル\n　9:00～10:30 アパルトⅣ\n　10:30～12:00 迎賓館",
       "yasui": null,
       "holidays": [
         "藤田",
@@ -5029,7 +5033,7 @@
     {
       "date": "2026-09-10",
       "weekday": "木",
-      "common": null,
+      "common": "エレベーター点検\n　13:30～15:00　美術館",
       "yasui": "10:00MJR退去立会",
       "holidays": [
         "荒川",
@@ -5061,7 +5065,7 @@
           "text": "オナーズ視察"
         }
       ],
-      "arakawa": null,
+      "arakawa": "10：30MJR現調",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -5139,7 +5143,7 @@
       "date": "2026-09-15",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "15:00 ルコ看板修正",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5153,7 +5157,7 @@
       "date": "2026-09-16",
       "weekday": "水",
       "common": "グリストラップ：五萬石・本社食堂・ルコネッサン①②③・GEH",
-      "yasui": "検針",
+      "yasui": "検針\nアシュランクラブ準備",
       "holidays": [],
       "executives": [
         {
@@ -5171,13 +5175,17 @@
     {
       "date": "2026-09-17",
       "weekday": "木",
-      "common": null,
-      "yasui": null,
+      "common": "アシュランクラブ\n龍國院定例法要",
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
           "role": "社長",
           "text": "本社AC"
+        },
+        {
+          "role": "社長",
+          "text": "[15:00〜] 坂井シェフ、湯浅様"
         }
       ],
       "arakawa": null,
@@ -5192,7 +5200,9 @@
       "weekday": "金",
       "common": "配送棟：空調清掃作業　16～21",
       "yasui": "空調清掃",
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -5200,7 +5210,7 @@
         }
       ],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5210,11 +5220,13 @@
       "date": "2026-09-19",
       "weekday": "土",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "藤田"
+      ],
       "executives": [],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5224,8 +5236,10 @@
       "date": "2026-09-20",
       "weekday": "日",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "藤田"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -5233,7 +5247,7 @@
         }
       ],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5271,7 +5285,7 @@
       "date": "2026-09-23",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -5291,10 +5305,12 @@
       "weekday": "木",
       "common": null,
       "yasui": "朝礼準備",
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5304,9 +5320,14 @@
       "date": "2026-09-25",
       "weekday": "金",
       "common": null,
-      "yasui": "ガロンボトル\n15:00 清掃班MT",
+      "yasui": "ガロンボトル\nアパルトⅣ清掃\n15:00 清掃班MT",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[10:30〜12:00] JTB今村様"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -5318,7 +5339,7 @@
       "date": "2026-09-26",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5352,7 +5373,9 @@
       "weekday": "月",
       "common": "テルマアル：館内一斉消毒作業　18:30～",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -5360,7 +5383,7 @@
         }
       ],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5370,7 +5393,7 @@
       "date": "2026-09-29",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "アシュランクラブ準備",
       "holidays": [],
       "executives": [
         {
@@ -5389,7 +5412,7 @@
       "date": "2026-09-30",
       "weekday": "水",
       "common": "グリストラップ：五萬石・サンセール",
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -5407,8 +5430,8 @@
     {
       "date": "2026-10-01",
       "weekday": "木",
-      "common": null,
-      "yasui": null,
+      "common": "アシュランクラブ",
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
@@ -5428,7 +5451,9 @@
       "weekday": "金",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -5436,7 +5461,7 @@
         }
       ],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5465,7 +5490,7 @@
       "date": "2026-10-04",
       "weekday": "日",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5499,7 +5524,9 @@
       "weekday": "火",
       "common": "アパⅣガス検針（鍵渡し）",
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -5507,7 +5534,7 @@
         }
       ],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5536,7 +5563,7 @@
       "date": "2026-10-08",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -5575,7 +5602,9 @@
       "weekday": "土",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -5583,7 +5612,7 @@
         }
       ],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5593,11 +5622,13 @@
       "date": "2026-10-11",
       "weekday": "日",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "休",
+      "holidays": [
+        "藤田"
+      ],
       "executives": [],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5607,7 +5638,7 @@
       "date": "2026-10-12",
       "weekday": "月",
       "common": null,
-      "yasui": null,
+      "yasui": "休",
       "holidays": [],
       "executives": [
         {
@@ -5665,10 +5696,12 @@
       "weekday": "木",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "藤田"
+      ],
       "executives": [],
       "arakawa": null,
-      "fujita": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
@@ -5743,7 +5776,7 @@
     {
       "date": "2026-10-20",
       "weekday": "火",
-      "common": null,
+      "common": "ビジネスセミナー",
       "yasui": null,
       "holidays": [],
       "executives": [
@@ -5762,7 +5795,7 @@
     {
       "date": "2026-10-21",
       "weekday": "水",
-      "common": "秋・冬のお手入れセミナー",
+      "common": null,
       "yasui": null,
       "holidays": [],
       "executives": [
@@ -5796,7 +5829,7 @@
       "date": "2026-10-23",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "朝礼準備",
       "holidays": [],
       "executives": [
         {
@@ -5862,7 +5895,7 @@
       "date": "2026-10-27",
       "weekday": "火",
       "common": null,
-      "yasui": null,
+      "yasui": "お手入れ準備",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5875,8 +5908,8 @@
     {
       "date": "2026-10-28",
       "weekday": "水",
-      "common": null,
-      "yasui": null,
+      "common": "秋・冬のお手入れセミナー\n龍國院特別法要",
+      "yasui": "調光",
       "holidays": [],
       "executives": [
         {
@@ -5909,7 +5942,7 @@
       "date": "2026-10-30",
       "weekday": "金",
       "common": null,
-      "yasui": null,
+      "yasui": "水道局FAX",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -5936,7 +5969,7 @@
     {
       "date": "2026-11-01",
       "weekday": "日",
-      "common": null,
+      "common": "ふくろう園運動会",
       "yasui": null,
       "holidays": [],
       "executives": [
@@ -5984,7 +6017,7 @@
       "date": "2026-11-04",
       "weekday": "水",
       "common": null,
-      "yasui": null,
+      "yasui": "アパルトⅣ掃除当番表",
       "holidays": [],
       "executives": [],
       "arakawa": null,
@@ -6329,7 +6362,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "PMT"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -6343,7 +6381,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "PMT"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
