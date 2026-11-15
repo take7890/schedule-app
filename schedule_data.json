@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12 00:57",
+  "generated": "2026-11-16 08:28",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -6410,7 +6410,7 @@
       "date": "2026-11-12",
       "weekday": "木",
       "common": null,
-      "yasui": null,
+      "yasui": "ルコフィルターカット\nガロンボトル",
       "holidays": [],
       "executives": [
         {
@@ -6422,7 +6422,7 @@
           "text": "[16:00〜] 西村美智子様"
         }
       ],
-      "arakawa": "10：00大野城市役所\n13:00オクゼン坂本",
+      "arakawa": "10：00大野城市役所\n13:00オクゼン坂本\n14：00面談",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -6444,7 +6444,7 @@
           "text": "関東ﾋﾞｼﾞﾈｽｾﾐﾅｰ　JAL300福岡7：00-羽田8：35"
         }
       ],
-      "arakawa": null,
+      "arakawa": "Xmasツリー搬入\n出勤札作成\nにしけい打合せ\n13：00，15：30面談",
       "fujita": "休",
       "saitou": null,
       "yanari": null,
@@ -6455,7 +6455,7 @@
       "date": "2026-11-14",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "16:00 ルコフィルター交換",
       "holidays": [
         "荒川",
         "齊藤",
@@ -6464,7 +6464,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "宇都宮AC　やまびこ55東京9：40-宇都宮10：28/やまびこ212 宇都宮13：21-東京14：16  JAL325 羽田15：50-福岡17：50"
+          "text": "宇都宮AC　やまびこ55東京9：40-宇都宮10：28 なすの255東京9：16-宇都宮10：12　やまびこ129東京9：00-宇都宮9：46/やまびこ212 宇都宮13：21-東京14：16  JAL325 羽田15：50-福岡17：50"
         }
       ],
       "arakawa": "休",
@@ -6480,6 +6480,7 @@
       "common": null,
       "yasui": "有",
       "holidays": [
+        "藤田",
         "屋成",
         "島本"
       ],
@@ -6489,8 +6490,8 @@
           "text": "名古屋AC　JAL4382 福岡8：55-名古屋10：15　/のぞみ31 名古屋13：49-博多17：09"
         }
       ],
-      "arakawa": "有",
-      "fujita": null,
+      "arakawa": null,
+      "fujita": "休",
       "saitou": null,
       "yanari": "休",
       "shimamoto": "休",
@@ -6500,9 +6501,10 @@
       "date": "2026-11-16",
       "weekday": "月",
       "common": null,
-      "yasui": null,
+      "yasui": "検針",
       "holidays": [
-        "藤田"
+        "藤田",
+        "屋成"
       ],
       "executives": [
         {
@@ -6510,10 +6512,10 @@
           "text": "横浜AC　JAL304福岡8：20-羽田9：50/JAL323 羽田15：05-福岡17：00"
         }
       ],
-      "arakawa": "Xmasツリー設置",
+      "arakawa": "Xmasツリー設置\n11：00オクゼン坂本\n14：30ユニマット古賀",
       "fujita": "休",
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -6521,31 +6523,32 @@
       "date": "2026-11-17",
       "weekday": "火",
       "common": null,
-      "yasui": null,
-      "holidays": [],
+      "yasui": "9：30クラフティア漏電調査\nAMファーネスト白木原 光撤去",
+      "holidays": [
+        "荒川",
+        "井上"
+      ],
       "executives": [
-        {
-          "role": "社長",
-          "text": "本社AC"
-        },
         {
           "role": "社長",
           "text": "石垣　JTA53 福岡9：35-沖縄11：25　JTA609 沖縄12：30-石垣13：30"
         }
       ],
-      "arakawa": null,
+      "arakawa": "休",
       "fujita": null,
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-11-18",
       "weekday": "水",
       "common": "グリストラップ：五萬石・本社食堂・ルコネッサン①②③・GEH\n\n事務棟→配送棟→セミナー棟→テルマアル→美術館→ルコネッサン:自動ドア保守点検　7:00～\nそば処五萬石→迎賓館→龍國院→アパルトⅣ:自動ドア保守点検　10:00～",
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "齊藤"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -6554,7 +6557,7 @@
       ],
       "arakawa": null,
       "fujita": "有",
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": null
@@ -6562,8 +6565,8 @@
     {
       "date": "2026-11-19",
       "weekday": "木",
-      "common": null,
-      "yasui": "退去立会",
+      "common": "電気保安協会\n事務棟・セミナー棟（各電気室）：電気設備保安点検（発電機ハンドル一式） 13:30～",
+      "yasui": "10:30 退去立会\n電気保安協会鍵渡し",
       "holidays": [
         "藤田"
       ],
@@ -6573,7 +6576,7 @@
           "text": "石垣"
         }
       ],
-      "arakawa": null,
+      "arakawa": "13：30ｼﾃｨﾗｲﾌ現調",
       "fujita": "休",
       "saitou": null,
       "yanari": null,
@@ -6583,9 +6586,11 @@
     {
       "date": "2026-11-20",
       "weekday": "金",
-      "common": null,
-      "yasui": null,
-      "holidays": [],
+      "common": "電気保安協会\n　龍國院 9:30～\n　アパⅣ 11:00～",
+      "yasui": "電気保安協会鍵渡し",
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -6596,7 +6601,7 @@
       "fujita": null,
       "saitou": null,
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -6605,7 +6610,9 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "屋成",
+        "井上"
       ],
       "executives": [
         {
@@ -6616,16 +6623,19 @@
       "arakawa": "休",
       "fujita": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-11-22",
       "weekday": "日",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "島本",
+        "井上"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -6636,8 +6646,8 @@
       "fujita": null,
       "saitou": "18：30オークラ",
       "yanari": "18：30オークラ",
-      "shimamoto": null,
-      "inoue": null
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-11-23",
@@ -6646,7 +6656,9 @@
       "yasui": "アシュランクラブ準備\n朝礼準備",
       "holidays": [
         "荒川",
-        "藤田"
+        "藤田",
+        "齊藤",
+        "島本"
       ],
       "executives": [
         {
@@ -6656,9 +6668,9 @@
       ],
       "arakawa": "休",
       "fujita": "休",
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -6684,28 +6696,33 @@
       "date": "2026-11-25",
       "weekday": "水",
       "common": "グリストラップ：五萬石・サンセール",
-      "yasui": null,
-      "holidays": [],
+      "yasui": "15:00 清掃班MT",
+      "holidays": [
+        "井上"
+      ],
       "executives": [],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-11-26",
       "weekday": "木",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成",
+        "島本"
+      ],
       "executives": [],
       "arakawa": "9:30春夏花壇打合せ",
       "fujita": "9:30春夏花壇打合せ",
       "saitou": null,
-      "yanari": null,
-      "shimamoto": null,
+      "yanari": "休",
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -6714,6 +6731,7 @@
       "common": "事務棟他:空気環境測定　10:00～",
       "yasui": null,
       "holidays": [
+        "荒川",
         "藤田"
       ],
       "executives": [
@@ -6722,7 +6740,7 @@
           "text": "PMT"
         }
       ],
-      "arakawa": null,
+      "arakawa": "出→休",
       "fujita": "休",
       "saitou": null,
       "yanari": null,
@@ -6735,7 +6753,8 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "齊藤"
       ],
       "executives": [
         {
@@ -6743,9 +6762,9 @@
           "text": "PMT"
         }
       ],
-      "arakawa": "休",
+      "arakawa": "休→出",
       "fujita": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": null
@@ -6756,7 +6775,10 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "齊藤",
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -6766,10 +6788,10 @@
       ],
       "arakawa": "休",
       "fujita": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
-      "inoue": null
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-11-30",
@@ -6777,7 +6799,8 @@
       "common": "テルマアル:館内消毒作業　18:30～",
       "yasui": "休",
       "holidays": [
-        "藤田"
+        "藤田",
+        "屋成"
       ],
       "executives": [
         {
@@ -6788,7 +6811,7 @@
       "arakawa": null,
       "fujita": "休",
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -6821,7 +6844,8 @@
       "common": null,
       "yasui": "休",
       "holidays": [
-        "藤田"
+        "藤田",
+        "屋成"
       ],
       "executives": [
         {
@@ -6829,10 +6853,10 @@
           "text": "御殿場AC　JAL300 福岡7：00-羽田8：30　こだま813 品川9：34-三島10：20/こだま834 三島17：24-品川18：10　ANA321 羽田19：40-富山20：40"
         }
       ],
-      "arakawa": null,
+      "arakawa": "AM退去立会",
       "fujita": "休",
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -6841,19 +6865,22 @@
       "weekday": "木",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "井上"
+      ],
       "executives": [
         {
           "role": "社長",
           "text": "富山AC つるぎ29 富山14：39-小松15：15　ANA4649 小松16：10-福岡17：50"
         }
       ],
-      "arakawa": null,
+      "arakawa": "13：30アンピール現調",
       "fujita": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-12-04",
@@ -6877,7 +6904,9 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "齊藤",
+        "島本"
       ],
       "executives": [
         {
@@ -6887,9 +6916,9 @@
       ],
       "arakawa": "休",
       "fujita": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -6898,22 +6927,26 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "藤田"
+        "藤田",
+        "屋成",
+        "井上"
       ],
       "executives": [],
       "arakawa": null,
       "fujita": "休",
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-12-07",
       "weekday": "月",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -6923,7 +6956,7 @@
       "arakawa": null,
       "fujita": null,
       "saitou": null,
-      "yanari": null,
+      "yanari": "休",
       "shimamoto": null,
       "inoue": null
     },
@@ -6932,7 +6965,9 @@
       "weekday": "火",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "島本"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -6943,7 +6978,7 @@
       "fujita": null,
       "saitou": null,
       "yanari": null,
-      "shimamoto": null,
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -6952,7 +6987,8 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "荒川"
+        "荒川",
+        "齊藤"
       ],
       "executives": [
         {
@@ -6962,7 +6998,7 @@
       ],
       "arakawa": "休",
       "fujita": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": null
@@ -6973,7 +7009,8 @@
       "common": null,
       "yasui": null,
       "holidays": [
-        "藤田"
+        "藤田",
+        "齊藤"
       ],
       "executives": [
         {
@@ -6983,7 +7020,7 @@
       ],
       "arakawa": null,
       "fujita": "休",
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
       "inoue": null
@@ -7007,13 +7044,16 @@
       "weekday": "土",
       "common": null,
       "yasui": "休",
-      "holidays": [],
+      "holidays": [
+        "屋成",
+        "島本"
+      ],
       "executives": [],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
-      "yanari": null,
-      "shimamoto": null,
+      "yanari": "休",
+      "shimamoto": "休",
       "inoue": null
     },
     {
@@ -7023,7 +7063,10 @@
       "yasui": null,
       "holidays": [
         "荒川",
-        "藤田"
+        "藤田",
+        "屋成",
+        "島本",
+        "井上"
       ],
       "executives": [
         {
@@ -7034,16 +7077,19 @@
       "arakawa": "休",
       "fujita": "休",
       "saitou": null,
-      "yanari": null,
-      "shimamoto": null,
-      "inoue": null
+      "yanari": "休",
+      "shimamoto": "休",
+      "inoue": "休"
     },
     {
       "date": "2026-12-14",
       "weekday": "月",
       "common": null,
       "yasui": null,
-      "holidays": [],
+      "holidays": [
+        "齊藤",
+        "井上"
+      ],
       "executives": [
         {
           "role": "社長",
@@ -7052,10 +7098,10 @@
       ],
       "arakawa": null,
       "fujita": null,
-      "saitou": null,
+      "saitou": "休",
       "yanari": null,
       "shimamoto": null,
-      "inoue": null
+      "inoue": "休"
     },
     {
       "date": "2026-12-15",
