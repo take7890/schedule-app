@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16 08:28",
+  "generated": "2026-11-20 08:22",
   "schedules": [
     {
       "date": "2026-02-01",
@@ -6576,7 +6576,7 @@
           "text": "石垣"
         }
       ],
-      "arakawa": "13：30ｼﾃｨﾗｲﾌ現調",
+      "arakawa": "13：30ｼﾃｨﾗｲﾌ現調\n15:00にしけい平田",
       "fujita": "休",
       "saitou": null,
       "yanari": null,
@@ -6587,7 +6587,7 @@
       "date": "2026-11-20",
       "weekday": "金",
       "common": "電気保安協会\n　龍國院 9:30～\n　アパⅣ 11:00～",
-      "yasui": "電気保安協会鍵渡し",
+      "yasui": "電気保安協会鍵渡し\nスパ3F天井補修",
       "holidays": [
         "島本"
       ],
@@ -6597,7 +6597,7 @@
           "text": "石垣　JTA612 石垣13：30-沖縄14：30　JTA58 沖縄15：15-福岡16：55"
         }
       ],
-      "arakawa": null,
+      "arakawa": "10:00迎賓館クラフティア",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -6608,7 +6608,7 @@
       "date": "2026-11-21",
       "weekday": "土",
       "common": null,
-      "yasui": null,
+      "yasui": "ガロンボトル\nスパ3F天井補修",
       "holidays": [
         "荒川",
         "屋成",
@@ -6639,7 +6639,7 @@
       "executives": [
         {
           "role": "社長",
-          "text": "[AM〜] 外出"
+          "text": "[終日〜] 外出"
         }
       ],
       "arakawa": null,
@@ -6683,9 +6683,17 @@
         {
           "role": "社長",
           "text": "本社AC"
+        },
+        {
+          "role": "社長",
+          "text": "[09:00〜] コラム打合せ"
+        },
+        {
+          "role": "社長",
+          "text": "[15:00〜] リモート"
         }
       ],
-      "arakawa": null,
+      "arakawa": "13：30にしけい\n15：30オクゼン",
       "fujita": null,
       "saitou": null,
       "yanari": null,
@@ -6700,7 +6708,12 @@
       "holidays": [
         "井上"
       ],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[12:30〜16:00] 外出"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -6717,8 +6730,21 @@
         "屋成",
         "島本"
       ],
-      "executives": [],
-      "arakawa": "9:30春夏花壇打合せ",
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[09:30〜] 空閑園芸様"
+        },
+        {
+          "role": "社長",
+          "text": "[10:00〜] 大林組　那須様・足立様"
+        },
+        {
+          "role": "社長",
+          "text": "[14:00〜] ニューオータニ大阪　貝田総支配人・眞鍋様"
+        }
+      ],
+      "arakawa": "9:30春夏花壇打合せ\n13：30セコム",
       "fujita": "9:30春夏花壇打合せ",
       "saitou": null,
       "yanari": "休",
@@ -6735,6 +6761,10 @@
         "藤田"
       ],
       "executives": [
+        {
+          "role": "社長",
+          "text": "[AM〜] 外出"
+        },
         {
           "role": "社長",
           "text": "PMT"
@@ -6760,6 +6790,10 @@
         {
           "role": "社長",
           "text": "PMT"
+        },
+        {
+          "role": "社長",
+          "text": "[16:00〜] 多々良DM・他3名"
         }
       ],
       "arakawa": "休→出",
@@ -6853,7 +6887,7 @@
           "text": "御殿場AC　JAL300 福岡7：00-羽田8：30　こだま813 品川9：34-三島10：20/こだま834 三島17：24-品川18：10　ANA321 羽田19：40-富山20：40"
         }
       ],
-      "arakawa": "AM退去立会",
+      "arakawa": "11:00退去立会",
       "fujita": "休",
       "saitou": null,
       "yanari": "休",
@@ -7018,7 +7052,7 @@
           "text": "横浜AC　JAL304　福岡8：20-羽田9：50/JAL 325羽田15：50-福岡17：55"
         }
       ],
-      "arakawa": null,
+      "arakawa": "MJR決済",
       "fujita": "休",
       "saitou": "休",
       "yanari": null,
@@ -7031,7 +7065,12 @@
       "common": null,
       "yasui": "休",
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[10:00〜13:00] 外出"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
@@ -7243,7 +7282,7 @@
     {
       "date": "2026-12-23",
       "weekday": "水",
-      "common": null,
+      "common": "そば処　空調清掃",
       "yasui": null,
       "holidays": [],
       "executives": [],
@@ -7274,7 +7313,12 @@
       "common": null,
       "yasui": null,
       "holidays": [],
-      "executives": [],
+      "executives": [
+        {
+          "role": "社長",
+          "text": "[11:00〜] JTB　川久保部長・今村様"
+        }
+      ],
       "arakawa": null,
       "fujita": null,
       "saitou": null,
